@@ -1,0 +1,36 @@
+name: Generator
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * *'
+jobs:
+  generator:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: auto generator
+        run: |
+          bash download.sh
+          export SYNC_DIR=skopeo
+          /tmp/repos
+      - uses: peter-evans/create-pull-request@v5
+        with:
+          title: 'workflow: Automated Workflow Update for ${{steps.get-current-tag.outputs.tag }}'
+          body: |
+            Automated changes by [create-pull-request](https://github.com/peter-evans/create-pull-request) GitHub action
+          commit-message: |
+            🤖 add workflow change for images.
+          branch: workflow
+          base: main
+          signoff: true
+          delete-branch: true
+          token: ${{ secrets.GH_PAT }}
+          reviewers: cuisongliu
+          branch-suffix: short-commit-hash
+          labels: sync-images
+          committer: sealos-ci-robot <sealos-ci-robot@sealos.io>
+          author: sealos-ci-robot <sealos-ci-robot@sealos.io>
