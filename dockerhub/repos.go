@@ -18,25 +18,21 @@ package dockerhub
 
 import (
 	"encoding/json"
-	"fmt"
 	"github.com/cuisongliu/logger"
 	"strings"
 )
 
 type RepoInfo struct {
-	Name     string   `json:"name"`
-	Versions []string `json:"versions"`
-	Filter   string   `json:"filter"`
+	Rootfs []string
+	Sealos []string
+	Apps   []string
 }
 
-type RepoInfoList struct {
-	Repos      []RepoInfo `json:"repos"`
-	ByTagRegex bool
-}
+type RepoVersionMap map[string][]string
 
 var specialRepos = []string{"kubernetes", "kubernetes-crio", "kubernetes-docker"}
 
-func fetchDockerHubAllRepo() (map[string]RepoInfoList, error) {
+func fetchDockerHubAllRepo() (*RepoInfo, error) {
 	type Repo struct {
 		Name string `json:"name"`
 	}
@@ -45,12 +41,13 @@ func fetchDockerHubAllRepo() (map[string]RepoInfoList, error) {
 		Results []Repo `json:"results"`
 		Next    string `json:"next"`
 	}
-
 	fetchURL := "https://hub.docker.com/v2/repositories/labring?page_size=10"
-
-	versions := make(map[string]RepoInfoList)
+	versions := &RepoInfo{
+		Rootfs: make([]string, 0),
+		Sealos: make([]string, 0),
+		Apps:   make([]string, 0),
+	}
 	if err := Retry(func() error {
-		index := 0
 		for fetchURL != "" {
 			logger.Debug("fetch dockerhub url: %s", fetchURL)
 			data, err := Request(fetchURL, "GET", []byte(""), 0)
@@ -61,41 +58,19 @@ func fetchDockerHubAllRepo() (map[string]RepoInfoList, error) {
 			if err = json.Unmarshal(data, &repositories); err != nil {
 				return err
 			}
-			newRepos := make([]RepoInfo, 0)
 			for _, repo := range repositories.Results {
 				if stringInSlice(repo.Name, specialRepos) {
-					versions[repo.Name] = RepoInfoList{
-						Repos: []RepoInfo{
-							{Name: repo.Name, Filter: "^v(1\\.2[0-9]\\.[1-9]?[0-9]?)(\\.)?$"},
-						},
-						ByTagRegex: true,
-					}
+					versions.Rootfs = append(versions.Rootfs, repo.Name)
 				} else if strings.HasPrefix(repo.Name, "sealos") {
 					if strings.HasPrefix(repo.Name, "sealos-cloud") || repo.Name == "sealos" || repo.Name == "sealos-patch" {
-						versions[repo.Name] = RepoInfoList{
-							Repos: []RepoInfo{
-								{Name: repo.Name, Filter: "^v.*"},
-							},
-							ByTagRegex: true,
-						}
+						versions.Sealos = append(versions.Sealos, repo.Name)
 					}
-					//logger.Warn("sealos container image repo is deprecated, please use sealos cloud repo")
 				} else if strings.HasPrefix(repo.Name, "laf") {
-					versions[repo.Name] = RepoInfoList{
-						Repos: []RepoInfo{
-							{Name: repo.Name, Filter: "^v.*"},
-						},
-						ByTagRegex: true,
-					}
+					versions.Sealos = append(versions.Sealos, repo.Name)
 				} else {
-					newRepos = append(newRepos, RepoInfo{Name: repo.Name})
+					versions.Apps = append(versions.Apps, repo.Name)
 				}
 			}
-			versions[fmt.Sprintf("image-%d", index)] = RepoInfoList{
-				Repos:      newRepos,
-				ByTagRegex: false,
-			}
-			index++
 			fetchURL = repositories.Next
 		}
 		return nil

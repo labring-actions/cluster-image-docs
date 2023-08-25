@@ -23,32 +23,22 @@ import (
 
 func TestFetchDockerHubAllVersion(t *testing.T) {
 	logger.Cfg(true, false)
-	err := autoRemoveGenerator("../skopeo")
+	err := autoRemoveGenerator("../docs")
 	if err != nil {
 		t.Error(err)
 		return
 	}
-	err = autoRemoveGenerator("../.github/workflows")
-	if err != nil {
-		t.Error(err)
-		return
-	}
-	got, err := fetchDockerHubAllRepo()
-	if err != nil {
-		t.Error(err)
-		return
-	}
-	t.Log("get docker hub all repo success")
-	for k, v := range got {
-		err = generatorSyncFile("../skopeo", k, v)
-		if err != nil {
-			t.Errorf("generatorSyncFile %s error %s", k, err.Error())
-			continue
-		}
-		err = generatorWorkflowFile("../.github/workflows", "skopeo", k, nil)
-		if err != nil {
-			t.Errorf("generatorWorkflowFile %s error %s", k, err.Error())
-			continue
-		}
-	}
+	//got, err := fetchDockerHubAllRepo()
+	//if err != nil {
+	//	t.Error(err)
+	//	return
+	//}
+	//t.Log("get docker hub all repo success")
+	//for k, v := range got {
+	//	err = generatorSyncFile("../docs", k, v)
+	//	if err != nil {
+	//		t.Errorf("generatorSyncFile %s error %s", k, err.Error())
+	//		continue
+	//	}
+	//}
 }

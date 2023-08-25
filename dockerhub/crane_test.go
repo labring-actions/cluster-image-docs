@@ -17,13 +17,12 @@ limitations under the License.
 package dockerhub
 
 import (
+	"context"
 	"testing"
 )
 
-func Test_getCIRun(t *testing.T) {
-	data, err := getCIRun("../.cirun.yml")
-	if err != nil {
-		t.Fatal(err)
-	}
-	t.Log(data)
+func Test_list(t *testing.T) {
+	tags, err := list(context.TODO(), "labring/helm", skipPlatform)
+	t.Logf("%+v", tags)
+	t.Logf("%+v", err)
 }

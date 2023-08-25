@@ -15,7 +15,7 @@ jobs:
       - name: auto generator
         run: |
           bash download.sh
-          export SYNC_DIR=skopeo
+          export SYNC_DIR=docs
           /tmp/repos
       - uses: peter-evans/create-pull-request@v5
         with:

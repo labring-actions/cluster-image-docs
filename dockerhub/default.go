@@ -17,10 +17,7 @@ limitations under the License.
 package dockerhub
 
 import (
-	"context"
-	"fmt"
 	"github.com/cuisongliu/logger"
-	"golang.org/x/sync/errgroup"
 	"os"
 )
 
@@ -32,50 +29,35 @@ func Do() {
 		return
 	}
 	logger.Info("using syncDir %s", syncDir)
-	workflowDir := ".github/workflows"
 	err := autoRemoveGenerator(syncDir)
 	if err != nil {
 		logger.Fatal("autoRemoveGenerator sync config error %s", err.Error())
 		return
 	}
-	err = autoRemoveGenerator(workflowDir)
-	if err != nil {
-		logger.Fatal("autoRemoveGenerator workflow config error %s", err.Error())
-		return
-	}
-	got, err := fetchDockerHubAllRepo()
+	_, err = fetchDockerHubAllRepo()
 	if err != nil {
 		logger.Fatal("fetchDockerHubAllRepo error %s", err.Error())
 		return
 	}
-	data, err := getCIRun(".cirun.yml")
-	if err != nil {
-		logger.Fatal("getCIRun error %s", err.Error())
-		return
-	}
 	logger.Info("get docker hub all repo success")
+	//g, _ := errgroup.WithContext(context.Background())
 
-	g, _ := errgroup.WithContext(context.Background())
-
-	for k, v := range got {
-		// Capture the range variables.
-		k, v := k, v
-		g.Go(func() error {
-			if len(v.Repos) == 0 {
-				return nil
-			}
-			if err = generatorSyncFile(syncDir, k, v); err != nil {
-				return fmt.Errorf("generatorSyncFile %s error: %w", k, err)
-			}
-			if err = generatorWorkflowFile(workflowDir, syncDir, k, data); err != nil {
-				return fmt.Errorf("generatorWorkflowFile %s error: %w", k, err)
-			}
-			return nil
-		})
-	}
-
-	// Wait for all goroutines to finish and return the first error.
-	if err = g.Wait(); err != nil {
-		logger.Fatal(err.Error())
-	}
+	//for k, v := range got {
+	//	// Capture the range variables.
+	//	k, v := k, v
+	//	g.Go(func() error {
+	//		if len(v.Repos) == 0 {
+	//			return nil
+	//		}
+	//		if err = generatorSyncFile(syncDir, k, v); err != nil {
+	//			return fmt.Errorf("generatorSyncFile %s error: %w", k, err)
+	//		}
+	//		return nil
+	//	})
+	//}
+	//
+	//// Wait for all goroutines to finish and return the first error.
+	//if err = g.Wait(); err != nil {
+	//	logger.Fatal(err.Error())
+	//}
 }
