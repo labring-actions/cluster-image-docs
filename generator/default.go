@@ -64,7 +64,7 @@ func Do() {
 		goRunData[markdown.Apps] = got.Apps
 	}
 
-	if err = markdown.NewReadme().Generator(syncDir); err != nil {
+	if err = markdown.NewReadme(syncHub).Generator(syncDir); err != nil {
 		logger.Fatal("markdown.NewReadme().Generator error %s", err.Error())
 		return
 	}
