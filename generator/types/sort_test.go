@@ -14,18 +14,41 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-package dockerhub
+package types
 
-import (
-	"github.com/cenkalti/backoff/v4"
-	"time"
-)
+import "testing"
 
-func Retry(fn func() error) error {
-	// 设置重试策略
-	exponentialBackoff := backoff.NewExponentialBackOff()
-	exponentialBackoff.MaxElapsedTime = 15 * time.Second
-	return backoff.Retry(func() error {
-		return fn()
-	}, exponentialBackoff)
+func TestSort(t *testing.T) {
+	type args struct {
+		list []string
+	}
+	tests := []struct {
+		name string
+		args args
+	}{
+		{
+			name: "test1",
+			args: args{
+				list: []string{"v1.1.1", "latest"},
+			},
+		},
+		{
+			name: "test1",
+			args: args{
+				list: []string{"v1.1.1", "latest", "v1.2.3"},
+			},
+		},
+		{
+			name: "test1",
+			args: args{
+				list: []string{"latest", "v1.1.1", "v1.2.3"},
+			},
+		},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			Sort(tt.args.list)
+			t.Log(tt.args.list)
+		})
+	}
 }

@@ -14,10 +14,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-package main
+package markdown
 
-import "github.com/labring-actions/repos/generator"
-
-func main() {
-	generator.Do()
+type Template interface {
+	Generator(dir string) error
 }

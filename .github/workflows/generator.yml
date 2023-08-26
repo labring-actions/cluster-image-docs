@@ -12,10 +12,16 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - name: auto generator
+      - name: auto generator by dockerhub
         run: |
           bash download.sh
-          export SYNC_DIR=docs
+          export SYNC_DIR=docs/docker
+          export SYNC_HUB=docker.io/labring
+          /tmp/repos
+      - name: auto generator by aliyun
+        run: |
+          export SYNC_DIR=docs/aliyun-hk
+          export SYNC_HUB=registry.cn-hongkong.aliyuncs.com/labring
           /tmp/repos
       - uses: peter-evans/create-pull-request@v5
         with:

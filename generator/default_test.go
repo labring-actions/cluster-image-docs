@@ -14,10 +14,17 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-package main
+package generator
 
-import "github.com/labring-actions/repos/generator"
+import (
+	"os"
+	"testing"
+)
 
-func main() {
-	generator.Do()
+func TestDo(t *testing.T) {
+	os.Setenv("SYNC_DIR", "docs/docker")
+	os.Setenv("SYNC_HUB", "docker.io/labring")
+	Do()
+	os.Unsetenv("SYNC_DIR")
+	os.Unsetenv("SYNC_HUB")
 }

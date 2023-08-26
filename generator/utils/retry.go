@@ -14,15 +14,18 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-package dockerhub
+package utils
 
 import (
-	"context"
-	"testing"
+	"github.com/cenkalti/backoff/v4"
+	"time"
 )
 
-func Test_list(t *testing.T) {
-	tags, err := list(context.TODO(), "labring/helm", skipPlatform)
-	t.Logf("%+v", tags)
-	t.Logf("%+v", err)
+func Retry(fn func() error) error {
+	// 设置重试策略
+	exponentialBackoff := backoff.NewExponentialBackOff()
+	exponentialBackoff.MaxElapsedTime = 15 * time.Second
+	return backoff.Retry(func() error {
+		return fn()
+	}, exponentialBackoff)
 }

@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-package dockerhub
+package registry
 
 import (
 	"context"
@@ -23,17 +23,18 @@ import (
 	"github.com/google/go-containerregistry/pkg/name"
 	"github.com/google/go-containerregistry/pkg/v1/remote"
 	"golang.org/x/mod/semver"
+	"sort"
 	"strings"
 )
 
-func skipPlatform(tag string) bool {
+func SkipPlatform(tag string) bool {
 	if strings.HasSuffix(tag, "arm64") || strings.HasSuffix(tag, "amd64") {
 		return false
 	}
 	return true
 }
 
-func list(ctx context.Context, src string, filter func(tag string) bool) ([]string, error) {
+func ListTags(ctx context.Context, src string, filter func(tag string) bool) ([]string, error) {
 	options := make([]crane.Option, 0)
 	o := crane.GetOptions(options...)
 
@@ -68,5 +69,6 @@ func list(ctx context.Context, src string, filter func(tag string) bool) ([]stri
 		}
 	}
 	semver.Sort(versions)
+	sort.Sort(sort.Reverse(semver.ByVersion(versions)))
 	return versions, nil
 }

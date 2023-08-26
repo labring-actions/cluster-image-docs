@@ -14,10 +14,15 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-package main
+package registry
 
-import "github.com/labring-actions/repos/generator"
+import (
+	"context"
+	"testing"
+)
 
-func main() {
-	generator.Do()
+func Test_list(t *testing.T) {
+	tags, err := ListTags(context.TODO(), "labring/helm", SkipPlatform)
+	t.Logf("%+v", tags)
+	t.Logf("%+v", err)
 }

@@ -14,31 +14,16 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-package dockerhub
+package types
 
-import (
-	"github.com/cuisongliu/logger"
-	"testing"
-)
+type RepoInfo struct {
+	Rootfs []ImageInfo
+	Sealos []ImageInfo
+	Laf    []ImageInfo
+	Apps   []ImageInfo
+}
 
-func TestFetchDockerHubAllVersion(t *testing.T) {
-	logger.Cfg(true, false)
-	err := autoRemoveGenerator("../docs")
-	if err != nil {
-		t.Error(err)
-		return
-	}
-	//got, err := fetchDockerHubAllRepo()
-	//if err != nil {
-	//	t.Error(err)
-	//	return
-	//}
-	//t.Log("get docker hub all repo success")
-	//for k, v := range got {
-	//	err = generatorSyncFile("../docs", k, v)
-	//	if err != nil {
-	//		t.Errorf("generatorSyncFile %s error %s", k, err.Error())
-	//		continue
-	//	}
-	//}
+type ImageInfo struct {
+	Name string
+	Tags []string
 }
