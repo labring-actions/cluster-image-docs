@@ -19,8 +19,8 @@ package generator
 import (
 	"context"
 	"github.com/cuisongliu/logger"
-	"github.com/labring-actions/repos/generator/markdown"
-	"github.com/labring-actions/repos/generator/types"
+	"github.com/labring-actions/cluster-image-docs/generator/markdown"
+	"github.com/labring-actions/cluster-image-docs/generator/types"
 	"golang.org/x/sync/errgroup"
 	"os"
 	"path/filepath"

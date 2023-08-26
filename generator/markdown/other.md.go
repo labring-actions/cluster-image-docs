@@ -18,7 +18,7 @@ package markdown
 
 import (
 	"github.com/cuisongliu/logger"
-	"github.com/labring-actions/repos/generator/types"
+	"github.com/labring-actions/cluster-image-docs/generator/types"
 	"html/template"
 	"os"
 	"path"

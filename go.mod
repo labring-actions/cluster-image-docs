@@ -1,4 +1,4 @@
-module github.com/labring-actions/repos
+module github.com/labring-actions/cluster-image-docs
 
 go 1.20
 

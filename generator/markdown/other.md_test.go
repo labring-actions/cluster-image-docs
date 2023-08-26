@@ -17,7 +17,7 @@ limitations under the License.
 package markdown
 
 import (
-	"github.com/labring-actions/repos/generator/types"
+	"github.com/labring-actions/cluster-image-docs/generator/types"
 	"testing"
 )
 

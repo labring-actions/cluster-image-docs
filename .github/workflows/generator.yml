@@ -17,12 +17,12 @@ jobs:
           bash download.sh
           export SYNC_DIR=docs/docker
           export SYNC_HUB=docker.io/labring
-          /tmp/repos
+          /tmp/cluster-image-docs
       - name: auto generator by aliyun
         run: |
           export SYNC_DIR=docs/aliyun-hk
           export SYNC_HUB=registry.cn-hongkong.aliyuncs.com/labring
-          /tmp/repos
+          /tmp/cluster-image-docs
       - uses: peter-evans/create-pull-request@v5
         with:
           title: 'workflow: Automated Workflow Update for ${{steps.get-current-tag.outputs.tag }}'
@@ -37,6 +37,6 @@ jobs:
           token: ${{ secrets.GH_PAT }}
           reviewers: cuisongliu
           branch-suffix: short-commit-hash
-          labels: sync-images
+          labels: sync-docs
           committer: sealos-ci-robot <sealos-ci-robot@sealos.io>
           author: sealos-ci-robot <sealos-ci-robot@sealos.io>

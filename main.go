@@ -16,7 +16,7 @@ limitations under the License.
 
 package main
 
-import "github.com/labring-actions/repos/generator"
+import "github.com/labring-actions/cluster-image-docs/generator"
 
 func main() {
 	generator.Do()
