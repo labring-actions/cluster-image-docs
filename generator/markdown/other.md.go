@@ -31,7 +31,7 @@ Here are the versions of the images along with their corresponding links:
 {{range .Data}}{{ $data := . }}
 ### {{ $data.Name }}
 
-{{range .Tags}}- [{{ $repo }}/{{$data.Name }}:{{ . }}](https://explore.ggcr.dev/?image={{$registry}}/{{$repo}}/{{ $data.Name }}:{{ . }})
+{{range .Tags}}- [{{$registry}}/{{ $repo }}/{{$data.Name }}:{{ . }}](https://explore.ggcr.dev/?image={{$registry}}/{{$repo}}/{{ $data.Name }}:{{ . }})
 {{end}}
 {{end}}
 `

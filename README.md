@@ -9,14 +9,14 @@ Welcome to the Cluster Image Documentation repository! This repository contains 
 - [Rootfs Image](docs/docker/rootfs.md)
 - [Sealos Image](docs/docker/sealos.md)
 - [Laf Image](docs/docker/laf.md)
-- [App Image](docs/docker/app.md)
+- [App Image](docs/docker/apps.md)
 
 ### Aliyun HK Images
 
 - [Rootfs Image](docs/aliyun-hk/rootfs.md)
 - [Sealos Image](docs/aliyun-hk/sealos.md)
 - [Laf Image](docs/aliyun-hk/laf.md)
-- [App Image](docs/aliyun-hk/app.md)
+- [App Image](docs/aliyun-hk/apps.md)
 
 Please navigate to the above links to access the detailed documentation for each image category.
 

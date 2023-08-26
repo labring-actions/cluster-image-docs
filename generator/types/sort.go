@@ -42,3 +42,15 @@ func (vs ByLatest) Less(i, j int) bool {
 func Sort(list []string) {
 	sort.Sort(ByLatest(list))
 }
+
+type ByImageInfo []ImageInfo
+
+func (vs ByImageInfo) Len() int      { return len(vs) }
+func (vs ByImageInfo) Swap(i, j int) { vs[i], vs[j] = vs[j], vs[i] }
+func (vs ByImageInfo) Less(i, j int) bool {
+	return vs[i].Name < vs[j].Name
+}
+
+func SortByImageInfo(list []ImageInfo) {
+	sort.Sort(ByImageInfo(list))
+}
