@@ -1,17 +1,25 @@
-# sync-aliyun
-auto sync images to aliyun
+# Cluster Image Documentation
 
-set vars for action 
+Welcome to the Cluster Image Documentation repository! This repository contains documentation for various cluster images. Each image documentation can be found in its respective subdirectory.
 
-- A_REGISTRY_USERNAME: login user cuisongliu@1186388767322904
-- A_REGISTRY_NAME: registry addr  registry.cn-hongkong.aliyuncs.com
-- A_REGISTRY_REPOSITORY: registry repo cuisongliu-labring
+## Available Image Documentation
 
-set secret for action:
+### Docker Images
 
-- A_REGISTRY_TOKEN: registry password
-- GH_PAT: auto commit pr to github
+- [Rootfs Image](docs/docker/rootfs.md)
+- [Sealos Image](docs/docker/sealos.md)
+- [Laf Image](docs/docker/laf.md)
+- [App Image](docs/docker/app.md)
 
-经过测试sync两个600M镜像大概50s
+### Aliyun HK Images
 
-修改 generator的`reviewers: cuisongliu` 改成对应的reviewer
+- [Rootfs Image](docs/aliyun-hk/rootfs.md)
+- [Sealos Image](docs/aliyun-hk/sealos.md)
+- [Laf Image](docs/aliyun-hk/laf.md)
+- [App Image](docs/aliyun-hk/app.md)
+
+Please navigate to the above links to access the detailed documentation for each image category.
+
+## Contributing
+
+If you would like to contribute to the documentation or make improvements, you can fork this repository, make your changes, and submit a pull request.
