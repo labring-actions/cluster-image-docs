@@ -58,6 +58,10 @@ func Do() {
 	logger.Info("get docker hub all repo success")
 	goRunData := make(map[markdown.Type][]types.ImageInfo)
 	if got != nil {
+		types.SortByImageInfo(got.Rootfs)
+		types.SortByImageInfo(got.Sealos)
+		types.SortByImageInfo(got.Laf)
+		types.SortByImageInfo(got.Apps)
 		goRunData[markdown.Rootfs] = got.Rootfs
 		goRunData[markdown.Sealos] = got.Sealos
 		goRunData[markdown.Laf] = got.Laf

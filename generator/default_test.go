@@ -22,7 +22,7 @@ import (
 )
 
 func TestDo(t *testing.T) {
-	os.Setenv("SYNC_DIR", "docs/docker")
+	os.Setenv("SYNC_DIR", "../tmp")
 	os.Setenv("SYNC_HUB", "docker.io/labring")
 	Do()
 	os.Unsetenv("SYNC_DIR")
