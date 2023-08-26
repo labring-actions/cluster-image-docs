@@ -4,7 +4,7 @@ Welcome to the Cluster Image Documentation repository! This repository contains 
 
 ## Available Image Documentation
 
-### Docker Images
+### Docker Hub Images
 
 - [Rootfs Image](docs/docker/rootfs.md)
 - [Sealos Image](docs/docker/sealos.md)
