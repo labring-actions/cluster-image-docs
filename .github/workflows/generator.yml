@@ -20,8 +20,8 @@ jobs:
           /tmp/cluster-image-docs
       - name: auto generator by aliyun
         run: |
-          export SYNC_DIR=docs/aliyun-hk
-          export SYNC_HUB=registry.cn-hongkong.aliyuncs.com/labring
+          export SYNC_DIR=docs/aliyun-shanghai
+          export SYNC_HUB=registry.cn-shanghai.aliyuncs.com/labring
           /tmp/cluster-image-docs
       - uses: peter-evans/create-pull-request@v5
         with:
