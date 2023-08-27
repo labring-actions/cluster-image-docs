@@ -4,10 +4,34 @@ Here are the versions of the images along with their corresponding links:
 
 ### sealos
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos:v5.0.0-alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v5.0.0-alpha1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.3.1-rc2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.3.1-rc2)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.3.1-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.3.1-rc1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.3.0-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.3.0-rc1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc6)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc5)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc4)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc3)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.1.4-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.1.4-rc1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.1.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.1.3)
 
 
 ### sealos-cloud
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v5.0.0-alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v5.0.0-alpha1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v4.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v4.3.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v4.3.0-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v4.3.0-rc1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v4.2.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v4.2.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v4.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v4.2.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v4.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v4.2.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v4.2.1-rc6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v4.2.1-rc6)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v4.2.1-rc5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v4.2.1-rc5)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v4.2.1-rc4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v4.2.1-rc4)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v4.2.1-rc3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v4.2.1-rc3)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v1alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud:v1alpha1)
 
 
 ### sealos-cloud-account-controller
@@ -29,7 +53,14 @@ Here are the versions of the images along with their corresponding links:
 ### sealos-cloud-adminer-frontend
 
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v5.0.0-alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v5.0.0-alpha1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v4.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v4.3.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v4.3.0-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v4.3.0-rc1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v4.2.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v4.2.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v4.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v4.2.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v4.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v4.2.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v4.2.1-rc6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v4.2.1-rc6)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v4.2.1-rc5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v4.2.1-rc5)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v4.2.1-rc4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v4.2.1-rc4)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v4.2.1-rc3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v4.2.1-rc3)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v1alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:v1alpha1)
@@ -37,6 +68,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### sealos-cloud-admission-controller
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-admission-controller:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-admission-controller:latest)
 
 
 ### sealos-cloud-app-controller
@@ -57,11 +89,27 @@ Here are the versions of the images along with their corresponding links:
 
 ### sealos-cloud-applaunchpad-frontend
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v5.0.0-alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v5.0.0-alpha1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v4.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v4.3.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v4.3.0-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v4.3.0-rc1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v4.2.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v4.2.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v4.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v4.2.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v4.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v4.2.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v4.2.1-rc6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v4.2.1-rc6)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v4.2.1-rc5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v4.2.1-rc5)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v4.2.1-rc4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v4.2.1-rc4)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v4.2.1-rc3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v4.2.1-rc3)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v1alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-applaunchpad-frontend:v1alpha1)
 
 
 ### sealos-cloud-auth-service
 
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-auth-service:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-auth-service:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-auth-service:v5.0.0-alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-auth-service:v5.0.0-alpha1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-auth-service:v4.3.0-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-auth-service:v4.3.0-rc1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-auth-service:v4.2.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-auth-service:v4.2.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-auth-service:v4.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-auth-service:v4.2.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-auth-service:v4.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-auth-service:v4.2.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-auth-service:v4.2.1-rc6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-auth-service:v4.2.1-rc6)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-auth-service:v4.2.1-rc5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-auth-service:v4.2.1-rc5)
@@ -71,6 +119,18 @@ Here are the versions of the images along with their corresponding links:
 
 ### sealos-cloud-bytebase-frontend
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v5.0.0-alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v5.0.0-alpha1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v4.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v4.3.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v4.3.0-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v4.3.0-rc1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v4.2.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v4.2.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v4.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v4.2.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v4.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v4.2.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v4.2.1-rc6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v4.2.1-rc6)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v4.2.1-rc5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v4.2.1-rc5)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v4.2.1-rc4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v4.2.1-rc4)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v4.2.1-rc3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v4.2.1-rc3)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v1alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-bytebase-frontend:v1alpha1)
 
 
 ### sealos-cloud-cloud-controller
@@ -141,16 +201,44 @@ Here are the versions of the images along with their corresponding links:
 
 ### sealos-cloud-dbprovider-frontend
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-dbprovider-frontend:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-dbprovider-frontend:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-dbprovider-frontend:v5.0.0-alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-dbprovider-frontend:v5.0.0-alpha1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-dbprovider-frontend:v4.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-dbprovider-frontend:v4.3.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-dbprovider-frontend:v4.3.0-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-dbprovider-frontend:v4.3.0-rc1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-dbprovider-frontend:v4.2.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-dbprovider-frontend:v4.2.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-dbprovider-frontend:v4.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-dbprovider-frontend:v4.2.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-dbprovider-frontend:v4.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-dbprovider-frontend:v4.2.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-dbprovider-frontend:v4.2.1-rc6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-dbprovider-frontend:v4.2.1-rc6)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-dbprovider-frontend:v1alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-dbprovider-frontend:v1alpha1)
 
 
 ### sealos-cloud-desktop-frontend
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v5.0.0-alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v5.0.0-alpha1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v4.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v4.3.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v4.3.0-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v4.3.0-rc1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v4.2.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v4.2.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v4.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v4.2.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v4.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v4.2.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v4.2.1-rc6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v4.2.1-rc6)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v4.2.1-rc5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v4.2.1-rc5)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v4.2.1-rc4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v4.2.1-rc4)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v4.2.1-rc3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v4.2.1-rc3)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v1alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-desktop-frontend:v1alpha1)
 
 
 ### sealos-cloud-imagehub-controller
 
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v5.0.0-alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v5.0.0-alpha1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v4.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v4.3.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v4.3.0-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v4.3.0-rc1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v4.2.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v4.2.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v4.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v4.2.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v4.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v4.2.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v4.2.1-rc6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v4.2.1-rc6)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v4.2.1-rc5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v4.2.1-rc5)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v4.2.1-rc4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v4.2.1-rc4)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v4.2.1-rc3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v4.2.1-rc3)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v1alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:v1alpha1)
@@ -175,6 +263,11 @@ Here are the versions of the images along with their corresponding links:
 ### sealos-cloud-infra-controller
 
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:v5.0.0-alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:v5.0.0-alpha1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:v4.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:v4.3.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:v4.3.0-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:v4.3.0-rc1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:v4.2.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:v4.2.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:v4.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:v4.2.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:v4.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:v4.2.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:v4.2.1-rc6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:v4.2.1-rc6)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:v4.2.1-rc5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:v4.2.1-rc5)
@@ -190,22 +283,52 @@ Here are the versions of the images along with their corresponding links:
 
 ### sealos-cloud-metering-controller
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v5.0.0-alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v5.0.0-alpha1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v4.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v4.3.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v4.3.0-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v4.3.0-rc1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v4.2.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v4.2.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v4.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v4.2.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v4.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v4.2.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v4.2.1-rc6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v4.2.1-rc6)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v4.2.1-rc5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v4.2.1-rc5)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v4.2.1-rc4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v4.2.1-rc4)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v4.2.1-rc3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v4.2.1-rc3)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v1alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-metering-controller:v1alpha1)
 
 
 ### sealos-cloud-node-controller
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-node-controller:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-node-controller:latest)
 
 
 ### sealos-cloud-resources-controller
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-controller:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-controller:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-controller:v5.0.0-alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-controller:v5.0.0-alpha1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-controller:v4.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-controller:v4.3.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-controller:v4.3.0-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-controller:v4.3.0-rc1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-controller:v4.2.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-controller:v4.2.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-controller:v4.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-controller:v4.2.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-controller:v4.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-controller:v4.2.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-controller:v1alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-controller:v1alpha1)
 
 
 ### sealos-cloud-resources-metering-controller
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-metering-controller:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-metering-controller:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-metering-controller:v5.0.0-alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-metering-controller:v5.0.0-alpha1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-metering-controller:v4.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-metering-controller:v4.3.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-metering-controller:v4.3.0-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-metering-controller:v4.3.0-rc1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-metering-controller:v4.2.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-metering-controller:v4.2.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-metering-controller:v4.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-metering-controller:v4.2.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-metering-controller:v4.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-metering-controller:v4.2.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-metering-controller:v1alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-resources-metering-controller:v1alpha1)
 
 
 ### sealos-cloud-template-frontend
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-template-frontend:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-template-frontend:latest)
 
 
 ### sealos-cloud-terminal-controller
@@ -242,7 +365,9 @@ Here are the versions of the images along with their corresponding links:
 ### sealos-cloud-user-controller
 
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-user-controller:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-user-controller:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-user-controller:v5.0.0-alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-user-controller:v5.0.0-alpha1)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-user-controller:v4.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-user-controller:v4.3.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-user-controller:v4.3.0-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-user-controller:v4.3.0-rc1)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-user-controller:v4.2.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-user-controller:v4.2.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-user-controller:v4.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-user-controller:v4.2.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-user-controller:v4.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-user-controller:v4.2.1)
