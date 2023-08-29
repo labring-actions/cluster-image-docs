@@ -536,6 +536,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/kubeblocks:v0.5.3](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.5.3)
 
 
+### kubectl-df-pv
+
+- [docker.io/labring/kubectl-df-pv:v0.3.0](https://explore.ggcr.dev/?image=docker.io/labring/kubectl-df-pv:v0.3.0)
+
+
 ### kubegems
 
 - [docker.io/labring/kubegems:v1.22.2](https://explore.ggcr.dev/?image=docker.io/labring/kubegems:v1.22.2)
