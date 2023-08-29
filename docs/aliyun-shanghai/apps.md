@@ -536,6 +536,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.5.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.5.3)
 
 
+### kubectl-df-pv
+
+
+
 ### kubegems
 
 - [registry.cn-shanghai.aliyuncs.com/labring/kubegems:v1.22.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubegems:v1.22.2)
