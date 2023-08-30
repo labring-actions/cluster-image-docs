@@ -145,6 +145,7 @@ Here are the versions of the images along with their corresponding links:
 
 - [docker.io/labring/cilium:v1.13.4](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.13.4)
 - [docker.io/labring/cilium:v1.13.0](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.13.0)
+- [docker.io/labring/cilium:v1.12.13](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.12.13)
 - [docker.io/labring/cilium:v1.12.12](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.12.12)
 - [docker.io/labring/cilium:v1.12.11](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.12.11)
 - [docker.io/labring/cilium:v1.12.10](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.12.10)
@@ -299,6 +300,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### flannel
 
+- [docker.io/labring/flannel:v0.22.2](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.22.2)
 - [docker.io/labring/flannel:v0.22.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.22.1)
 - [docker.io/labring/flannel:v0.22.0](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.22.0)
 - [docker.io/labring/flannel:v0.21.5](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.21.5)
@@ -310,6 +312,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/flannel:v0.19.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.19.1)
 - [docker.io/labring/flannel:v0.19.0](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.19.0)
 - [docker.io/labring/flannel:v0.18.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.18.1)
+- [docker.io/labring/flannel:0.22.2](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.22.2)
 - [docker.io/labring/flannel:0.22.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.22.1)
 - [docker.io/labring/flannel:0.22.0](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.22.0)
 
@@ -532,6 +535,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### kubeblocks
 
+- [docker.io/labring/kubeblocks:v0.6.1](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.6.1)
 - [docker.io/labring/kubeblocks:v0.6.0](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.6.0)
 - [docker.io/labring/kubeblocks:v0.5.3](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.5.3)
 
