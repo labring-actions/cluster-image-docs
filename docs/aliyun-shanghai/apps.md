@@ -538,6 +538,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### kubectl-df-pv
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubectl-df-pv:v0.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubectl-df-pv:v0.3.0)
 
 
 ### kubegems

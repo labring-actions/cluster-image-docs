@@ -4,6 +4,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### kubernetes
 
+- [docker.io/labring/kubernetes:v1.28.1](https://explore.ggcr.dev/?image=docker.io/labring/kubernetes:v1.28.1)
+- [docker.io/labring/kubernetes:v1.28.1-4.3.2](https://explore.ggcr.dev/?image=docker.io/labring/kubernetes:v1.28.1-4.3.2)
 - [docker.io/labring/kubernetes:v1.28.0](https://explore.ggcr.dev/?image=docker.io/labring/kubernetes:v1.28.0)
 - [docker.io/labring/kubernetes:v1.28.0-4.3.2](https://explore.ggcr.dev/?image=docker.io/labring/kubernetes:v1.28.0-4.3.2)
 - [docker.io/labring/kubernetes:v1.28.0-4.3.0](https://explore.ggcr.dev/?image=docker.io/labring/kubernetes:v1.28.0-4.3.0)
@@ -1836,6 +1838,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### kubernetes-crio
 
+- [docker.io/labring/kubernetes-crio:v1.28.1](https://explore.ggcr.dev/?image=docker.io/labring/kubernetes-crio:v1.28.1)
+- [docker.io/labring/kubernetes-crio:v1.28.1-4.3.2](https://explore.ggcr.dev/?image=docker.io/labring/kubernetes-crio:v1.28.1-4.3.2)
 - [docker.io/labring/kubernetes-crio:v1.28.0](https://explore.ggcr.dev/?image=docker.io/labring/kubernetes-crio:v1.28.0)
 - [docker.io/labring/kubernetes-crio:v1.28.0-4.3.2](https://explore.ggcr.dev/?image=docker.io/labring/kubernetes-crio:v1.28.0-4.3.2)
 - [docker.io/labring/kubernetes-crio:v1.28.0-4.3.0](https://explore.ggcr.dev/?image=docker.io/labring/kubernetes-crio:v1.28.0-4.3.0)
@@ -2241,6 +2245,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### kubernetes-docker
 
+- [docker.io/labring/kubernetes-docker:v1.28.1](https://explore.ggcr.dev/?image=docker.io/labring/kubernetes-docker:v1.28.1)
+- [docker.io/labring/kubernetes-docker:v1.28.1-4.3.2](https://explore.ggcr.dev/?image=docker.io/labring/kubernetes-docker:v1.28.1-4.3.2)
 - [docker.io/labring/kubernetes-docker:v1.28.0](https://explore.ggcr.dev/?image=docker.io/labring/kubernetes-docker:v1.28.0)
 - [docker.io/labring/kubernetes-docker:v1.28.0-4.3.2](https://explore.ggcr.dev/?image=docker.io/labring/kubernetes-docker:v1.28.0-4.3.2)
 - [docker.io/labring/kubernetes-docker:v1.28.0-4.3.0](https://explore.ggcr.dev/?image=docker.io/labring/kubernetes-docker:v1.28.0-4.3.0)
