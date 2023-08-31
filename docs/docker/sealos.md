@@ -2,7 +2,7 @@
 
 Here are the versions of the images along with their corresponding links:
 
-### sealos
+### [sealos](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos:latest)
 - [docker.io/labring/sealos:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos:v5.0.0-alpha1)
@@ -18,7 +18,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos:v4.1.3](https://explore.ggcr.dev/?image=docker.io/labring/sealos:v4.1.3)
 
 
-### sealos-cloud
+### [sealos-cloud](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud:latest)
 - [docker.io/labring/sealos-cloud:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud:v5.0.0-alpha1)
@@ -34,7 +34,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud:v1alpha1)
 
 
-### sealos-cloud-account-controller
+### [sealos-cloud-account-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-account-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-account-controller:latest)
 - [docker.io/labring/sealos-cloud-account-controller:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-account-controller:v5.0.0-alpha1)
@@ -50,7 +50,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-account-controller:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-account-controller:v1alpha1)
 
 
-### sealos-cloud-adminer-frontend
+### [sealos-cloud-adminer-frontend](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-adminer-frontend:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-adminer-frontend:latest)
 - [docker.io/labring/sealos-cloud-adminer-frontend:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-adminer-frontend:v5.0.0-alpha1)
@@ -66,12 +66,12 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-adminer-frontend:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-adminer-frontend:v1alpha1)
 
 
-### sealos-cloud-admission-controller
+### [sealos-cloud-admission-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-admission-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-admission-controller:latest)
 
 
-### sealos-cloud-app-controller
+### [sealos-cloud-app-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-app-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-app-controller:latest)
 - [docker.io/labring/sealos-cloud-app-controller:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-app-controller:v5.0.0-alpha1)
@@ -87,7 +87,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-app-controller:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-app-controller:v1alpha1)
 
 
-### sealos-cloud-applaunchpad-frontend
+### [sealos-cloud-applaunchpad-frontend](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-applaunchpad-frontend:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-applaunchpad-frontend:latest)
 - [docker.io/labring/sealos-cloud-applaunchpad-frontend:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-applaunchpad-frontend:v5.0.0-alpha1)
@@ -103,7 +103,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-applaunchpad-frontend:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-applaunchpad-frontend:v1alpha1)
 
 
-### sealos-cloud-auth-service
+### [sealos-cloud-auth-service](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-auth-service:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-auth-service:latest)
 - [docker.io/labring/sealos-cloud-auth-service:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-auth-service:v5.0.0-alpha1)
@@ -117,7 +117,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-auth-service:v4.2.1-rc3](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-auth-service:v4.2.1-rc3)
 
 
-### sealos-cloud-bytebase-frontend
+### [sealos-cloud-bytebase-frontend](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-bytebase-frontend:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-bytebase-frontend:latest)
 - [docker.io/labring/sealos-cloud-bytebase-frontend:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-bytebase-frontend:v5.0.0-alpha1)
@@ -133,13 +133,13 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-bytebase-frontend:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-bytebase-frontend:v1alpha1)
 
 
-### sealos-cloud-cloud-controller
+### [sealos-cloud-cloud-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-cloud-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-cloud-controller:latest)
 - [docker.io/labring/sealos-cloud-cloud-controller:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-cloud-controller:v1alpha1)
 
 
-### sealos-cloud-cluster-controller
+### [sealos-cloud-cluster-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-cluster-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-cluster-controller:latest)
 - [docker.io/labring/sealos-cloud-cluster-controller:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-cluster-controller:v5.0.0-alpha1)
@@ -155,7 +155,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-cluster-controller:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-cluster-controller:v1alpha1)
 
 
-### sealos-cloud-costcenter-frontend
+### [sealos-cloud-costcenter-frontend](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-costcenter-frontend:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-costcenter-frontend:latest)
 - [docker.io/labring/sealos-cloud-costcenter-frontend:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-costcenter-frontend:v5.0.0-alpha1)
@@ -167,7 +167,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-costcenter-frontend:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-costcenter-frontend:v1alpha1)
 
 
-### sealos-cloud-db-adminer-controller
+### [sealos-cloud-db-adminer-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-db-adminer-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-db-adminer-controller:latest)
 - [docker.io/labring/sealos-cloud-db-adminer-controller:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-db-adminer-controller:v5.0.0-alpha1)
@@ -183,7 +183,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-db-adminer-controller:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-db-adminer-controller:v1alpha1)
 
 
-### sealos-cloud-db-bytebase-controller
+### [sealos-cloud-db-bytebase-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-db-bytebase-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-db-bytebase-controller:latest)
 - [docker.io/labring/sealos-cloud-db-bytebase-controller:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-db-bytebase-controller:v5.0.0-alpha1)
@@ -199,7 +199,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-db-bytebase-controller:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-db-bytebase-controller:v1alpha1)
 
 
-### sealos-cloud-dbprovider-frontend
+### [sealos-cloud-dbprovider-frontend](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-dbprovider-frontend:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-dbprovider-frontend:latest)
 - [docker.io/labring/sealos-cloud-dbprovider-frontend:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-dbprovider-frontend:v5.0.0-alpha1)
@@ -212,7 +212,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-dbprovider-frontend:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-dbprovider-frontend:v1alpha1)
 
 
-### sealos-cloud-desktop-frontend
+### [sealos-cloud-desktop-frontend](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-desktop-frontend:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-desktop-frontend:latest)
 - [docker.io/labring/sealos-cloud-desktop-frontend:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-desktop-frontend:v5.0.0-alpha1)
@@ -228,7 +228,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-desktop-frontend:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-desktop-frontend:v1alpha1)
 
 
-### sealos-cloud-imagehub-controller
+### [sealos-cloud-imagehub-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-imagehub-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-imagehub-controller:latest)
 - [docker.io/labring/sealos-cloud-imagehub-controller:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-imagehub-controller:v5.0.0-alpha1)
@@ -244,7 +244,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-imagehub-controller:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-imagehub-controller:v1alpha1)
 
 
-### sealos-cloud-imagehub-frontend
+### [sealos-cloud-imagehub-frontend](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-imagehub-frontend:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-imagehub-frontend:latest)
 - [docker.io/labring/sealos-cloud-imagehub-frontend:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-imagehub-frontend:v5.0.0-alpha1)
@@ -260,7 +260,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-imagehub-frontend:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-imagehub-frontend:v1alpha1)
 
 
-### sealos-cloud-infra-controller
+### [sealos-cloud-infra-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-infra-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-infra-controller:latest)
 - [docker.io/labring/sealos-cloud-infra-controller:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-infra-controller:v5.0.0-alpha1)
@@ -276,12 +276,12 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-infra-controller:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-infra-controller:v1alpha1)
 
 
-### sealos-cloud-licenseissuer-controller
+### [sealos-cloud-licenseissuer-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-licenseissuer-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-licenseissuer-controller:latest)
 
 
-### sealos-cloud-metering-controller
+### [sealos-cloud-metering-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-metering-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-metering-controller:latest)
 - [docker.io/labring/sealos-cloud-metering-controller:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-metering-controller:v5.0.0-alpha1)
@@ -297,12 +297,12 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-metering-controller:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-metering-controller:v1alpha1)
 
 
-### sealos-cloud-node-controller
+### [sealos-cloud-node-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-node-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-node-controller:latest)
 
 
-### sealos-cloud-resources-controller
+### [sealos-cloud-resources-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-resources-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-resources-controller:latest)
 - [docker.io/labring/sealos-cloud-resources-controller:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-resources-controller:v5.0.0-alpha1)
@@ -314,7 +314,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-resources-controller:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-resources-controller:v1alpha1)
 
 
-### sealos-cloud-resources-metering-controller
+### [sealos-cloud-resources-metering-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-resources-metering-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-resources-metering-controller:latest)
 - [docker.io/labring/sealos-cloud-resources-metering-controller:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-resources-metering-controller:v5.0.0-alpha1)
@@ -326,12 +326,12 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-resources-metering-controller:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-resources-metering-controller:v1alpha1)
 
 
-### sealos-cloud-template-frontend
+### [sealos-cloud-template-frontend](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-template-frontend:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-template-frontend:latest)
 
 
-### sealos-cloud-terminal-controller
+### [sealos-cloud-terminal-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-terminal-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-terminal-controller:latest)
 - [docker.io/labring/sealos-cloud-terminal-controller:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-terminal-controller:v5.0.0-alpha1)
@@ -347,7 +347,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-terminal-controller:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-terminal-controller:v1alpha1)
 
 
-### sealos-cloud-terminal-frontend
+### [sealos-cloud-terminal-frontend](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-terminal-frontend:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-terminal-frontend:latest)
 - [docker.io/labring/sealos-cloud-terminal-frontend:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-terminal-frontend:v5.0.0-alpha1)
@@ -362,7 +362,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-terminal-frontend:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-terminal-frontend:v1alpha1)
 
 
-### sealos-cloud-user-controller
+### [sealos-cloud-user-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-user-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-user-controller:latest)
 - [docker.io/labring/sealos-cloud-user-controller:v5.0.0-alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-user-controller:v5.0.0-alpha1)
@@ -378,7 +378,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-user-controller:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-user-controller:v1alpha1)
 
 
-### sealos-patch
+### [sealos-patch](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-patch:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-patch:latest)
 - [docker.io/labring/sealos-patch:v4.3.1-rc2](https://explore.ggcr.dev/?image=docker.io/labring/sealos-patch:v4.3.1-rc2)
