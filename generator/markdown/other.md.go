@@ -29,7 +29,7 @@ const otherTemplate = `# {{.Type}} Image Versions
 {{ $registry := .Registry }}{{ $repo := .Repo }}
 Here are the versions of the images along with their corresponding links:
 {{range .Data}}{{ $data := . }}
-### {{ $data.Name }}
+### [{{ $data.Name }}]({{$data.Url}})
 
 {{range .Tags}}- [{{$registry}}/{{ $repo }}/{{$data.Name }}:{{ . }}](https://explore.ggcr.dev/?image={{$registry}}/{{$repo}}/{{ $data.Name }}:{{ . }})
 {{end}}

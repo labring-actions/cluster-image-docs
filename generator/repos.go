@@ -29,7 +29,7 @@ import (
 	"sync"
 )
 
-var specialRepos = []string{"kubernetes", "kubernetes-crio", "kubernetes-docker"}
+var kubeRepos = []string{"kubernetes", "kubernetes-crio", "kubernetes-docker"}
 
 func fetchDockerHubAllRepo(registryRepoName string) (*types.RepoInfo, error) {
 	type Repo struct {
@@ -87,13 +87,21 @@ func fetchDockerHubAllRepo(registryRepoName string) (*types.RepoInfo, error) {
 						Tags: tags,
 					}
 
-					if utils.StringInSlice(repoName, specialRepos) {
+					if utils.StringInSlice(repoName, kubeRepos) {
+						info.Url = "https://github.com/kubernetes/kubernetes"
 						repos.Rootfs = append(repos.Rootfs, info)
 					} else if strings.HasPrefix(repoName, "sealos") {
+						info.Url = "https://github.com/labring/sealos"
 						repos.Sealos = append(repos.Sealos, info)
 					} else if strings.HasPrefix(repoName, "laf") {
+						info.Url = "https://github.com/labring/laf"
 						repos.Laf = append(repos.Laf, info)
 					} else {
+						if strings.HasPrefix(repoName, "docker-") {
+							info.Url = fmt.Sprintf("https://github.com/labring-actions/cluster-image/tree/main/dockerimages/%s", repoName)
+						} else {
+							info.Url = fmt.Sprintf("https://github.com/labring-actions/cluster-image/tree/main/applications/%s", repoName)
+						}
 						repos.Apps = append(repos.Apps, info)
 					}
 					return nil

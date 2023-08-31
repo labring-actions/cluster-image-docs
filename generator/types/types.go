@@ -25,5 +25,6 @@ type RepoInfo struct {
 
 type ImageInfo struct {
 	Name string
+	Url  string
 	Tags []string
 }
