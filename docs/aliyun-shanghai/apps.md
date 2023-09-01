@@ -293,6 +293,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.1.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.1.1)
 
 
+### [enovy-gateway](https://github.com/labring-actions/cluster-image/tree/main/applications/enovy-gateway)
+
+
+
 ### [etcdctl](https://github.com/labring-actions/cluster-image/tree/main/applications/etcdctl)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/etcdctl:v3.5.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/etcdctl:v3.5.6)
