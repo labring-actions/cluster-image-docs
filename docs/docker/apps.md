@@ -293,6 +293,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/endpoints-operator:v0.1.1](https://explore.ggcr.dev/?image=docker.io/labring/endpoints-operator:v0.1.1)
 
 
+### [enovy-gateway](https://github.com/labring-actions/cluster-image/tree/main/applications/enovy-gateway)
+
+- [docker.io/labring/enovy-gateway:v0.5.0](https://explore.ggcr.dev/?image=docker.io/labring/enovy-gateway:v0.5.0)
+
+
 ### [etcdctl](https://github.com/labring-actions/cluster-image/tree/main/applications/etcdctl)
 
 - [docker.io/labring/etcdctl:v3.5.6](https://explore.ggcr.dev/?image=docker.io/labring/etcdctl:v3.5.6)
