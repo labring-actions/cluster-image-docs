@@ -227,54 +227,6 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/discourse:v3.0.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/discourse:v3.0.6)
 
 
-### [docker-adminer](https://github.com/labring-actions/cluster-image/tree/main/dockerimages/docker-adminer)
-
-- [registry.cn-shanghai.aliyuncs.com/labring/docker-adminer:v4.8.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/docker-adminer:v4.8.1)
-
-
-### [docker-casbin](https://github.com/labring-actions/cluster-image/tree/main/dockerimages/docker-casbin)
-
-- [registry.cn-shanghai.aliyuncs.com/labring/docker-casbin:main](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/docker-casbin:main)
-
-
-### [docker-cni-plugins](https://github.com/labring-actions/cluster-image/tree/main/dockerimages/docker-cni-plugins)
-
-- [registry.cn-shanghai.aliyuncs.com/labring/docker-cni-plugins:v1.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/docker-cni-plugins:v1.3.0)
-- [registry.cn-shanghai.aliyuncs.com/labring/docker-cni-plugins:v1.2.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/docker-cni-plugins:v1.2.0)
-- [registry.cn-shanghai.aliyuncs.com/labring/docker-cni-plugins:v1.1.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/docker-cni-plugins:v1.1.1)
-
-
-### [docker-kubeblocks-tools](https://github.com/labring-actions/cluster-image/tree/main/dockerimages/docker-kubeblocks-tools)
-
-- [registry.cn-shanghai.aliyuncs.com/labring/docker-kubeblocks-tools:0.5.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/docker-kubeblocks-tools:0.5.2)
-
-
-### [docker-kuboard](https://github.com/labring-actions/cluster-image/tree/main/dockerimages/docker-kuboard)
-
-- [registry.cn-shanghai.aliyuncs.com/labring/docker-kuboard:v2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/docker-kuboard:v2)
-
-
-### [docker-terminal](https://github.com/labring-actions/cluster-image/tree/main/dockerimages/docker-terminal)
-
-- [registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.20.4-8](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.20.4-8)
-- [registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.20.4-7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.20.4-7)
-- [registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.20.4-6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.20.4-6)
-- [registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.20.4-5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.20.4-5)
-- [registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.20.4-4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.20.4-4)
-- [registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.20.4-3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.20.4-3)
-- [registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.20.4-2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.20.4-2)
-- [registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.20.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.20.4)
-- [registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.20.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.20.3)
-- [registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.20.1-1.24.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.20.1-1.24.4)
-- [registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.19.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/docker-terminal:1.19.4)
-
-
-### [docker-zot](https://github.com/labring-actions/cluster-image/tree/main/dockerimages/docker-zot)
-
-- [registry.cn-shanghai.aliyuncs.com/labring/docker-zot:v2.0.0-rc4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/docker-zot:v2.0.0-rc4)
-- [registry.cn-shanghai.aliyuncs.com/labring/docker-zot:v1.4.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/docker-zot:v1.4.3)
-
-
 ### [eck-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/eck-operator)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/eck-operator:v2.6.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/eck-operator:v2.6.1)
@@ -295,6 +247,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [enovy-gateway](https://github.com/labring-actions/cluster-image/tree/main/applications/enovy-gateway)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/enovy-gateway:v0.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/enovy-gateway:v0.5.0)
 
 
 ### [etcdctl](https://github.com/labring-actions/cluster-image/tree/main/applications/etcdctl)
