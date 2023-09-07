@@ -107,6 +107,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/calico:3.24.5](https://explore.ggcr.dev/?image=docker.io/labring/calico:3.24.5)
 
 
+### [calicoctl](https://github.com/labring-actions/cluster-image/tree/main/applications/calicoctl)
+
+- [docker.io/labring/calicoctl:v3.26.1](https://explore.ggcr.dev/?image=docker.io/labring/calicoctl:v3.26.1)
+
+
 ### [ceph-csi-cephfs](https://github.com/labring-actions/cluster-image/tree/main/applications/ceph-csi-cephfs)
 
 - [docker.io/labring/ceph-csi-cephfs:v3.8.0](https://explore.ggcr.dev/?image=docker.io/labring/ceph-csi-cephfs:v3.8.0)
@@ -170,6 +175,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/cni-plugin:v1.3.0](https://explore.ggcr.dev/?image=docker.io/labring/cni-plugin:v1.3.0)
 - [docker.io/labring/cni-plugin:v1.2.0](https://explore.ggcr.dev/?image=docker.io/labring/cni-plugin:v1.2.0)
 - [docker.io/labring/cni-plugin:v1.1.1](https://explore.ggcr.dev/?image=docker.io/labring/cni-plugin:v1.1.1)
+
+
+### [cni-plugins](https://github.com/labring-actions/cluster-image/tree/main/applications/cni-plugins)
+
+- [docker.io/labring/cni-plugins:v1.3.0](https://explore.ggcr.dev/?image=docker.io/labring/cni-plugins:v1.3.0)
 
 
 ### [code-server](https://github.com/labring-actions/cluster-image/tree/main/applications/code-server)
@@ -894,6 +904,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [uptime-kuma](https://github.com/labring-actions/cluster-image/tree/main/applications/uptime-kuma)
 
+- [docker.io/labring/uptime-kuma:1.23.1](https://explore.ggcr.dev/?image=docker.io/labring/uptime-kuma:1.23.1)
 - [docker.io/labring/uptime-kuma:1.23.0](https://explore.ggcr.dev/?image=docker.io/labring/uptime-kuma:1.23.0)
 
 

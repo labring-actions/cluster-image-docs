@@ -107,6 +107,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:3.24.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:3.24.5)
 
 
+### [calicoctl](https://github.com/labring-actions/cluster-image/tree/main/applications/calicoctl)
+
+
+
 ### [ceph-csi-cephfs](https://github.com/labring-actions/cluster-image/tree/main/applications/ceph-csi-cephfs)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/ceph-csi-cephfs:v3.8.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ceph-csi-cephfs:v3.8.0)
@@ -170,6 +174,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/cni-plugin:v1.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cni-plugin:v1.3.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/cni-plugin:v1.2.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cni-plugin:v1.2.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/cni-plugin:v1.1.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cni-plugin:v1.1.1)
+
+
+### [cni-plugins](https://github.com/labring-actions/cluster-image/tree/main/applications/cni-plugins)
+
 
 
 ### [code-server](https://github.com/labring-actions/cluster-image/tree/main/applications/code-server)
