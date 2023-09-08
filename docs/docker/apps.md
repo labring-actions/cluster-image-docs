@@ -442,6 +442,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/jenkins-operator:v0.7.1](https://explore.ggcr.dev/?image=docker.io/labring/jenkins-operator:v0.7.1)
 
 
+### [k3s](https://github.com/labring-actions/cluster-image/tree/main/applications/k3s)
+
+- [docker.io/labring/k3s:latest](https://explore.ggcr.dev/?image=docker.io/labring/k3s:latest)
+
+
 ### [k8tz](https://github.com/labring-actions/cluster-image/tree/main/applications/k8tz)
 
 - [docker.io/labring/k8tz:0.4.0](https://explore.ggcr.dev/?image=docker.io/labring/k8tz:0.4.0)
@@ -504,6 +509,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks)
 
+- [docker.io/labring/kubeblocks:v0.6.2](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.6.2)
 - [docker.io/labring/kubeblocks:v0.6.1](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.6.1)
 - [docker.io/labring/kubeblocks:v0.6.0](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.6.0)
 - [docker.io/labring/kubeblocks:v0.5.3](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.5.3)
