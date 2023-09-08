@@ -109,6 +109,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [calicoctl](https://github.com/labring-actions/cluster-image/tree/main/applications/calicoctl)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.26.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.26.1)
 
 
 ### [ceph-csi-cephfs](https://github.com/labring-actions/cluster-image/tree/main/applications/ceph-csi-cephfs)
@@ -178,6 +179,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cni-plugins](https://github.com/labring-actions/cluster-image/tree/main/applications/cni-plugins)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/cni-plugins:v1.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cni-plugins:v1.3.0)
 
 
 ### [code-server](https://github.com/labring-actions/cluster-image/tree/main/applications/code-server)
@@ -438,6 +440,10 @@ Here are the versions of the images along with their corresponding links:
 ### [jenkins-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/jenkins-operator)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/jenkins-operator:v0.7.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/jenkins-operator:v0.7.1)
+
+
+### [k3s](https://github.com/labring-actions/cluster-image/tree/main/applications/k3s)
+
 
 
 ### [k8tz](https://github.com/labring-actions/cluster-image/tree/main/applications/k8tz)
@@ -902,6 +908,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [uptime-kuma](https://github.com/labring-actions/cluster-image/tree/main/applications/uptime-kuma)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.0)
 
 
