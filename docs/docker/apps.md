@@ -625,6 +625,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [metrics-server](https://github.com/labring-actions/cluster-image/tree/main/applications/metrics-server)
 
+- [docker.io/labring/metrics-server:v0.6.4](https://explore.ggcr.dev/?image=docker.io/labring/metrics-server:v0.6.4)
 - [docker.io/labring/metrics-server:v0.6.2](https://explore.ggcr.dev/?image=docker.io/labring/metrics-server:v0.6.2)
 - [docker.io/labring/metrics-server:v0.6.1](https://explore.ggcr.dev/?image=docker.io/labring/metrics-server:v0.6.1)
 
