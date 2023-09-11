@@ -29,7 +29,7 @@ import (
 	"sync"
 )
 
-var kubeRepos = []string{"kubernetes", "kubernetes-crio", "kubernetes-docker"}
+var kubeRepos = []string{"kubernetes", "kubernetes-crio", "kubernetes-docker", "k3s"}
 
 func fetchDockerHubAllRepo(registryRepoName string) (*types.RepoInfo, error) {
 	type Repo struct {
