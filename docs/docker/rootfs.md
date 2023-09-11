@@ -2,6 +2,11 @@
 
 Here are the versions of the images along with their corresponding links:
 
+### [k3s](https://github.com/kubernetes/kubernetes)
+
+- [docker.io/labring/k3s:latest](https://explore.ggcr.dev/?image=docker.io/labring/k3s:latest)
+
+
 ### [kubernetes](https://github.com/kubernetes/kubernetes)
 
 - [docker.io/labring/kubernetes:v1.28.1](https://explore.ggcr.dev/?image=docker.io/labring/kubernetes:v1.28.1)

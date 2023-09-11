@@ -442,10 +442,6 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/jenkins-operator:v0.7.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/jenkins-operator:v0.7.1)
 
 
-### [k3s](https://github.com/labring-actions/cluster-image/tree/main/applications/k3s)
-
-
-
 ### [k8tz](https://github.com/labring-actions/cluster-image/tree/main/applications/k8tz)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/k8tz:0.4.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k8tz:0.4.0)

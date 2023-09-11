@@ -2,6 +2,10 @@
 
 Here are the versions of the images along with their corresponding links:
 
+### [k3s](https://github.com/kubernetes/kubernetes)
+
+
+
 ### [kubernetes](https://github.com/kubernetes/kubernetes)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.28.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.28.1)
