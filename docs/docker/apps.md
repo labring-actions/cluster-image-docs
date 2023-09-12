@@ -390,6 +390,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/helm:v3.8.2](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.8.2)
 
 
+### [helm-dashboard](https://github.com/labring-actions/cluster-image/tree/main/applications/helm-dashboard)
+
+- [docker.io/labring/helm-dashboard:v1.3.3](https://explore.ggcr.dev/?image=docker.io/labring/helm-dashboard:v1.3.3)
+
+
 ### [helmfile](https://github.com/labring-actions/cluster-image/tree/main/applications/helmfile)
 
 - [docker.io/labring/helmfile:v0.155.0](https://explore.ggcr.dev/?image=docker.io/labring/helmfile:v0.155.0)
@@ -487,6 +492,11 @@ Here are the versions of the images along with their corresponding links:
 
 - [docker.io/labring/kube-prometheus-stack:v0.63.0](https://explore.ggcr.dev/?image=docker.io/labring/kube-prometheus-stack:v0.63.0)
 - [docker.io/labring/kube-prometheus-stack:v0.56.0](https://explore.ggcr.dev/?image=docker.io/labring/kube-prometheus-stack:v0.56.0)
+
+
+### [kube-router](https://github.com/labring-actions/cluster-image/tree/main/applications/kube-router)
+
+- [docker.io/labring/kube-router:v1.6.0](https://explore.ggcr.dev/?image=docker.io/labring/kube-router:v1.6.0)
 
 
 ### [kube-state-metrics](https://github.com/labring-actions/cluster-image/tree/main/applications/kube-state-metrics)
@@ -785,6 +795,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [podman](https://github.com/labring-actions/cluster-image/tree/main/applications/podman)
 
+- [docker.io/labring/podman:v4.6.1](https://explore.ggcr.dev/?image=docker.io/labring/podman:v4.6.1)
 - [docker.io/labring/podman:v4.5.0](https://explore.ggcr.dev/?image=docker.io/labring/podman:v4.5.0)
 - [docker.io/labring/podman:v4.4.4](https://explore.ggcr.dev/?image=docker.io/labring/podman:v4.4.4)
 
@@ -843,6 +854,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [skopeo](https://github.com/labring-actions/cluster-image/tree/main/applications/skopeo)
 
+- [docker.io/labring/skopeo:v1.13.3](https://explore.ggcr.dev/?image=docker.io/labring/skopeo:v1.13.3)
 - [docker.io/labring/skopeo:v1.13.0](https://explore.ggcr.dev/?image=docker.io/labring/skopeo:v1.13.0)
 - [docker.io/labring/skopeo:v1.12.0](https://explore.ggcr.dev/?image=docker.io/labring/skopeo:v1.12.0)
 - [docker.io/labring/skopeo:v1.11.2](https://explore.ggcr.dev/?image=docker.io/labring/skopeo:v1.11.2)
