@@ -390,6 +390,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.8.2)
 
 
+### [helm-dashboard](https://github.com/labring-actions/cluster-image/tree/main/applications/helm-dashboard)
+
+
+
 ### [helmfile](https://github.com/labring-actions/cluster-image/tree/main/applications/helmfile)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/helmfile:v0.155.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helmfile:v0.155.0)
@@ -487,6 +491,10 @@ Here are the versions of the images along with their corresponding links:
 
 - [registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.63.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.63.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.56.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.56.0)
+
+
+### [kube-router](https://github.com/labring-actions/cluster-image/tree/main/applications/kube-router)
+
 
 
 ### [kube-state-metrics](https://github.com/labring-actions/cluster-image/tree/main/applications/kube-state-metrics)
@@ -785,6 +793,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [podman](https://github.com/labring-actions/cluster-image/tree/main/applications/podman)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/podman:v4.6.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/podman:v4.6.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/podman:v4.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/podman:v4.5.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/podman:v4.4.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/podman:v4.4.4)
 
@@ -843,6 +852,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [skopeo](https://github.com/labring-actions/cluster-image/tree/main/applications/skopeo)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/skopeo:v1.13.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/skopeo:v1.13.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/skopeo:v1.13.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/skopeo:v1.13.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/skopeo:v1.12.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/skopeo:v1.12.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/skopeo:v1.11.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/skopeo:v1.11.2)
