@@ -392,6 +392,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [helm-dashboard](https://github.com/labring-actions/cluster-image/tree/main/applications/helm-dashboard)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/helm-dashboard:v1.3.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm-dashboard:v1.3.3)
 
 
 ### [helmfile](https://github.com/labring-actions/cluster-image/tree/main/applications/helmfile)
@@ -495,6 +496,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kube-router](https://github.com/labring-actions/cluster-image/tree/main/applications/kube-router)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kube-router:v1.6.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kube-router:v1.6.0)
 
 
 ### [kube-state-metrics](https://github.com/labring-actions/cluster-image/tree/main/applications/kube-state-metrics)
