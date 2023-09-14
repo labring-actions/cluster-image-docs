@@ -124,6 +124,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cert-manager](https://github.com/labring-actions/cluster-image/tree/main/applications/cert-manager)
 
+- [docker.io/labring/cert-manager:v1.12.4](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.12.4)
 - [docker.io/labring/cert-manager:v1.12.3](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.12.3)
 - [docker.io/labring/cert-manager:v1.12.1](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.12.1)
 - [docker.io/labring/cert-manager:v1.8.0](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.8.0)
@@ -151,6 +152,7 @@ Here are the versions of the images along with their corresponding links:
 
 - [docker.io/labring/cilium:v1.13.4](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.13.4)
 - [docker.io/labring/cilium:v1.13.0](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.13.0)
+- [docker.io/labring/cilium:v1.12.14](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.12.14)
 - [docker.io/labring/cilium:v1.12.13](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.12.13)
 - [docker.io/labring/cilium:v1.12.12](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.12.12)
 - [docker.io/labring/cilium:v1.12.11](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.12.11)
