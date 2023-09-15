@@ -124,6 +124,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cert-manager](https://github.com/labring-actions/cluster-image/tree/main/applications/cert-manager)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.8.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.8.0)
@@ -151,6 +152,7 @@ Here are the versions of the images along with their corresponding links:
 
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.14](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.14)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.13](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.13)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.12](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.12)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.11](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.11)
