@@ -214,6 +214,27 @@ Here are the versions of the images along with their corresponding links:
 
 ### [deepflow](https://github.com/labring-actions/cluster-image/tree/main/applications/deepflow)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:6.1.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:6.1.5)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.6)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.1.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.1.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:stable](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:stable)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:6.1.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:6.1.6)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.6)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:6.1.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:6.1.4)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.7)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.5)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.9)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.1.8](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.1.8)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.4)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.1.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.1.7)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:6.1.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:6.1.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.5)
 
 
 ### [discourse](https://github.com/labring-actions/cluster-image/tree/main/applications/discourse)
@@ -229,6 +250,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [elastic](https://github.com/labring-actions/cluster-image/tree/main/applications/elastic)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/elastic:7.17.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/elastic:7.17.3)
 
 
 ### [endpoints-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/endpoints-operator)
@@ -328,6 +350,9 @@ Here are the versions of the images along with their corresponding links:
 
 ### [gpu-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/gpu-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/gpu-operator:v22.9.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/gpu-operator:v22.9.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/gpu-operator:v1.11.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/gpu-operator:v1.11.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/gpu-operator:v1.10.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/gpu-operator:v1.10.1)
 
 
 ### [grafana](https://github.com/labring-actions/cluster-image/tree/main/applications/grafana)
@@ -427,6 +452,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [k8tz](https://github.com/labring-actions/cluster-image/tree/main/applications/k8tz)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/k8tz:0.4.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k8tz:0.4.0)
 
 
 ### [k9s](https://github.com/labring-actions/cluster-image/tree/main/applications/k9s)
@@ -436,10 +462,12 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kafka-exporter](https://github.com/labring-actions/cluster-image/tree/main/applications/kafka-exporter)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kafka-exporter:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kafka-exporter:latest)
 
 
 ### [kafka-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/kafka-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kafka-operator:0.28.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kafka-operator:0.28.0)
 
 
 ### [karmada](https://github.com/labring-actions/cluster-image/tree/main/applications/karmada)
@@ -465,6 +493,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kube-prometheus-stack](https://github.com/labring-actions/cluster-image/tree/main/applications/kube-prometheus-stack)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.63.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.63.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.56.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.56.0)
 
 
 ### [kube-router](https://github.com/labring-actions/cluster-image/tree/main/applications/kube-router)
@@ -495,6 +525,9 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks-csi-s3](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-csi-s3)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-csi-s3:v0.6.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-csi-s3:v0.6.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-csi-s3:v0.6.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-csi-s3:v0.6.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-csi-s3:v0.6.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-csi-s3:v0.6.0)
 
 
 ### [kubectl-df-pv](https://github.com/labring-actions/cluster-image/tree/main/applications/kubectl-df-pv)
@@ -607,10 +640,16 @@ Here are the versions of the images along with their corresponding links:
 
 ### [metrics-server](https://github.com/labring-actions/cluster-image/tree/main/applications/metrics-server)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.6.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.6.4)
+- [registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.6.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.6.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.6.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.6.1)
 
 
 ### [minio](https://github.com/labring-actions/cluster-image/tree/main/applications/minio)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/minio:RELEASE.2023-07-07T07-13-57Z](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio:RELEASE.2023-07-07T07-13-57Z)
+- [registry.cn-shanghai.aliyuncs.com/labring/minio:2022.5.9-debian-10-r13](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio:2022.5.9-debian-10-r13)
+- [registry.cn-shanghai.aliyuncs.com/labring/minio:2021.6.17-debian-10-r38](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio:2021.6.17-debian-10-r38)
 
 
 ### [minio-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/minio-operator)
@@ -795,6 +834,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [redis-exporter](https://github.com/labring-actions/cluster-image/tree/main/applications/redis-exporter)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/redis-exporter:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/redis-exporter:latest)
 
 
 ### [redis-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/redis-operator)
@@ -832,6 +872,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [skywalking](https://github.com/labring-actions/cluster-image/tree/main/applications/skywalking)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/skywalking:8.8.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/skywalking:8.8.1)
 
 
 ### [sonarqube](https://github.com/labring-actions/cluster-image/tree/main/applications/sonarqube)
