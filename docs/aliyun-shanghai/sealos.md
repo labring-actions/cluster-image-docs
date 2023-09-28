@@ -5,18 +5,19 @@ Here are the versions of the images along with their corresponding links:
 ### [sealos](https://github.com/labring/sealos)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:latest)
-- [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc5)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc6)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.4.0-alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.4.0-alpha1)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.3.1-rc2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.3.1-rc2)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.3.1-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.3.1-rc1)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.3.0-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.3.0-rc1)
-- [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc6)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos:v5.0.0-alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v5.0.0-alpha1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc5)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc4)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc3)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.2.1-rc1)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.1.4-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.1.4-rc1)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.1.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.1.3)
-- [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.4.0-alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.4.0-alpha1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.4.0-alpha3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos:v4.4.0-alpha3)
 
 
 ### [sealos-cloud](https://github.com/labring/sealos)
@@ -168,6 +169,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-costcenter-frontend:v1alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-costcenter-frontend:v1alpha1)
 
 
+### [sealos-cloud-cronjob-frontend](https://github.com/labring/sealos)
+
+
+
 ### [sealos-cloud-db-adminer-controller](https://github.com/labring/sealos)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-db-adminer-controller:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-db-adminer-controller:latest)
@@ -277,6 +282,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:v1alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:v1alpha1)
 
 
+### [sealos-cloud-license-frontend](https://github.com/labring/sealos)
+
+
+
 ### [sealos-cloud-licenseissuer-controller](https://github.com/labring/sealos)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-licenseissuer-controller:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-licenseissuer-controller:latest)
@@ -382,17 +391,18 @@ Here are the versions of the images along with their corresponding links:
 ### [sealos-patch](https://github.com/labring/sealos)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:latest)
-- [registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.2.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.2.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.2.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.3.1-rc2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.3.1-rc2)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.3.1-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.3.1-rc1)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.3.0-rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.3.0-rc1)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.2.2)
-- [registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.2.1)
-- [registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.4.0-alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.4.0-alpha1)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.4.0-alpha3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.4.0-alpha3)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.2.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.2.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.1.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.1.7)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.1.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.1.6)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.1.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.1.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.1.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.1.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.1.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.1.3)
-- [registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.3.1-rc2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.3.1-rc2)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.4.0-alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-patch:v4.4.0-alpha1)
 
 
