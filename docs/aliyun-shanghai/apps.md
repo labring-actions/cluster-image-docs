@@ -42,6 +42,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/awx-operator:v1.1.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/awx-operator:v1.1.0)
 
 
+### [bitnami-apache](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-apache)
+
+
+
 ### [bitnami-etcd](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-etcd)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/bitnami-etcd:v3.5.8](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-etcd:v3.5.8)
@@ -51,6 +55,14 @@ Here are the versions of the images along with their corresponding links:
 ### [bitnami-kafka](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-kafka)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/bitnami-kafka:v22.1.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-kafka:v22.1.5)
+
+
+### [bitnami-mariadb](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-mariadb)
+
+
+
+### [bitnami-mariadb-galera](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-mariadb-galera)
+
 
 
 ### [bitnami-minio](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-minio)
@@ -71,6 +83,14 @@ Here are the versions of the images along with their corresponding links:
 ### [bitnami-mysql](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-mysql)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/bitnami-mysql:v9.10.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-mysql:v9.10.4)
+
+
+### [bitnami-postgresql](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-postgresql)
+
+
+
+### [bitnami-postgresql-ha](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-postgresql-ha)
+
 
 
 ### [bitnami-redis-cluster](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-redis-cluster)
@@ -198,6 +218,10 @@ Here are the versions of the images along with their corresponding links:
 ### [coredns](https://github.com/labring-actions/cluster-image/tree/main/applications/coredns)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/coredns:v0.0.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/coredns:v0.0.1)
+
+
+### [cowboysysop-vertical-pod-autoscaler](https://github.com/labring-actions/cluster-image/tree/main/applications/cowboysysop-vertical-pod-autoscaler)
+
 
 
 ### [crunchy-postgres-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/crunchy-postgres-operator)
@@ -625,6 +649,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/lvscare:v1.1.3-beta.8](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/lvscare:v1.1.3-beta.8)
 
 
+### [mariadb-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/mariadb-operator)
+
+
+
 ### [memcached](https://github.com/labring-actions/cluster-image/tree/main/applications/memcached)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/memcached:1.6.17](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/memcached:1.6.17)
@@ -935,6 +963,10 @@ Here are the versions of the images along with their corresponding links:
 ### [velero](https://github.com/labring-actions/cluster-image/tree/main/applications/velero)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/velero:v1.9.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/velero:v1.9.1)
+
+
+### [vertical-pod-autoscaler](https://github.com/labring-actions/cluster-image/tree/main/applications/vertical-pod-autoscaler)
+
 
 
 ### [weave-gitops](https://github.com/labring-actions/cluster-image/tree/main/applications/weave-gitops)

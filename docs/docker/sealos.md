@@ -169,6 +169,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-costcenter-frontend:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-costcenter-frontend:v1alpha1)
 
 
+### [sealos-cloud-cronjob-frontend](https://github.com/labring/sealos)
+
+- [docker.io/labring/sealos-cloud-cronjob-frontend:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-cronjob-frontend:latest)
+
+
 ### [sealos-cloud-db-adminer-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-db-adminer-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-db-adminer-controller:latest)
@@ -276,6 +281,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-infra-controller:v4.2.1-rc4](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-infra-controller:v4.2.1-rc4)
 - [docker.io/labring/sealos-cloud-infra-controller:v4.2.1-rc3](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-infra-controller:v4.2.1-rc3)
 - [docker.io/labring/sealos-cloud-infra-controller:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-infra-controller:v1alpha1)
+
+
+### [sealos-cloud-license-frontend](https://github.com/labring/sealos)
+
+- [docker.io/labring/sealos-cloud-license-frontend:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-license-frontend:latest)
 
 
 ### [sealos-cloud-licenseissuer-controller](https://github.com/labring/sealos)

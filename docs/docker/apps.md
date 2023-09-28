@@ -22,6 +22,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [argo-workflows](https://github.com/labring-actions/cluster-image/tree/main/applications/argo-workflows)
 
+- [docker.io/labring/argo-workflows:v3.4.11](https://explore.ggcr.dev/?image=docker.io/labring/argo-workflows:v3.4.11)
 - [docker.io/labring/argo-workflows:v3.4.10](https://explore.ggcr.dev/?image=docker.io/labring/argo-workflows:v3.4.10)
 
 
@@ -42,6 +43,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/awx-operator:v1.1.0](https://explore.ggcr.dev/?image=docker.io/labring/awx-operator:v1.1.0)
 
 
+### [bitnami-apache](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-apache)
+
+- [docker.io/labring/bitnami-apache:v2.4.57](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-apache:v2.4.57)
+
+
 ### [bitnami-etcd](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-etcd)
 
 - [docker.io/labring/bitnami-etcd:v3.5.8](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-etcd:v3.5.8)
@@ -51,6 +57,16 @@ Here are the versions of the images along with their corresponding links:
 ### [bitnami-kafka](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-kafka)
 
 - [docker.io/labring/bitnami-kafka:v22.1.5](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-kafka:v22.1.5)
+
+
+### [bitnami-mariadb](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-mariadb)
+
+- [docker.io/labring/bitnami-mariadb:v11.0.3](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-mariadb:v11.0.3)
+
+
+### [bitnami-mariadb-galera](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-mariadb-galera)
+
+- [docker.io/labring/bitnami-mariadb-galera:v11.0.3](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-mariadb-galera:v11.0.3)
 
 
 ### [bitnami-minio](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-minio)
@@ -71,6 +87,16 @@ Here are the versions of the images along with their corresponding links:
 ### [bitnami-mysql](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-mysql)
 
 - [docker.io/labring/bitnami-mysql:v9.10.4](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-mysql:v9.10.4)
+
+
+### [bitnami-postgresql](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-postgresql)
+
+- [docker.io/labring/bitnami-postgresql:v15.4.0](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-postgresql:v15.4.0)
+
+
+### [bitnami-postgresql-ha](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-postgresql-ha)
+
+- [docker.io/labring/bitnami-postgresql-ha:v15.4.0](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-postgresql-ha:v15.4.0)
 
 
 ### [bitnami-redis-cluster](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-redis-cluster)
@@ -198,6 +224,11 @@ Here are the versions of the images along with their corresponding links:
 ### [coredns](https://github.com/labring-actions/cluster-image/tree/main/applications/coredns)
 
 - [docker.io/labring/coredns:v0.0.1](https://explore.ggcr.dev/?image=docker.io/labring/coredns:v0.0.1)
+
+
+### [cowboysysop-vertical-pod-autoscaler](https://github.com/labring-actions/cluster-image/tree/main/applications/cowboysysop-vertical-pod-autoscaler)
+
+- [docker.io/labring/cowboysysop-vertical-pod-autoscaler:v0.14.0](https://explore.ggcr.dev/?image=docker.io/labring/cowboysysop-vertical-pod-autoscaler:v0.14.0)
 
 
 ### [crunchy-postgres-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/crunchy-postgres-operator)
@@ -438,6 +469,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [jenkins](https://github.com/labring-actions/cluster-image/tree/main/applications/jenkins)
 
+- [docker.io/labring/jenkins:v2.425](https://explore.ggcr.dev/?image=docker.io/labring/jenkins:v2.425)
+- [docker.io/labring/jenkins:v2.419](https://explore.ggcr.dev/?image=docker.io/labring/jenkins:v2.419)
 - [docker.io/labring/jenkins:v2.401.3](https://explore.ggcr.dev/?image=docker.io/labring/jenkins:v2.401.3)
 - [docker.io/labring/jenkins:v2.387.3](https://explore.ggcr.dev/?image=docker.io/labring/jenkins:v2.387.3)
 - [docker.io/labring/jenkins:v2.375.3](https://explore.ggcr.dev/?image=docker.io/labring/jenkins:v2.375.3)
@@ -623,6 +656,11 @@ Here are the versions of the images along with their corresponding links:
 ### [lvscare](https://github.com/labring-actions/cluster-image/tree/main/applications/lvscare)
 
 - [docker.io/labring/lvscare:v1.1.3-beta.8](https://explore.ggcr.dev/?image=docker.io/labring/lvscare:v1.1.3-beta.8)
+
+
+### [mariadb-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/mariadb-operator)
+
+- [docker.io/labring/mariadb-operator:v0.0.20](https://explore.ggcr.dev/?image=docker.io/labring/mariadb-operator:v0.0.20)
 
 
 ### [memcached](https://github.com/labring-actions/cluster-image/tree/main/applications/memcached)
@@ -935,6 +973,11 @@ Here are the versions of the images along with their corresponding links:
 ### [velero](https://github.com/labring-actions/cluster-image/tree/main/applications/velero)
 
 - [docker.io/labring/velero:v1.9.1](https://explore.ggcr.dev/?image=docker.io/labring/velero:v1.9.1)
+
+
+### [vertical-pod-autoscaler](https://github.com/labring-actions/cluster-image/tree/main/applications/vertical-pod-autoscaler)
+
+- [docker.io/labring/vertical-pod-autoscaler:v0.14.0](https://explore.ggcr.dev/?image=docker.io/labring/vertical-pod-autoscaler:v0.14.0)
 
 
 ### [weave-gitops](https://github.com/labring-actions/cluster-image/tree/main/applications/weave-gitops)
