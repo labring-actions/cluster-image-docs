@@ -22,6 +22,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [argo-workflows](https://github.com/labring-actions/cluster-image/tree/main/applications/argo-workflows)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.4.11](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.4.11)
 - [registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.4.10](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.4.10)
 
 
@@ -44,6 +45,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [bitnami-apache](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-apache)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-apache:v2.4.57](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-apache:v2.4.57)
 
 
 ### [bitnami-etcd](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-etcd)
@@ -59,10 +61,12 @@ Here are the versions of the images along with their corresponding links:
 
 ### [bitnami-mariadb](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-mariadb)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-mariadb:v11.0.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-mariadb:v11.0.3)
 
 
 ### [bitnami-mariadb-galera](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-mariadb-galera)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-mariadb-galera:v11.0.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-mariadb-galera:v11.0.3)
 
 
 ### [bitnami-minio](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-minio)
@@ -87,10 +91,12 @@ Here are the versions of the images along with their corresponding links:
 
 ### [bitnami-postgresql](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-postgresql)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-postgresql:v15.4.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-postgresql:v15.4.0)
 
 
 ### [bitnami-postgresql-ha](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-postgresql-ha)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-postgresql-ha:v15.4.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-postgresql-ha:v15.4.0)
 
 
 ### [bitnami-redis-cluster](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-redis-cluster)
@@ -222,6 +228,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cowboysysop-vertical-pod-autoscaler](https://github.com/labring-actions/cluster-image/tree/main/applications/cowboysysop-vertical-pod-autoscaler)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/cowboysysop-vertical-pod-autoscaler:v0.14.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cowboysysop-vertical-pod-autoscaler:v0.14.0)
 
 
 ### [crunchy-postgres-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/crunchy-postgres-operator)
@@ -462,6 +469,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [jenkins](https://github.com/labring-actions/cluster-image/tree/main/applications/jenkins)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.425](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.425)
+- [registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.419](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.419)
 - [registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.401.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.401.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.387.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.387.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.375.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.375.3)
@@ -651,6 +660,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [mariadb-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/mariadb-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/mariadb-operator:v0.0.20](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/mariadb-operator:v0.0.20)
 
 
 ### [memcached](https://github.com/labring-actions/cluster-image/tree/main/applications/memcached)
@@ -967,6 +977,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [vertical-pod-autoscaler](https://github.com/labring-actions/cluster-image/tree/main/applications/vertical-pod-autoscaler)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/vertical-pod-autoscaler:v0.14.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/vertical-pod-autoscaler:v0.14.0)
 
 
 ### [weave-gitops](https://github.com/labring-actions/cluster-image/tree/main/applications/weave-gitops)
