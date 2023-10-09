@@ -685,6 +685,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [minio](https://github.com/labring-actions/cluster-image/tree/main/applications/minio)
 
+- [docker.io/labring/minio:RELEASE.2023-10-07T15-07-38Z](https://explore.ggcr.dev/?image=docker.io/labring/minio:RELEASE.2023-10-07T15-07-38Z)
+- [docker.io/labring/minio:RELEASE.2023-09-30T07-02-29Z](https://explore.ggcr.dev/?image=docker.io/labring/minio:RELEASE.2023-09-30T07-02-29Z)
 - [docker.io/labring/minio:RELEASE.2023-07-07T07-13-57Z](https://explore.ggcr.dev/?image=docker.io/labring/minio:RELEASE.2023-07-07T07-13-57Z)
 - [docker.io/labring/minio:2022.5.9-debian-10-r13](https://explore.ggcr.dev/?image=docker.io/labring/minio:2022.5.9-debian-10-r13)
 - [docker.io/labring/minio:2021.6.17-debian-10-r38](https://explore.ggcr.dev/?image=docker.io/labring/minio:2021.6.17-debian-10-r38)
