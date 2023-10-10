@@ -48,6 +48,16 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/bitnami-apache:v2.4.57](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-apache:v2.4.57)
 
 
+### [bitnami-clickhouse](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-clickhouse)
+
+- [docker.io/labring/bitnami-clickhouse:4.0.5](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-clickhouse:4.0.5)
+
+
+### [bitnami-elasticsearch](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-elasticsearch)
+
+- [docker.io/labring/bitnami-elasticsearch:19.13.0](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-elasticsearch:19.13.0)
+
+
 ### [bitnami-etcd](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-etcd)
 
 - [docker.io/labring/bitnami-etcd:v3.5.8](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-etcd:v3.5.8)
@@ -150,6 +160,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cert-manager](https://github.com/labring-actions/cluster-image/tree/main/applications/cert-manager)
 
+- [docker.io/labring/cert-manager:v1.12.5](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.12.5)
 - [docker.io/labring/cert-manager:v1.12.4](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.12.4)
 - [docker.io/labring/cert-manager:v1.12.3](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.12.3)
 - [docker.io/labring/cert-manager:v1.12.1](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.12.1)
@@ -303,6 +314,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [flannel](https://github.com/labring-actions/cluster-image/tree/main/applications/flannel)
 
+- [docker.io/labring/flannel:v0.22.3](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.22.3)
 - [docker.io/labring/flannel:v0.22.2](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.22.2)
 - [docker.io/labring/flannel:v0.22.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.22.1)
 - [docker.io/labring/flannel:v0.22.0](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.22.0)
@@ -315,6 +327,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/flannel:v0.19.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.19.1)
 - [docker.io/labring/flannel:v0.19.0](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.19.0)
 - [docker.io/labring/flannel:v0.18.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.18.1)
+- [docker.io/labring/flannel:0.22.3](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.22.3)
 - [docker.io/labring/flannel:0.22.2](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.22.2)
 - [docker.io/labring/flannel:0.22.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.22.1)
 - [docker.io/labring/flannel:0.22.0](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.22.0)

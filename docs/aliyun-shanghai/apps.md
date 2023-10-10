@@ -48,6 +48,14 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/bitnami-apache:v2.4.57](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-apache:v2.4.57)
 
 
+### [bitnami-clickhouse](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-clickhouse)
+
+
+
+### [bitnami-elasticsearch](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-elasticsearch)
+
+
+
 ### [bitnami-etcd](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-etcd)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/bitnami-etcd:v3.5.8](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-etcd:v3.5.8)
