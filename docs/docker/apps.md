@@ -118,6 +118,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [bitnami-zookeeper](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-zookeeper)
 
+- [docker.io/labring/bitnami-zookeeper:v12.1.3](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-zookeeper:v12.1.3)
+- [docker.io/labring/bitnami-zookeeper:v11.4.11](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-zookeeper:v11.4.11)
 - [docker.io/labring/bitnami-zookeeper:v11.4.2](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-zookeeper:v11.4.2)
 
 
@@ -563,6 +565,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks)
 
+- [docker.io/labring/kubeblocks:v0.6.3](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.6.3)
 - [docker.io/labring/kubeblocks:v0.6.2](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.6.2)
 - [docker.io/labring/kubeblocks:v0.6.1](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.6.1)
 - [docker.io/labring/kubeblocks:v0.6.0](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.6.0)
@@ -1019,6 +1022,11 @@ Here are the versions of the images along with their corresponding links:
 
 - [docker.io/labring/zalando-postgres-operator:v1.9.0](https://explore.ggcr.dev/?image=docker.io/labring/zalando-postgres-operator:v1.9.0)
 - [docker.io/labring/zalando-postgres-operator:14](https://explore.ggcr.dev/?image=docker.io/labring/zalando-postgres-operator:14)
+
+
+### [zookeeper-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/zookeeper-operator)
+
+- [docker.io/labring/zookeeper-operator:0.2.15](https://explore.ggcr.dev/?image=docker.io/labring/zookeeper-operator:0.2.15)
 
 
 ### [zot](https://github.com/labring-actions/cluster-image/tree/main/applications/zot)

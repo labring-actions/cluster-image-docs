@@ -50,10 +50,12 @@ Here are the versions of the images along with their corresponding links:
 
 ### [bitnami-clickhouse](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-clickhouse)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-clickhouse:4.0.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-clickhouse:4.0.5)
 
 
 ### [bitnami-elasticsearch](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-elasticsearch)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:19.13.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:19.13.0)
 
 
 ### [bitnami-etcd](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-etcd)
@@ -116,6 +118,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [bitnami-zookeeper](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-zookeeper)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-zookeeper:v12.1.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-zookeeper:v12.1.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-zookeeper:v11.4.11](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-zookeeper:v11.4.11)
 - [registry.cn-shanghai.aliyuncs.com/labring/bitnami-zookeeper:v11.4.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-zookeeper:v11.4.2)
 
 
@@ -158,6 +162,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cert-manager](https://github.com/labring-actions/cluster-image/tree/main/applications/cert-manager)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.1)
@@ -311,6 +316,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [flannel](https://github.com/labring-actions/cluster-image/tree/main/applications/flannel)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.22.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.22.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.22.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.22.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.22.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.22.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.22.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.22.0)
@@ -323,6 +329,7 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.19.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.19.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.19.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.19.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.18.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.18.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/flannel:0.22.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:0.22.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:0.22.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:0.22.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:0.22.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:0.22.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:0.22.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:0.22.0)
@@ -558,6 +565,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.0)
@@ -1014,6 +1022,10 @@ Here are the versions of the images along with their corresponding links:
 
 - [registry.cn-shanghai.aliyuncs.com/labring/zalando-postgres-operator:v1.9.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/zalando-postgres-operator:v1.9.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/zalando-postgres-operator:14](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/zalando-postgres-operator:14)
+
+
+### [zookeeper-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/zookeeper-operator)
+
 
 
 ### [zot](https://github.com/labring-actions/cluster-image/tree/main/applications/zot)
