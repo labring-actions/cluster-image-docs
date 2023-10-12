@@ -1026,6 +1026,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [zookeeper-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/zookeeper-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/zookeeper-operator:0.2.15](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/zookeeper-operator:0.2.15)
 
 
 ### [zot](https://github.com/labring-actions/cluster-image/tree/main/applications/zot)
