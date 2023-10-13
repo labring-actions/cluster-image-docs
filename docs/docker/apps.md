@@ -55,6 +55,17 @@ Here are the versions of the images along with their corresponding links:
 
 ### [bitnami-elasticsearch](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-elasticsearch)
 
+- [docker.io/labring/bitnami-elasticsearch:v8.10.3](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-elasticsearch:v8.10.3)
+- [docker.io/labring/bitnami-elasticsearch:v8.10.2](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-elasticsearch:v8.10.2)
+- [docker.io/labring/bitnami-elasticsearch:v8.10.0](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-elasticsearch:v8.10.0)
+- [docker.io/labring/bitnami-elasticsearch:v8.9.2](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-elasticsearch:v8.9.2)
+- [docker.io/labring/bitnami-elasticsearch:v8.8.2](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-elasticsearch:v8.8.2)
+- [docker.io/labring/bitnami-elasticsearch:v8.7.1](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-elasticsearch:v8.7.1)
+- [docker.io/labring/bitnami-elasticsearch:v8.6.2](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-elasticsearch:v8.6.2)
+- [docker.io/labring/bitnami-elasticsearch:v8.5.3](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-elasticsearch:v8.5.3)
+- [docker.io/labring/bitnami-elasticsearch:v8.4.3](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-elasticsearch:v8.4.3)
+- [docker.io/labring/bitnami-elasticsearch:v8.3.3](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-elasticsearch:v8.3.3)
+- [docker.io/labring/bitnami-elasticsearch:v8.2.2](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-elasticsearch:v8.2.2)
 - [docker.io/labring/bitnami-elasticsearch:19.13.0](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-elasticsearch:19.13.0)
 
 
@@ -64,9 +75,27 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/bitnami-etcd:v3.5.6](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-etcd:v3.5.6)
 
 
+### [bitnami-fluentd](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-fluentd)
+
+- [docker.io/labring/bitnami-fluentd:v1.16.2](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-fluentd:v1.16.2)
+- [docker.io/labring/bitnami-fluentd:v1.15.3](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-fluentd:v1.15.3)
+- [docker.io/labring/bitnami-fluentd:v1.14.6](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-fluentd:v1.14.6)
+
+
 ### [bitnami-kafka](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-kafka)
 
 - [docker.io/labring/bitnami-kafka:v22.1.5](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-kafka:v22.1.5)
+- [docker.io/labring/bitnami-kafka:v3.5.1](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-kafka:v3.5.1)
+
+
+### [bitnami-kibana](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-kibana)
+
+- [docker.io/labring/bitnami-kibana:v8.10.3](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-kibana:v8.10.3)
+- [docker.io/labring/bitnami-kibana:v8.10.2](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-kibana:v8.10.2)
+- [docker.io/labring/bitnami-kibana:v8.10.1](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-kibana:v8.10.1)
+- [docker.io/labring/bitnami-kibana:v8.4.3](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-kibana:v8.4.3)
+- [docker.io/labring/bitnami-kibana:v8.3.3](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-kibana:v8.3.3)
+- [docker.io/labring/bitnami-kibana:v8.2.3](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-kibana:v8.2.3)
 
 
 ### [bitnami-mariadb](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-mariadb)
@@ -297,6 +326,13 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/elastic:7.17.3](https://explore.ggcr.dev/?image=docker.io/labring/elastic:7.17.3)
 
 
+### [elasticsearch](https://github.com/labring-actions/cluster-image/tree/main/applications/elasticsearch)
+
+- [docker.io/labring/elasticsearch:v8.5.1](https://explore.ggcr.dev/?image=docker.io/labring/elasticsearch:v8.5.1)
+- [docker.io/labring/elasticsearch:v7.17.3](https://explore.ggcr.dev/?image=docker.io/labring/elasticsearch:v7.17.3)
+- [docker.io/labring/elasticsearch:v6.8.22](https://explore.ggcr.dev/?image=docker.io/labring/elasticsearch:v6.8.22)
+
+
 ### [endpoints-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/endpoints-operator)
 
 - [docker.io/labring/endpoints-operator:v0.2.1](https://explore.ggcr.dev/?image=docker.io/labring/endpoints-operator:v0.2.1)
@@ -312,6 +348,13 @@ Here are the versions of the images along with their corresponding links:
 ### [etcdctl](https://github.com/labring-actions/cluster-image/tree/main/applications/etcdctl)
 
 - [docker.io/labring/etcdctl:v3.5.6](https://explore.ggcr.dev/?image=docker.io/labring/etcdctl:v3.5.6)
+
+
+### [filebeat](https://github.com/labring-actions/cluster-image/tree/main/applications/filebeat)
+
+- [docker.io/labring/filebeat:v8.5.1](https://explore.ggcr.dev/?image=docker.io/labring/filebeat:v8.5.1)
+- [docker.io/labring/filebeat:v7.17.3](https://explore.ggcr.dev/?image=docker.io/labring/filebeat:v7.17.3)
+- [docker.io/labring/filebeat:v6.8.22](https://explore.ggcr.dev/?image=docker.io/labring/filebeat:v6.8.22)
 
 
 ### [flannel](https://github.com/labring-actions/cluster-image/tree/main/applications/flannel)
@@ -343,6 +386,11 @@ Here are the versions of the images along with their corresponding links:
 ### [fluent-bit](https://github.com/labring-actions/cluster-image/tree/main/applications/fluent-bit)
 
 - [docker.io/labring/fluent-bit:0.20.9](https://explore.ggcr.dev/?image=docker.io/labring/fluent-bit:0.20.9)
+
+
+### [fluent-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/fluent-operator)
+
+- [docker.io/labring/fluent-operator:v2.5.0](https://explore.ggcr.dev/?image=docker.io/labring/fluent-operator:v2.5.0)
 
 
 ### [fluent-operator-containerd](https://github.com/labring-actions/cluster-image/tree/main/applications/fluent-operator-containerd)
@@ -446,6 +494,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [helmfile](https://github.com/labring-actions/cluster-image/tree/main/applications/helmfile)
 
+- [docker.io/labring/helmfile:v0.157.0](https://explore.ggcr.dev/?image=docker.io/labring/helmfile:v0.157.0)
+- [docker.io/labring/helmfile:v0.156.0](https://explore.ggcr.dev/?image=docker.io/labring/helmfile:v0.156.0)
 - [docker.io/labring/helmfile:v0.155.0](https://explore.ggcr.dev/?image=docker.io/labring/helmfile:v0.155.0)
 - [docker.io/labring/helmfile:v0.154.0](https://explore.ggcr.dev/?image=docker.io/labring/helmfile:v0.154.0)
 - [docker.io/labring/helmfile:v0.153.0](https://explore.ggcr.dev/?image=docker.io/labring/helmfile:v0.153.0)
@@ -518,14 +568,33 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/kafka-operator:0.28.0](https://explore.ggcr.dev/?image=docker.io/labring/kafka-operator:0.28.0)
 
 
+### [kafka-ui](https://github.com/labring-actions/cluster-image/tree/main/applications/kafka-ui)
+
+- [docker.io/labring/kafka-ui:v0.6.2](https://explore.ggcr.dev/?image=docker.io/labring/kafka-ui:v0.6.2)
+- [docker.io/labring/kafka-ui:v0.5.0](https://explore.ggcr.dev/?image=docker.io/labring/kafka-ui:v0.5.0)
+- [docker.io/labring/kafka-ui:v0.4.0](https://explore.ggcr.dev/?image=docker.io/labring/kafka-ui:v0.4.0)
+
+
 ### [karmada](https://github.com/labring-actions/cluster-image/tree/main/applications/karmada)
 
 - [docker.io/labring/karmada:v1.5.0](https://explore.ggcr.dev/?image=docker.io/labring/karmada:v1.5.0)
 
 
+### [kibana](https://github.com/labring-actions/cluster-image/tree/main/applications/kibana)
+
+- [docker.io/labring/kibana:v8.5.1](https://explore.ggcr.dev/?image=docker.io/labring/kibana:v8.5.1)
+- [docker.io/labring/kibana:v7.17.3](https://explore.ggcr.dev/?image=docker.io/labring/kibana:v7.17.3)
+- [docker.io/labring/kibana:v6.8.22](https://explore.ggcr.dev/?image=docker.io/labring/kibana:v6.8.22)
+
+
 ### [kong-ingress-controller](https://github.com/labring-actions/cluster-image/tree/main/applications/kong-ingress-controller)
 
 - [docker.io/labring/kong-ingress-controller:2.7.0](https://explore.ggcr.dev/?image=docker.io/labring/kong-ingress-controller:2.7.0)
+
+
+### [koperator](https://github.com/labring-actions/cluster-image/tree/main/applications/koperator)
+
+- [docker.io/labring/koperator:v0.25.1](https://explore.ggcr.dev/?image=docker.io/labring/koperator:v0.25.1)
 
 
 ### [kube-ovn](https://github.com/labring-actions/cluster-image/tree/main/applications/kube-ovn)
@@ -844,6 +913,12 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/openim:errcode](https://explore.ggcr.dev/?image=docker.io/labring/openim:errcode)
 
 
+### [openobserve](https://github.com/labring-actions/cluster-image/tree/main/applications/openobserve)
+
+- [docker.io/labring/openobserve:v0.6.4](https://explore.ggcr.dev/?image=docker.io/labring/openobserve:v0.6.4)
+- [docker.io/labring/openobserve:v0.5.0](https://explore.ggcr.dev/?image=docker.io/labring/openobserve:v0.5.0)
+
+
 ### [oracle-mysql-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/oracle-mysql-operator)
 
 - [docker.io/labring/oracle-mysql-operator:8.0.30-2.0.6](https://explore.ggcr.dev/?image=docker.io/labring/oracle-mysql-operator:8.0.30-2.0.6)
@@ -864,6 +939,14 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/podman:v4.6.1](https://explore.ggcr.dev/?image=docker.io/labring/podman:v4.6.1)
 - [docker.io/labring/podman:v4.5.0](https://explore.ggcr.dev/?image=docker.io/labring/podman:v4.5.0)
 - [docker.io/labring/podman:v4.4.4](https://explore.ggcr.dev/?image=docker.io/labring/podman:v4.4.4)
+
+
+### [prometheus](https://github.com/labring-actions/cluster-image/tree/main/applications/prometheus)
+
+- [docker.io/labring/prometheus:v2.46.0](https://explore.ggcr.dev/?image=docker.io/labring/prometheus:v2.46.0)
+- [docker.io/labring/prometheus:v2.45.0](https://explore.ggcr.dev/?image=docker.io/labring/prometheus:v2.45.0)
+- [docker.io/labring/prometheus:v2.44.0](https://explore.ggcr.dev/?image=docker.io/labring/prometheus:v2.44.0)
+- [docker.io/labring/prometheus:v2.43.0](https://explore.ggcr.dev/?image=docker.io/labring/prometheus:v2.43.0)
 
 
 ### [prometheus-adapter](https://github.com/labring-actions/cluster-image/tree/main/applications/prometheus-adapter)
@@ -988,6 +1071,20 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/uptime-kuma:1.23.0](https://explore.ggcr.dev/?image=docker.io/labring/uptime-kuma:1.23.0)
 
 
+### [vector](https://github.com/labring-actions/cluster-image/tree/main/applications/vector)
+
+- [docker.io/labring/vector:v0.33.0-distroless-libc](https://explore.ggcr.dev/?image=docker.io/labring/vector:v0.33.0-distroless-libc)
+- [docker.io/labring/vector:v0.32.0-distroless-libc](https://explore.ggcr.dev/?image=docker.io/labring/vector:v0.32.0-distroless-libc)
+- [docker.io/labring/vector:v0.31.0-distroless-libc](https://explore.ggcr.dev/?image=docker.io/labring/vector:v0.31.0-distroless-libc)
+- [docker.io/labring/vector:v0.29.1-distroless-libc](https://explore.ggcr.dev/?image=docker.io/labring/vector:v0.29.1-distroless-libc)
+
+
+### [vector-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/vector-operator)
+
+- [docker.io/labring/vector-operator:v0.0.30](https://explore.ggcr.dev/?image=docker.io/labring/vector-operator:v0.0.30)
+- [docker.io/labring/vector-operator:v0.0.29](https://explore.ggcr.dev/?image=docker.io/labring/vector-operator:v0.0.29)
+
+
 ### [velero](https://github.com/labring-actions/cluster-image/tree/main/applications/velero)
 
 - [docker.io/labring/velero:v1.9.1](https://explore.ggcr.dev/?image=docker.io/labring/velero:v1.9.1)
@@ -1027,6 +1124,8 @@ Here are the versions of the images along with their corresponding links:
 ### [zookeeper-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/zookeeper-operator)
 
 - [docker.io/labring/zookeeper-operator:0.2.15](https://explore.ggcr.dev/?image=docker.io/labring/zookeeper-operator:0.2.15)
+- [docker.io/labring/zookeeper-operator:0.2.14](https://explore.ggcr.dev/?image=docker.io/labring/zookeeper-operator:0.2.14)
+- [docker.io/labring/zookeeper-operator:0.2.13](https://explore.ggcr.dev/?image=docker.io/labring/zookeeper-operator:0.2.13)
 
 
 ### [zot](https://github.com/labring-actions/cluster-image/tree/main/applications/zot)
