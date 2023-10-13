@@ -64,9 +64,17 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/bitnami-etcd:v3.5.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-etcd:v3.5.6)
 
 
+### [bitnami-fluentd](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-fluentd)
+
+
+
 ### [bitnami-kafka](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-kafka)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/bitnami-kafka:v22.1.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-kafka:v22.1.5)
+
+
+### [bitnami-kibana](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-kibana)
+
 
 
 ### [bitnami-mariadb](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-mariadb)
@@ -297,6 +305,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/elastic:7.17.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/elastic:7.17.3)
 
 
+### [elasticsearch](https://github.com/labring-actions/cluster-image/tree/main/applications/elasticsearch)
+
+
+
 ### [endpoints-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/endpoints-operator)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.2.1)
@@ -312,6 +324,10 @@ Here are the versions of the images along with their corresponding links:
 ### [etcdctl](https://github.com/labring-actions/cluster-image/tree/main/applications/etcdctl)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/etcdctl:v3.5.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/etcdctl:v3.5.6)
+
+
+### [filebeat](https://github.com/labring-actions/cluster-image/tree/main/applications/filebeat)
+
 
 
 ### [flannel](https://github.com/labring-actions/cluster-image/tree/main/applications/flannel)
@@ -343,6 +359,10 @@ Here are the versions of the images along with their corresponding links:
 ### [fluent-bit](https://github.com/labring-actions/cluster-image/tree/main/applications/fluent-bit)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/fluent-bit:0.20.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/fluent-bit:0.20.9)
+
+
+### [fluent-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/fluent-operator)
+
 
 
 ### [fluent-operator-containerd](https://github.com/labring-actions/cluster-image/tree/main/applications/fluent-operator-containerd)
@@ -518,14 +538,26 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/kafka-operator:0.28.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kafka-operator:0.28.0)
 
 
+### [kafka-ui](https://github.com/labring-actions/cluster-image/tree/main/applications/kafka-ui)
+
+
+
 ### [karmada](https://github.com/labring-actions/cluster-image/tree/main/applications/karmada)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/karmada:v1.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/karmada:v1.5.0)
 
 
+### [kibana](https://github.com/labring-actions/cluster-image/tree/main/applications/kibana)
+
+
+
 ### [kong-ingress-controller](https://github.com/labring-actions/cluster-image/tree/main/applications/kong-ingress-controller)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/kong-ingress-controller:2.7.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kong-ingress-controller:2.7.0)
+
+
+### [koperator](https://github.com/labring-actions/cluster-image/tree/main/applications/koperator)
+
 
 
 ### [kube-ovn](https://github.com/labring-actions/cluster-image/tree/main/applications/kube-ovn)
@@ -844,6 +876,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/openim:errcode](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/openim:errcode)
 
 
+### [openobserve](https://github.com/labring-actions/cluster-image/tree/main/applications/openobserve)
+
+
+
 ### [oracle-mysql-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/oracle-mysql-operator)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/oracle-mysql-operator:8.0.30-2.0.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/oracle-mysql-operator:8.0.30-2.0.6)
@@ -864,6 +900,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/podman:v4.6.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/podman:v4.6.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/podman:v4.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/podman:v4.5.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/podman:v4.4.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/podman:v4.4.4)
+
+
+### [prometheus](https://github.com/labring-actions/cluster-image/tree/main/applications/prometheus)
+
 
 
 ### [prometheus-adapter](https://github.com/labring-actions/cluster-image/tree/main/applications/prometheus-adapter)
@@ -986,6 +1026,14 @@ Here are the versions of the images along with their corresponding links:
 
 - [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.0)
+
+
+### [vector](https://github.com/labring-actions/cluster-image/tree/main/applications/vector)
+
+
+
+### [vector-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/vector-operator)
+
 
 
 ### [velero](https://github.com/labring-actions/cluster-image/tree/main/applications/velero)
