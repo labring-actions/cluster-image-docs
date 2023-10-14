@@ -595,6 +595,7 @@ Here are the versions of the images along with their corresponding links:
 ### [koperator](https://github.com/labring-actions/cluster-image/tree/main/applications/koperator)
 
 - [docker.io/labring/koperator:v0.25.1](https://explore.ggcr.dev/?image=docker.io/labring/koperator:v0.25.1)
+- [docker.io/labring/koperator:v0.24.1](https://explore.ggcr.dev/?image=docker.io/labring/koperator:v0.24.1)
 
 
 ### [kube-ovn](https://github.com/labring-actions/cluster-image/tree/main/applications/kube-ovn)

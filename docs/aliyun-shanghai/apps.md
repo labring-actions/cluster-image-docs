@@ -75,6 +75,11 @@ Here are the versions of the images along with their corresponding links:
 
 ### [bitnami-kibana](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-kibana)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-kibana:v8.10.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-kibana:v8.10.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-kibana:v8.10.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-kibana:v8.10.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-kibana:v8.4.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-kibana:v8.4.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-kibana:v8.3.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-kibana:v8.3.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-kibana:v8.2.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-kibana:v8.2.3)
 
 
 ### [bitnami-mariadb](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-mariadb)
@@ -328,6 +333,9 @@ Here are the versions of the images along with their corresponding links:
 
 ### [filebeat](https://github.com/labring-actions/cluster-image/tree/main/applications/filebeat)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/filebeat:v8.5.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/filebeat:v8.5.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/filebeat:v7.17.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/filebeat:v7.17.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/filebeat:v6.8.22](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/filebeat:v6.8.22)
 
 
 ### [flannel](https://github.com/labring-actions/cluster-image/tree/main/applications/flannel)
@@ -540,6 +548,9 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kafka-ui](https://github.com/labring-actions/cluster-image/tree/main/applications/kafka-ui)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kafka-ui:v0.6.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kafka-ui:v0.6.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/kafka-ui:v0.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kafka-ui:v0.5.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/kafka-ui:v0.4.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kafka-ui:v0.4.0)
 
 
 ### [karmada](https://github.com/labring-actions/cluster-image/tree/main/applications/karmada)
@@ -549,6 +560,9 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kibana](https://github.com/labring-actions/cluster-image/tree/main/applications/kibana)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kibana:v8.5.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kibana:v8.5.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/kibana:v7.17.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kibana:v7.17.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/kibana:v6.8.22](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kibana:v6.8.22)
 
 
 ### [kong-ingress-controller](https://github.com/labring-actions/cluster-image/tree/main/applications/kong-ingress-controller)
@@ -558,6 +572,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [koperator](https://github.com/labring-actions/cluster-image/tree/main/applications/koperator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/koperator:v0.25.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/koperator:v0.25.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/koperator:v0.24.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/koperator:v0.24.1)
 
 
 ### [kube-ovn](https://github.com/labring-actions/cluster-image/tree/main/applications/kube-ovn)
@@ -878,6 +894,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [openobserve](https://github.com/labring-actions/cluster-image/tree/main/applications/openobserve)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/openobserve:v0.6.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/openobserve:v0.6.4)
+- [registry.cn-shanghai.aliyuncs.com/labring/openobserve:v0.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/openobserve:v0.5.0)
 
 
 ### [oracle-mysql-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/oracle-mysql-operator)
@@ -904,6 +922,10 @@ Here are the versions of the images along with their corresponding links:
 
 ### [prometheus](https://github.com/labring-actions/cluster-image/tree/main/applications/prometheus)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/prometheus:v2.46.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/prometheus:v2.46.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/prometheus:v2.45.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/prometheus:v2.45.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/prometheus:v2.44.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/prometheus:v2.44.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/prometheus:v2.43.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/prometheus:v2.43.0)
 
 
 ### [prometheus-adapter](https://github.com/labring-actions/cluster-image/tree/main/applications/prometheus-adapter)
@@ -1030,10 +1052,16 @@ Here are the versions of the images along with their corresponding links:
 
 ### [vector](https://github.com/labring-actions/cluster-image/tree/main/applications/vector)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/vector:v0.33.0-distroless-libc](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/vector:v0.33.0-distroless-libc)
+- [registry.cn-shanghai.aliyuncs.com/labring/vector:v0.32.0-distroless-libc](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/vector:v0.32.0-distroless-libc)
+- [registry.cn-shanghai.aliyuncs.com/labring/vector:v0.31.0-distroless-libc](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/vector:v0.31.0-distroless-libc)
+- [registry.cn-shanghai.aliyuncs.com/labring/vector:v0.29.1-distroless-libc](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/vector:v0.29.1-distroless-libc)
 
 
 ### [vector-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/vector-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/vector-operator:v0.0.30](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/vector-operator:v0.0.30)
+- [registry.cn-shanghai.aliyuncs.com/labring/vector-operator:v0.0.29](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/vector-operator:v0.0.29)
 
 
 ### [velero](https://github.com/labring-actions/cluster-image/tree/main/applications/velero)
@@ -1075,6 +1103,7 @@ Here are the versions of the images along with their corresponding links:
 ### [zookeeper-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/zookeeper-operator)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/zookeeper-operator:0.2.15](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/zookeeper-operator:0.2.15)
+- [registry.cn-shanghai.aliyuncs.com/labring/zookeeper-operator:0.2.14](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/zookeeper-operator:0.2.14)
 
 
 ### [zot](https://github.com/labring-actions/cluster-image/tree/main/applications/zot)
