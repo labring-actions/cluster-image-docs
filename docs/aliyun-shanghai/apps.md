@@ -55,6 +55,17 @@ Here are the versions of the images along with their corresponding links:
 
 ### [bitnami-elasticsearch](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-elasticsearch)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.10.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.10.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.10.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.10.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.10.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.10.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.9.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.9.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.8.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.7.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.7.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.6.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.6.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.5.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.5.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.4.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.4.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.3.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.3.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:v8.2.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:19.13.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-elasticsearch:19.13.0)
 
 
@@ -66,15 +77,20 @@ Here are the versions of the images along with their corresponding links:
 
 ### [bitnami-fluentd](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-fluentd)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-fluentd:v1.16.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-fluentd:v1.16.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-fluentd:v1.15.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-fluentd:v1.15.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-fluentd:v1.14.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-fluentd:v1.14.6)
 
 
 ### [bitnami-kafka](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-kafka)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/bitnami-kafka:v22.1.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-kafka:v22.1.5)
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-kafka:v3.5.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-kafka:v3.5.1)
 
 
 ### [bitnami-kibana](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-kibana)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-kibana:v8.10.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-kibana:v8.10.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/bitnami-kibana:v8.10.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-kibana:v8.10.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/bitnami-kibana:v8.10.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-kibana:v8.10.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/bitnami-kibana:v8.4.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-kibana:v8.4.3)
@@ -312,6 +328,9 @@ Here are the versions of the images along with their corresponding links:
 
 ### [elasticsearch](https://github.com/labring-actions/cluster-image/tree/main/applications/elasticsearch)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/elasticsearch:v8.5.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/elasticsearch:v8.5.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/elasticsearch:v7.17.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/elasticsearch:v7.17.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/elasticsearch:v6.8.22](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/elasticsearch:v6.8.22)
 
 
 ### [endpoints-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/endpoints-operator)
@@ -371,6 +390,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [fluent-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/fluent-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/fluent-operator:v2.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/fluent-operator:v2.5.0)
 
 
 ### [fluent-operator-containerd](https://github.com/labring-actions/cluster-image/tree/main/applications/fluent-operator-containerd)
@@ -474,6 +494,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [helmfile](https://github.com/labring-actions/cluster-image/tree/main/applications/helmfile)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/helmfile:v0.157.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helmfile:v0.157.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/helmfile:v0.156.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helmfile:v0.156.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/helmfile:v0.155.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helmfile:v0.155.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/helmfile:v0.154.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helmfile:v0.154.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/helmfile:v0.153.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helmfile:v0.153.0)
@@ -1104,6 +1126,7 @@ Here are the versions of the images along with their corresponding links:
 
 - [registry.cn-shanghai.aliyuncs.com/labring/zookeeper-operator:0.2.15](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/zookeeper-operator:0.2.15)
 - [registry.cn-shanghai.aliyuncs.com/labring/zookeeper-operator:0.2.14](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/zookeeper-operator:0.2.14)
+- [registry.cn-shanghai.aliyuncs.com/labring/zookeeper-operator:0.2.13](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/zookeeper-operator:0.2.13)
 
 
 ### [zot](https://github.com/labring-actions/cluster-image/tree/main/applications/zot)
