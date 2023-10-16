@@ -75,6 +75,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/bitnami-etcd:v3.5.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-etcd:v3.5.6)
 
 
+### [bitnami-fluent-bit](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-fluent-bit)
+
+
+
 ### [bitnami-fluentd](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-fluentd)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/bitnami-fluentd:v1.16.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-fluentd:v1.16.2)
@@ -717,6 +721,10 @@ Here are the versions of the images along with their corresponding links:
 ### [local-path-provisioner](https://github.com/labring-actions/cluster-image/tree/main/applications/local-path-provisioner)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/local-path-provisioner:v0.0.23](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/local-path-provisioner:v0.0.23)
+
+
+### [logging-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/logging-operator)
+
 
 
 ### [loki](https://github.com/labring-actions/cluster-image/tree/main/applications/loki)
