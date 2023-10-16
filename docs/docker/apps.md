@@ -75,6 +75,12 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/bitnami-etcd:v3.5.6](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-etcd:v3.5.6)
 
 
+### [bitnami-fluent-bit](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-fluent-bit)
+
+- [docker.io/labring/bitnami-fluent-bit:v2.1.10](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-fluent-bit:v2.1.10)
+- [docker.io/labring/bitnami-fluent-bit:v2.0.10](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-fluent-bit:v2.0.10)
+
+
 ### [bitnami-fluentd](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-fluentd)
 
 - [docker.io/labring/bitnami-fluentd:v1.16.2](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-fluentd:v1.16.2)
@@ -717,6 +723,11 @@ Here are the versions of the images along with their corresponding links:
 ### [local-path-provisioner](https://github.com/labring-actions/cluster-image/tree/main/applications/local-path-provisioner)
 
 - [docker.io/labring/local-path-provisioner:v0.0.23](https://explore.ggcr.dev/?image=docker.io/labring/local-path-provisioner:v0.0.23)
+
+
+### [logging-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/logging-operator)
+
+- [docker.io/labring/logging-operator:v4.4.0](https://explore.ggcr.dev/?image=docker.io/labring/logging-operator:v4.4.0)
 
 
 ### [loki](https://github.com/labring-actions/cluster-image/tree/main/applications/loki)
