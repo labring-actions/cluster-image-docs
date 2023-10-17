@@ -77,6 +77,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [bitnami-fluent-bit](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-fluent-bit)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-fluent-bit:v2.1.10](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-fluent-bit:v2.1.10)
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-fluent-bit:v2.0.10](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-fluent-bit:v2.0.10)
 
 
 ### [bitnami-fluentd](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-fluentd)
@@ -574,6 +576,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kafka-ui](https://github.com/labring-actions/cluster-image/tree/main/applications/kafka-ui)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kafka-ui:v0.7.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kafka-ui:v0.7.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/kafka-ui:v0.6.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kafka-ui:v0.6.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/kafka-ui:v0.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kafka-ui:v0.5.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kafka-ui:v0.4.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kafka-ui:v0.4.0)
@@ -725,6 +728,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [logging-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/logging-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/logging-operator:v4.4.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/logging-operator:v4.4.0)
 
 
 ### [loki](https://github.com/labring-actions/cluster-image/tree/main/applications/loki)
