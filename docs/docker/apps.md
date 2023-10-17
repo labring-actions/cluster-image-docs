@@ -576,6 +576,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kafka-ui](https://github.com/labring-actions/cluster-image/tree/main/applications/kafka-ui)
 
+- [docker.io/labring/kafka-ui:v0.7.1](https://explore.ggcr.dev/?image=docker.io/labring/kafka-ui:v0.7.1)
 - [docker.io/labring/kafka-ui:v0.6.2](https://explore.ggcr.dev/?image=docker.io/labring/kafka-ui:v0.6.2)
 - [docker.io/labring/kafka-ui:v0.5.0](https://explore.ggcr.dev/?image=docker.io/labring/kafka-ui:v0.5.0)
 - [docker.io/labring/kafka-ui:v0.4.0](https://explore.ggcr.dev/?image=docker.io/labring/kafka-ui:v0.4.0)
