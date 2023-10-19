@@ -226,6 +226,7 @@ Here are the versions of the images along with their corresponding links:
 
 - [docker.io/labring/cilium:v1.13.4](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.13.4)
 - [docker.io/labring/cilium:v1.13.0](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.13.0)
+- [docker.io/labring/cilium:v1.12.15](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.12.15)
 - [docker.io/labring/cilium:v1.12.14](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.12.14)
 - [docker.io/labring/cilium:v1.12.13](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.12.13)
 - [docker.io/labring/cilium:v1.12.12](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.12.12)
@@ -316,6 +317,12 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/deepflow:v6.3.5](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.3.5)
 
 
+### [descheduler](https://github.com/labring-actions/cluster-image/tree/main/applications/descheduler)
+
+- [docker.io/labring/descheduler:v0.28.0](https://explore.ggcr.dev/?image=docker.io/labring/descheduler:v0.28.0)
+- [docker.io/labring/descheduler:v0.27.1](https://explore.ggcr.dev/?image=docker.io/labring/descheduler:v0.27.1)
+
+
 ### [discourse](https://github.com/labring-actions/cluster-image/tree/main/applications/discourse)
 
 - [docker.io/labring/discourse:v3.0.6](https://explore.ggcr.dev/?image=docker.io/labring/discourse:v3.0.6)
@@ -391,12 +398,16 @@ Here are the versions of the images along with their corresponding links:
 
 ### [fluent-bit](https://github.com/labring-actions/cluster-image/tree/main/applications/fluent-bit)
 
+- [docker.io/labring/fluent-bit:v2.1.10](https://explore.ggcr.dev/?image=docker.io/labring/fluent-bit:v2.1.10)
+- [docker.io/labring/fluent-bit:v2.0.11](https://explore.ggcr.dev/?image=docker.io/labring/fluent-bit:v2.0.11)
+- [docker.io/labring/fluent-bit:v1.9.9](https://explore.ggcr.dev/?image=docker.io/labring/fluent-bit:v1.9.9)
 - [docker.io/labring/fluent-bit:0.20.9](https://explore.ggcr.dev/?image=docker.io/labring/fluent-bit:0.20.9)
 
 
 ### [fluent-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/fluent-operator)
 
 - [docker.io/labring/fluent-operator:v2.5.0](https://explore.ggcr.dev/?image=docker.io/labring/fluent-operator:v2.5.0)
+- [docker.io/labring/fluent-operator:v2.4.0](https://explore.ggcr.dev/?image=docker.io/labring/fluent-operator:v2.4.0)
 
 
 ### [fluent-operator-containerd](https://github.com/labring-actions/cluster-image/tree/main/applications/fluent-operator-containerd)
@@ -408,6 +419,12 @@ Here are the versions of the images along with their corresponding links:
 
 - [docker.io/labring/fluxcd:v0.37.0](https://explore.ggcr.dev/?image=docker.io/labring/fluxcd:v0.37.0)
 - [docker.io/labring/fluxcd:0.36.0](https://explore.ggcr.dev/?image=docker.io/labring/fluxcd:0.36.0)
+
+
+### [gatekeeper](https://github.com/labring-actions/cluster-image/tree/main/applications/gatekeeper)
+
+- [docker.io/labring/gatekeeper:v3.13.3](https://explore.ggcr.dev/?image=docker.io/labring/gatekeeper:v3.13.3)
+- [docker.io/labring/gatekeeper:v3.12.0](https://explore.ggcr.dev/?image=docker.io/labring/gatekeeper:v3.12.0)
 
 
 ### [gitea](https://github.com/labring-actions/cluster-image/tree/main/applications/gitea)
@@ -924,6 +941,12 @@ Here are the versions of the images along with their corresponding links:
 ### [openim](https://github.com/labring-actions/cluster-image/tree/main/applications/openim)
 
 - [docker.io/labring/openim:errcode](https://explore.ggcr.dev/?image=docker.io/labring/openim:errcode)
+
+
+### [openkruise](https://github.com/labring-actions/cluster-image/tree/main/applications/openkruise)
+
+- [docker.io/labring/openkruise:v1.5.0](https://explore.ggcr.dev/?image=docker.io/labring/openkruise:v1.5.0)
+- [docker.io/labring/openkruise:v1.4.0](https://explore.ggcr.dev/?image=docker.io/labring/openkruise:v1.4.0)
 
 
 ### [openobserve](https://github.com/labring-actions/cluster-image/tree/main/applications/openobserve)

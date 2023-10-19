@@ -316,6 +316,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.5)
 
 
+### [descheduler](https://github.com/labring-actions/cluster-image/tree/main/applications/descheduler)
+
+
+
 ### [discourse](https://github.com/labring-actions/cluster-image/tree/main/applications/discourse)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/discourse:v3.0.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/discourse:v3.0.6)
@@ -391,12 +395,16 @@ Here are the versions of the images along with their corresponding links:
 
 ### [fluent-bit](https://github.com/labring-actions/cluster-image/tree/main/applications/fluent-bit)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/fluent-bit:v2.1.10](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/fluent-bit:v2.1.10)
+- [registry.cn-shanghai.aliyuncs.com/labring/fluent-bit:v2.0.11](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/fluent-bit:v2.0.11)
+- [registry.cn-shanghai.aliyuncs.com/labring/fluent-bit:v1.9.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/fluent-bit:v1.9.9)
 - [registry.cn-shanghai.aliyuncs.com/labring/fluent-bit:0.20.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/fluent-bit:0.20.9)
 
 
 ### [fluent-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/fluent-operator)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/fluent-operator:v2.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/fluent-operator:v2.5.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/fluent-operator:v2.4.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/fluent-operator:v2.4.0)
 
 
 ### [fluent-operator-containerd](https://github.com/labring-actions/cluster-image/tree/main/applications/fluent-operator-containerd)
@@ -408,6 +416,10 @@ Here are the versions of the images along with their corresponding links:
 
 - [registry.cn-shanghai.aliyuncs.com/labring/fluxcd:v0.37.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/fluxcd:v0.37.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/fluxcd:0.36.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/fluxcd:0.36.0)
+
+
+### [gatekeeper](https://github.com/labring-actions/cluster-image/tree/main/applications/gatekeeper)
+
 
 
 ### [gitea](https://github.com/labring-actions/cluster-image/tree/main/applications/gitea)
@@ -924,6 +936,10 @@ Here are the versions of the images along with their corresponding links:
 ### [openim](https://github.com/labring-actions/cluster-image/tree/main/applications/openim)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/openim:errcode](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/openim:errcode)
+
+
+### [openkruise](https://github.com/labring-actions/cluster-image/tree/main/applications/openkruise)
+
 
 
 ### [openobserve](https://github.com/labring-actions/cluster-image/tree/main/applications/openobserve)
