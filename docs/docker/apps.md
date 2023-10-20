@@ -28,6 +28,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [argocd](https://github.com/labring-actions/cluster-image/tree/main/applications/argocd)
 
+- [docker.io/labring/argocd:v2.8.4](https://explore.ggcr.dev/?image=docker.io/labring/argocd:v2.8.4)
 - [docker.io/labring/argocd:v2.5.3](https://explore.ggcr.dev/?image=docker.io/labring/argocd:v2.5.3)
 - [docker.io/labring/argocd:v2.4.17](https://explore.ggcr.dev/?image=docker.io/labring/argocd:v2.4.17)
 - [docker.io/labring/argocd:v2.4.8](https://explore.ggcr.dev/?image=docker.io/labring/argocd:v2.4.8)
@@ -429,6 +430,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [gitea](https://github.com/labring-actions/cluster-image/tree/main/applications/gitea)
 
+- [docker.io/labring/gitea:v1.20.5](https://explore.ggcr.dev/?image=docker.io/labring/gitea:v1.20.5)
+- [docker.io/labring/gitea:v1.20.4](https://explore.ggcr.dev/?image=docker.io/labring/gitea:v1.20.4)
 - [docker.io/labring/gitea:v1.20.3](https://explore.ggcr.dev/?image=docker.io/labring/gitea:v1.20.3)
 - [docker.io/labring/gitea:v1.20.2](https://explore.ggcr.dev/?image=docker.io/labring/gitea:v1.20.2)
 - [docker.io/labring/gitea:v1.20.1](https://explore.ggcr.dev/?image=docker.io/labring/gitea:v1.20.1)

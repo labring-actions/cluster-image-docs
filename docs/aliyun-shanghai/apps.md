@@ -226,6 +226,7 @@ Here are the versions of the images along with their corresponding links:
 
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.15](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.15)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.14](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.14)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.13](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.13)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.12](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.12)
@@ -318,6 +319,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [descheduler](https://github.com/labring-actions/cluster-image/tree/main/applications/descheduler)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/descheduler:v0.28.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/descheduler:v0.28.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/descheduler:v0.27.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/descheduler:v0.27.1)
 
 
 ### [discourse](https://github.com/labring-actions/cluster-image/tree/main/applications/discourse)
@@ -420,10 +423,14 @@ Here are the versions of the images along with their corresponding links:
 
 ### [gatekeeper](https://github.com/labring-actions/cluster-image/tree/main/applications/gatekeeper)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/gatekeeper:v3.13.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/gatekeeper:v3.13.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/gatekeeper:v3.12.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/gatekeeper:v3.12.0)
 
 
 ### [gitea](https://github.com/labring-actions/cluster-image/tree/main/applications/gitea)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/gitea:v1.20.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/gitea:v1.20.5)
+- [registry.cn-shanghai.aliyuncs.com/labring/gitea:v1.20.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/gitea:v1.20.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/gitea:v1.20.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/gitea:v1.20.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/gitea:v1.20.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/gitea:v1.20.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/gitea:v1.20.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/gitea:v1.20.1)
@@ -940,6 +947,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [openkruise](https://github.com/labring-actions/cluster-image/tree/main/applications/openkruise)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/openkruise:v1.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/openkruise:v1.5.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/openkruise:v1.4.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/openkruise:v1.4.0)
 
 
 ### [openobserve](https://github.com/labring-actions/cluster-image/tree/main/applications/openobserve)
