@@ -29,6 +29,8 @@ Here are the versions of the images along with their corresponding links:
 ### [argocd](https://github.com/labring-actions/cluster-image/tree/main/applications/argocd)
 
 - [docker.io/labring/argocd:v2.8.4](https://explore.ggcr.dev/?image=docker.io/labring/argocd:v2.8.4)
+- [docker.io/labring/argocd:v2.7.11](https://explore.ggcr.dev/?image=docker.io/labring/argocd:v2.7.11)
+- [docker.io/labring/argocd:v2.6.7](https://explore.ggcr.dev/?image=docker.io/labring/argocd:v2.6.7)
 - [docker.io/labring/argocd:v2.5.3](https://explore.ggcr.dev/?image=docker.io/labring/argocd:v2.5.3)
 - [docker.io/labring/argocd:v2.4.17](https://explore.ggcr.dev/?image=docker.io/labring/argocd:v2.4.17)
 - [docker.io/labring/argocd:v2.4.8](https://explore.ggcr.dev/?image=docker.io/labring/argocd:v2.4.8)
@@ -712,6 +714,9 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubevela](https://github.com/labring-actions/cluster-image/tree/main/applications/kubevela)
 
+- [docker.io/labring/kubevela:v1.9.6](https://explore.ggcr.dev/?image=docker.io/labring/kubevela:v1.9.6)
+- [docker.io/labring/kubevela:v1.8.2](https://explore.ggcr.dev/?image=docker.io/labring/kubevela:v1.8.2)
+- [docker.io/labring/kubevela:v1.7.7](https://explore.ggcr.dev/?image=docker.io/labring/kubevela:v1.7.7)
 - [docker.io/labring/kubevela:v1.6.3](https://explore.ggcr.dev/?image=docker.io/labring/kubevela:v1.6.3)
 - [docker.io/labring/kubevela:v1.6.2](https://explore.ggcr.dev/?image=docker.io/labring/kubevela:v1.6.2)
 - [docker.io/labring/kubevela:v1.6.1](https://explore.ggcr.dev/?image=docker.io/labring/kubevela:v1.6.1)
