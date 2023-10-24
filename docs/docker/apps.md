@@ -664,6 +664,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks)
 
+- [docker.io/labring/kubeblocks:v0.6.4](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.6.4)
 - [docker.io/labring/kubeblocks:v0.6.3](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.6.3)
 - [docker.io/labring/kubeblocks:v0.6.2](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.6.2)
 - [docker.io/labring/kubeblocks:v0.6.1](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.6.1)
