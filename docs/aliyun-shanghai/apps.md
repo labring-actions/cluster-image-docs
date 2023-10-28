@@ -697,6 +697,7 @@ Here are the versions of the images along with their corresponding links:
 ### [kubernetes-dashboard](https://github.com/labring-actions/cluster-image/tree/main/applications/kubernetes-dashboard)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-dashboard:v2.7.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-dashboard:v2.7.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-dashboard:v2.6.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-dashboard:v2.6.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-dashboard:v1.0.8](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-dashboard:v1.0.8)
 
 
