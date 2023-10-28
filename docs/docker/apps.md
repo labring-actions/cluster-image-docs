@@ -912,6 +912,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [openebs](https://github.com/labring-actions/cluster-image/tree/main/applications/openebs)
 
+- [docker.io/labring/openebs:v3.8.0](https://explore.ggcr.dev/?image=docker.io/labring/openebs:v3.8.0)
 - [docker.io/labring/openebs:v3.7.0](https://explore.ggcr.dev/?image=docker.io/labring/openebs:v3.7.0)
 - [docker.io/labring/openebs:v3.6.0](https://explore.ggcr.dev/?image=docker.io/labring/openebs:v3.6.0)
 - [docker.io/labring/openebs:v3.5.0](https://explore.ggcr.dev/?image=docker.io/labring/openebs:v3.5.0)
