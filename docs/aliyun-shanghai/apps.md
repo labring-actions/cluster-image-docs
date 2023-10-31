@@ -538,6 +538,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [ingress-nginx](https://github.com/labring-actions/cluster-image/tree/main/applications/ingress-nginx)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.9.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.9.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.8.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.8.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.8.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.8.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.7.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.7.1)
@@ -607,6 +608,10 @@ Here are the versions of the images along with their corresponding links:
 ### [karmada](https://github.com/labring-actions/cluster-image/tree/main/applications/karmada)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/karmada:v1.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/karmada:v1.5.0)
+
+
+### [keda](https://github.com/labring-actions/cluster-image/tree/main/applications/keda)
+
 
 
 ### [kibana](https://github.com/labring-actions/cluster-image/tree/main/applications/kibana)
@@ -966,6 +971,18 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/openobserve:v0.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/openobserve:v0.5.0)
 
 
+### [opentelemetry-collector](https://github.com/labring-actions/cluster-image/tree/main/applications/opentelemetry-collector)
+
+
+
+### [opentelemetry-demo](https://github.com/labring-actions/cluster-image/tree/main/applications/opentelemetry-demo)
+
+
+
+### [opentelemetry-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/opentelemetry-operator)
+
+
+
 ### [oracle-mysql-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/oracle-mysql-operator)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/oracle-mysql-operator:8.0.30-2.0.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/oracle-mysql-operator:8.0.30-2.0.6)
@@ -986,6 +1003,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/podman:v4.6.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/podman:v4.6.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/podman:v4.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/podman:v4.5.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/podman:v4.4.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/podman:v4.4.4)
+
+
+### [portainer](https://github.com/labring-actions/cluster-image/tree/main/applications/portainer)
+
 
 
 ### [prometheus](https://github.com/labring-actions/cluster-image/tree/main/applications/prometheus)
@@ -1104,6 +1125,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [traefik](https://github.com/labring-actions/cluster-image/tree/main/applications/traefik)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/traefik:v2.10.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/traefik:v2.10.5)
+- [registry.cn-shanghai.aliyuncs.com/labring/traefik:v2.9.10](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/traefik:v2.9.10)
 - [registry.cn-shanghai.aliyuncs.com/labring/traefik:2.8.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/traefik:2.8.7)
 
 
@@ -1145,6 +1168,10 @@ Here are the versions of the images along with their corresponding links:
 ### [weave-gitops](https://github.com/labring-actions/cluster-image/tree/main/applications/weave-gitops)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/weave-gitops:0.10.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/weave-gitops:0.10.1)
+
+
+### [wiki-js](https://github.com/labring-actions/cluster-image/tree/main/applications/wiki-js)
+
 
 
 ### [wordpress](https://github.com/labring-actions/cluster-image/tree/main/applications/wordpress)
