@@ -538,6 +538,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [ingress-nginx](https://github.com/labring-actions/cluster-image/tree/main/applications/ingress-nginx)
 
+- [docker.io/labring/ingress-nginx:v1.9.3](https://explore.ggcr.dev/?image=docker.io/labring/ingress-nginx:v1.9.3)
 - [docker.io/labring/ingress-nginx:v1.8.1](https://explore.ggcr.dev/?image=docker.io/labring/ingress-nginx:v1.8.1)
 - [docker.io/labring/ingress-nginx:v1.8.0](https://explore.ggcr.dev/?image=docker.io/labring/ingress-nginx:v1.8.0)
 - [docker.io/labring/ingress-nginx:v1.7.1](https://explore.ggcr.dev/?image=docker.io/labring/ingress-nginx:v1.7.1)
@@ -607,6 +608,11 @@ Here are the versions of the images along with their corresponding links:
 ### [karmada](https://github.com/labring-actions/cluster-image/tree/main/applications/karmada)
 
 - [docker.io/labring/karmada:v1.5.0](https://explore.ggcr.dev/?image=docker.io/labring/karmada:v1.5.0)
+
+
+### [keda](https://github.com/labring-actions/cluster-image/tree/main/applications/keda)
+
+- [docker.io/labring/keda:v2.11.2](https://explore.ggcr.dev/?image=docker.io/labring/keda:v2.11.2)
 
 
 ### [kibana](https://github.com/labring-actions/cluster-image/tree/main/applications/kibana)
@@ -966,6 +972,23 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/openobserve:v0.5.0](https://explore.ggcr.dev/?image=docker.io/labring/openobserve:v0.5.0)
 
 
+### [opentelemetry-collector](https://github.com/labring-actions/cluster-image/tree/main/applications/opentelemetry-collector)
+
+- [docker.io/labring/opentelemetry-collector:v0.88.0](https://explore.ggcr.dev/?image=docker.io/labring/opentelemetry-collector:v0.88.0)
+- [docker.io/labring/opentelemetry-collector:v0.87.0](https://explore.ggcr.dev/?image=docker.io/labring/opentelemetry-collector:v0.87.0)
+
+
+### [opentelemetry-demo](https://github.com/labring-actions/cluster-image/tree/main/applications/opentelemetry-demo)
+
+- [docker.io/labring/opentelemetry-demo:v1.5.0](https://explore.ggcr.dev/?image=docker.io/labring/opentelemetry-demo:v1.5.0)
+- [docker.io/labring/opentelemetry-demo:v1.4.0](https://explore.ggcr.dev/?image=docker.io/labring/opentelemetry-demo:v1.4.0)
+
+
+### [opentelemetry-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/opentelemetry-operator)
+
+- [docker.io/labring/opentelemetry-operator:v0.87.0](https://explore.ggcr.dev/?image=docker.io/labring/opentelemetry-operator:v0.87.0)
+
+
 ### [oracle-mysql-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/oracle-mysql-operator)
 
 - [docker.io/labring/oracle-mysql-operator:8.0.30-2.0.6](https://explore.ggcr.dev/?image=docker.io/labring/oracle-mysql-operator:8.0.30-2.0.6)
@@ -986,6 +1009,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/podman:v4.6.1](https://explore.ggcr.dev/?image=docker.io/labring/podman:v4.6.1)
 - [docker.io/labring/podman:v4.5.0](https://explore.ggcr.dev/?image=docker.io/labring/podman:v4.5.0)
 - [docker.io/labring/podman:v4.4.4](https://explore.ggcr.dev/?image=docker.io/labring/podman:v4.4.4)
+
+
+### [portainer](https://github.com/labring-actions/cluster-image/tree/main/applications/portainer)
+
+- [docker.io/labring/portainer:ce-latest-ee-2.19.1](https://explore.ggcr.dev/?image=docker.io/labring/portainer:ce-latest-ee-2.19.1)
 
 
 ### [prometheus](https://github.com/labring-actions/cluster-image/tree/main/applications/prometheus)
@@ -1104,6 +1132,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [traefik](https://github.com/labring-actions/cluster-image/tree/main/applications/traefik)
 
+- [docker.io/labring/traefik:v2.10.5](https://explore.ggcr.dev/?image=docker.io/labring/traefik:v2.10.5)
+- [docker.io/labring/traefik:v2.9.10](https://explore.ggcr.dev/?image=docker.io/labring/traefik:v2.9.10)
 - [docker.io/labring/traefik:2.8.7](https://explore.ggcr.dev/?image=docker.io/labring/traefik:2.8.7)
 
 
@@ -1145,6 +1175,12 @@ Here are the versions of the images along with their corresponding links:
 ### [weave-gitops](https://github.com/labring-actions/cluster-image/tree/main/applications/weave-gitops)
 
 - [docker.io/labring/weave-gitops:0.10.1](https://explore.ggcr.dev/?image=docker.io/labring/weave-gitops:0.10.1)
+
+
+### [wiki-js](https://github.com/labring-actions/cluster-image/tree/main/applications/wiki-js)
+
+- [docker.io/labring/wiki-js:latest](https://explore.ggcr.dev/?image=docker.io/labring/wiki-js:latest)
+- [docker.io/labring/wiki-js:v2.5.300](https://explore.ggcr.dev/?image=docker.io/labring/wiki-js:v2.5.300)
 
 
 ### [wordpress](https://github.com/labring-actions/cluster-image/tree/main/applications/wordpress)
