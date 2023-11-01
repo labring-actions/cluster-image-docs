@@ -612,6 +612,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [keda](https://github.com/labring-actions/cluster-image/tree/main/applications/keda)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/keda:v2.11.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/keda:v2.11.2)
 
 
 ### [kibana](https://github.com/labring-actions/cluster-image/tree/main/applications/kibana)
@@ -973,14 +974,19 @@ Here are the versions of the images along with their corresponding links:
 
 ### [opentelemetry-collector](https://github.com/labring-actions/cluster-image/tree/main/applications/opentelemetry-collector)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/opentelemetry-collector:v0.88.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/opentelemetry-collector:v0.88.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/opentelemetry-collector:v0.87.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/opentelemetry-collector:v0.87.0)
 
 
 ### [opentelemetry-demo](https://github.com/labring-actions/cluster-image/tree/main/applications/opentelemetry-demo)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/opentelemetry-demo:v1.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/opentelemetry-demo:v1.5.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/opentelemetry-demo:v1.4.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/opentelemetry-demo:v1.4.0)
 
 
 ### [opentelemetry-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/opentelemetry-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/opentelemetry-operator:v0.87.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/opentelemetry-operator:v0.87.0)
 
 
 ### [oracle-mysql-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/oracle-mysql-operator)
@@ -1007,6 +1013,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [portainer](https://github.com/labring-actions/cluster-image/tree/main/applications/portainer)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/portainer:ce-latest-ee-2.19.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/portainer:ce-latest-ee-2.19.1)
 
 
 ### [prometheus](https://github.com/labring-actions/cluster-image/tree/main/applications/prometheus)
@@ -1172,6 +1179,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [wiki-js](https://github.com/labring-actions/cluster-image/tree/main/applications/wiki-js)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/wiki-js:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/wiki-js:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/wiki-js:v2.5.300](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/wiki-js:v2.5.300)
 
 
 ### [wordpress](https://github.com/labring-actions/cluster-image/tree/main/applications/wordpress)
@@ -1185,6 +1194,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [zadig](https://github.com/labring-actions/cluster-image/tree/main/applications/zadig)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/zadig:2.0.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/zadig:2.0.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/zadig:1.18.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/zadig:1.18.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/zadig:1.17.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/zadig:1.17.0)
 
