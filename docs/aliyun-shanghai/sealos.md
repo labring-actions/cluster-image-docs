@@ -219,6 +219,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [sealos-cloud-database-service](https://github.com/labring/sealos)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-database-service:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-database-service:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-database-service:v5.0.0-beta3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-database-service:v5.0.0-beta3)
 
 
 ### [sealos-cloud-db-adminer-controller](https://github.com/labring/sealos)
@@ -352,10 +354,14 @@ Here are the versions of the images along with their corresponding links:
 
 ### [sealos-cloud-job-init-controller](https://github.com/labring/sealos)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-job-init-controller:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-job-init-controller:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-job-init-controller:v5.0.0-beta3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-job-init-controller:v5.0.0-beta3)
 
 
 ### [sealos-cloud-license-controller](https://github.com/labring/sealos)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-license-controller:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-license-controller:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-license-controller:v5.0.0-beta3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-license-controller:v5.0.0-beta3)
 
 
 ### [sealos-cloud-license-frontend](https://github.com/labring/sealos)
@@ -399,6 +405,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [sealos-cloud-pay-service](https://github.com/labring/sealos)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-pay-service:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-pay-service:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-pay-service:v5.0.0-beta3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-pay-service:v5.0.0-beta3)
 
 
 ### [sealos-cloud-resources-controller](https://github.com/labring/sealos)
