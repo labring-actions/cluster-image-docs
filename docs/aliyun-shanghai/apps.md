@@ -646,6 +646,10 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kube-prometheus-stack](https://github.com/labring-actions/cluster-image/tree/main/applications/kube-prometheus-stack)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.68.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.68.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.67.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.67.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.66.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.66.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.65.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.65.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.63.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.63.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.56.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.56.0)
 
