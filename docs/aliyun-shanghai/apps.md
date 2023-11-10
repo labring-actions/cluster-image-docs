@@ -295,6 +295,14 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/csi-driver-nfs:v2.0.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/csi-driver-nfs:v2.0.0)
 
 
+### [dapr](https://github.com/labring-actions/cluster-image/tree/main/applications/dapr)
+
+
+
+### [dapr-dashboard](https://github.com/labring-actions/cluster-image/tree/main/applications/dapr-dashboard)
+
+
+
 ### [deepflow](https://github.com/labring-actions/cluster-image/tree/main/applications/deepflow)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/deepflow:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:latest)
@@ -458,6 +466,10 @@ Here are the versions of the images along with their corresponding links:
 ### [gitlab-runner](https://github.com/labring-actions/cluster-image/tree/main/applications/gitlab-runner)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/gitlab-runner:v16.2.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/gitlab-runner:v16.2.0)
+
+
+### [gitness](https://github.com/labring-actions/cluster-image/tree/main/applications/gitness)
+
 
 
 ### [gloo](https://github.com/labring-actions/cluster-image/tree/main/applications/gloo)
@@ -674,6 +686,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.7.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.7.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.2)
