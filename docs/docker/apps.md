@@ -530,6 +530,9 @@ Here are the versions of the images along with their corresponding links:
 
 ### [helm](https://github.com/labring-actions/cluster-image/tree/main/applications/helm)
 
+- [docker.io/labring/helm:v3.13.2](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.13.2)
+- [docker.io/labring/helm:v3.13.1](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.13.1)
+- [docker.io/labring/helm:v3.13.0](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.13.0)
 - [docker.io/labring/helm:v3.12.3](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.12.3)
 - [docker.io/labring/helm:v3.12.2](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.12.2)
 - [docker.io/labring/helm:v3.12.1](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.12.1)
