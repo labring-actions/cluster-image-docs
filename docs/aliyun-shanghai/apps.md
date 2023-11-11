@@ -9,6 +9,18 @@ Here are the versions of the images along with their corresponding links:
 
 ### [apisix](https://github.com/labring-actions/cluster-image/tree/main/applications/apisix)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/apisix:v3.6.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/apisix:v3.6.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/apisix:v3.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/apisix:v3.5.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/apisix:v3.4.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/apisix:v3.4.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/apisix:v3.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/apisix:v3.3.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/apisix:v3.2.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/apisix:v3.2.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/apisix:v3.1.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/apisix:v3.1.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/apisix:3.6.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/apisix:3.6.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/apisix:3.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/apisix:3.5.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/apisix:3.4.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/apisix:3.4.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/apisix:3.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/apisix:3.3.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/apisix:3.2.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/apisix:3.2.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/apisix:3.1.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/apisix:3.1.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/apisix:2.15.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/apisix:2.15.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/apisix:2.15.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/apisix:2.15.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/apisix:2.14.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/apisix:2.14.1)
@@ -200,6 +212,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cert-manager](https://github.com/labring-actions/cluster-image/tree/main/applications/cert-manager)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.6)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.3)
@@ -227,6 +240,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cilium](https://github.com/labring-actions/cluster-image/tree/main/applications/cilium)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.15](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.15)
@@ -293,6 +307,18 @@ Here are the versions of the images along with their corresponding links:
 
 - [registry.cn-shanghai.aliyuncs.com/labring/csi-driver-nfs:v4.4.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/csi-driver-nfs:v4.4.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/csi-driver-nfs:v2.0.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/csi-driver-nfs:v2.0.0)
+
+
+### [dapr](https://github.com/labring-actions/cluster-image/tree/main/applications/dapr)
+
+- [registry.cn-shanghai.aliyuncs.com/labring/dapr:v1.12.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/dapr:v1.12.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/dapr:v1.11.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/dapr:v1.11.5)
+
+
+### [dapr-dashboard](https://github.com/labring-actions/cluster-image/tree/main/applications/dapr-dashboard)
+
+- [registry.cn-shanghai.aliyuncs.com/labring/dapr-dashboard:v0.14.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/dapr-dashboard:v0.14.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/dapr-dashboard:v0.13.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/dapr-dashboard:v0.13.0)
 
 
 ### [deepflow](https://github.com/labring-actions/cluster-image/tree/main/applications/deepflow)
@@ -460,6 +486,11 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/gitlab-runner:v16.2.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/gitlab-runner:v16.2.0)
 
 
+### [gitness](https://github.com/labring-actions/cluster-image/tree/main/applications/gitness)
+
+- [registry.cn-shanghai.aliyuncs.com/labring/gitness:main](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/gitness:main)
+
+
 ### [gloo](https://github.com/labring-actions/cluster-image/tree/main/applications/gloo)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/gloo:v1.12.34](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/gloo:v1.12.34)
@@ -499,6 +530,9 @@ Here are the versions of the images along with their corresponding links:
 
 ### [helm](https://github.com/labring-actions/cluster-image/tree/main/applications/helm)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.13.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.13.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.13.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.13.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.13.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.13.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.12.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.12.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.12.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.12.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.12.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.12.1)
@@ -674,6 +708,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.7.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.7.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.2)
@@ -867,6 +902,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [nerdctl](https://github.com/labring-actions/cluster-image/tree/main/applications/nerdctl)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.7.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.7.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.6.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.6.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.5.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.4.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.4.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.3.0)

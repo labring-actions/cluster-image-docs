@@ -9,6 +9,18 @@ Here are the versions of the images along with their corresponding links:
 
 ### [apisix](https://github.com/labring-actions/cluster-image/tree/main/applications/apisix)
 
+- [docker.io/labring/apisix:v3.6.0](https://explore.ggcr.dev/?image=docker.io/labring/apisix:v3.6.0)
+- [docker.io/labring/apisix:v3.5.0](https://explore.ggcr.dev/?image=docker.io/labring/apisix:v3.5.0)
+- [docker.io/labring/apisix:v3.4.0](https://explore.ggcr.dev/?image=docker.io/labring/apisix:v3.4.0)
+- [docker.io/labring/apisix:v3.3.0](https://explore.ggcr.dev/?image=docker.io/labring/apisix:v3.3.0)
+- [docker.io/labring/apisix:v3.2.0](https://explore.ggcr.dev/?image=docker.io/labring/apisix:v3.2.0)
+- [docker.io/labring/apisix:v3.1.0](https://explore.ggcr.dev/?image=docker.io/labring/apisix:v3.1.0)
+- [docker.io/labring/apisix:3.6.0](https://explore.ggcr.dev/?image=docker.io/labring/apisix:3.6.0)
+- [docker.io/labring/apisix:3.5.0](https://explore.ggcr.dev/?image=docker.io/labring/apisix:3.5.0)
+- [docker.io/labring/apisix:3.4.0](https://explore.ggcr.dev/?image=docker.io/labring/apisix:3.4.0)
+- [docker.io/labring/apisix:3.3.0](https://explore.ggcr.dev/?image=docker.io/labring/apisix:3.3.0)
+- [docker.io/labring/apisix:3.2.0](https://explore.ggcr.dev/?image=docker.io/labring/apisix:3.2.0)
+- [docker.io/labring/apisix:3.1.0](https://explore.ggcr.dev/?image=docker.io/labring/apisix:3.1.0)
 - [docker.io/labring/apisix:2.15.1](https://explore.ggcr.dev/?image=docker.io/labring/apisix:2.15.1)
 - [docker.io/labring/apisix:2.15.0](https://explore.ggcr.dev/?image=docker.io/labring/apisix:2.15.0)
 - [docker.io/labring/apisix:2.14.1](https://explore.ggcr.dev/?image=docker.io/labring/apisix:2.14.1)
@@ -200,6 +212,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cert-manager](https://github.com/labring-actions/cluster-image/tree/main/applications/cert-manager)
 
+- [docker.io/labring/cert-manager:v1.12.6](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.12.6)
 - [docker.io/labring/cert-manager:v1.12.5](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.12.5)
 - [docker.io/labring/cert-manager:v1.12.4](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.12.4)
 - [docker.io/labring/cert-manager:v1.12.3](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.12.3)
@@ -227,6 +240,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cilium](https://github.com/labring-actions/cluster-image/tree/main/applications/cilium)
 
+- [docker.io/labring/cilium:v1.14.3](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.3)
 - [docker.io/labring/cilium:v1.13.4](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.13.4)
 - [docker.io/labring/cilium:v1.13.0](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.13.0)
 - [docker.io/labring/cilium:v1.12.15](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.12.15)
@@ -293,6 +307,18 @@ Here are the versions of the images along with their corresponding links:
 
 - [docker.io/labring/csi-driver-nfs:v4.4.0](https://explore.ggcr.dev/?image=docker.io/labring/csi-driver-nfs:v4.4.0)
 - [docker.io/labring/csi-driver-nfs:v2.0.0](https://explore.ggcr.dev/?image=docker.io/labring/csi-driver-nfs:v2.0.0)
+
+
+### [dapr](https://github.com/labring-actions/cluster-image/tree/main/applications/dapr)
+
+- [docker.io/labring/dapr:v1.12.0](https://explore.ggcr.dev/?image=docker.io/labring/dapr:v1.12.0)
+- [docker.io/labring/dapr:v1.11.5](https://explore.ggcr.dev/?image=docker.io/labring/dapr:v1.11.5)
+
+
+### [dapr-dashboard](https://github.com/labring-actions/cluster-image/tree/main/applications/dapr-dashboard)
+
+- [docker.io/labring/dapr-dashboard:v0.14.0](https://explore.ggcr.dev/?image=docker.io/labring/dapr-dashboard:v0.14.0)
+- [docker.io/labring/dapr-dashboard:v0.13.0](https://explore.ggcr.dev/?image=docker.io/labring/dapr-dashboard:v0.13.0)
 
 
 ### [deepflow](https://github.com/labring-actions/cluster-image/tree/main/applications/deepflow)
@@ -460,6 +486,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/gitlab-runner:v16.2.0](https://explore.ggcr.dev/?image=docker.io/labring/gitlab-runner:v16.2.0)
 
 
+### [gitness](https://github.com/labring-actions/cluster-image/tree/main/applications/gitness)
+
+- [docker.io/labring/gitness:main](https://explore.ggcr.dev/?image=docker.io/labring/gitness:main)
+
+
 ### [gloo](https://github.com/labring-actions/cluster-image/tree/main/applications/gloo)
 
 - [docker.io/labring/gloo:v1.12.34](https://explore.ggcr.dev/?image=docker.io/labring/gloo:v1.12.34)
@@ -499,6 +530,9 @@ Here are the versions of the images along with their corresponding links:
 
 ### [helm](https://github.com/labring-actions/cluster-image/tree/main/applications/helm)
 
+- [docker.io/labring/helm:v3.13.2](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.13.2)
+- [docker.io/labring/helm:v3.13.1](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.13.1)
+- [docker.io/labring/helm:v3.13.0](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.13.0)
 - [docker.io/labring/helm:v3.12.3](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.12.3)
 - [docker.io/labring/helm:v3.12.2](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.12.2)
 - [docker.io/labring/helm:v3.12.1](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.12.1)
@@ -868,6 +902,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [nerdctl](https://github.com/labring-actions/cluster-image/tree/main/applications/nerdctl)
 
+- [docker.io/labring/nerdctl:v1.7.0](https://explore.ggcr.dev/?image=docker.io/labring/nerdctl:v1.7.0)
+- [docker.io/labring/nerdctl:v1.6.0](https://explore.ggcr.dev/?image=docker.io/labring/nerdctl:v1.6.0)
 - [docker.io/labring/nerdctl:v1.5.0](https://explore.ggcr.dev/?image=docker.io/labring/nerdctl:v1.5.0)
 - [docker.io/labring/nerdctl:v1.4.0](https://explore.ggcr.dev/?image=docker.io/labring/nerdctl:v1.4.0)
 - [docker.io/labring/nerdctl:v1.3.0](https://explore.ggcr.dev/?image=docker.io/labring/nerdctl:v1.3.0)
