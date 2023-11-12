@@ -628,6 +628,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kafka-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/kafka-operator)
 
+- [docker.io/labring/kafka-operator:0.37.0](https://explore.ggcr.dev/?image=docker.io/labring/kafka-operator:0.37.0)
 - [docker.io/labring/kafka-operator:0.28.0](https://explore.ggcr.dev/?image=docker.io/labring/kafka-operator:0.28.0)
 
 
@@ -1115,6 +1116,11 @@ Here are the versions of the images along with their corresponding links:
 
 - [docker.io/labring/rook:v1.9.11](https://explore.ggcr.dev/?image=docker.io/labring/rook:v1.9.11)
 - [docker.io/labring/rook:v1.9.8](https://explore.ggcr.dev/?image=docker.io/labring/rook:v1.9.8)
+
+
+### [runwasi-wasmedge](https://github.com/labring-actions/cluster-image/tree/main/applications/runwasi-wasmedge)
+
+- [docker.io/labring/runwasi-wasmedge:wasi_nn-ggml](https://explore.ggcr.dev/?image=docker.io/labring/runwasi-wasmedge:wasi_nn-ggml)
 
 
 ### [skopeo](https://github.com/labring-actions/cluster-image/tree/main/applications/skopeo)
