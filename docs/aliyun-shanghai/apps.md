@@ -1117,6 +1117,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/rook:v1.9.8](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/rook:v1.9.8)
 
 
+### [runwasi-wasmedge](https://github.com/labring-actions/cluster-image/tree/main/applications/runwasi-wasmedge)
+
+
+
 ### [skopeo](https://github.com/labring-actions/cluster-image/tree/main/applications/skopeo)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/skopeo:v1.13.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/skopeo:v1.13.3)
