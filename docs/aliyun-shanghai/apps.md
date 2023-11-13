@@ -282,6 +282,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/code-server:v4.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/code-server:v4.8.2)
 
 
+### [containerd-shim-wasmtime](https://github.com/labring-actions/cluster-image/tree/main/applications/containerd-shim-wasmtime)
+
+
+
 ### [contour](https://github.com/labring-actions/cluster-image/tree/main/applications/contour)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/contour:v1.23.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/contour:v1.23.0)
@@ -628,6 +632,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kafka-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/kafka-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kafka-operator:0.37.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kafka-operator:0.37.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kafka-operator:0.28.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kafka-operator:0.28.0)
 
 
@@ -1119,6 +1124,17 @@ Here are the versions of the images along with their corresponding links:
 
 ### [runwasi-wasmedge](https://github.com/labring-actions/cluster-image/tree/main/applications/runwasi-wasmedge)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasmedge_tensorflowlite](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasmedge_tensorflowlite)
+- [registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasmedge_tensorflow](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasmedge_tensorflow)
+- [registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasmedge_image](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasmedge_image)
+- [registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasm_bpf](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasm_bpf)
+- [registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasi_nn-tensorflowlite](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasi_nn-tensorflowlite)
+- [registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasi_nn-pytorch](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasi_nn-pytorch)
+- [registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasi_nn-openvino](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasi_nn-openvino)
+- [registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasi_nn-ggml-preview](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasi_nn-ggml-preview)
+- [registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasi_nn-ggml-cuda](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasi_nn-ggml-cuda)
+- [registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasi_nn-ggml](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasi_nn-ggml)
+- [registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasi_crypto](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/runwasi-wasmedge:wasi_crypto)
 
 
 ### [skopeo](https://github.com/labring-actions/cluster-image/tree/main/applications/skopeo)

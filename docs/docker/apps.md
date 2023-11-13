@@ -282,6 +282,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/code-server:v4.8.2](https://explore.ggcr.dev/?image=docker.io/labring/code-server:v4.8.2)
 
 
+### [containerd-shim-wasmtime](https://github.com/labring-actions/cluster-image/tree/main/applications/containerd-shim-wasmtime)
+
+- [docker.io/labring/containerd-shim-wasmtime:v0.3.0](https://explore.ggcr.dev/?image=docker.io/labring/containerd-shim-wasmtime:v0.3.0)
+
+
 ### [contour](https://github.com/labring-actions/cluster-image/tree/main/applications/contour)
 
 - [docker.io/labring/contour:v1.23.0](https://explore.ggcr.dev/?image=docker.io/labring/contour:v1.23.0)
@@ -1120,7 +1125,17 @@ Here are the versions of the images along with their corresponding links:
 
 ### [runwasi-wasmedge](https://github.com/labring-actions/cluster-image/tree/main/applications/runwasi-wasmedge)
 
+- [docker.io/labring/runwasi-wasmedge:wasmedge_tensorflowlite](https://explore.ggcr.dev/?image=docker.io/labring/runwasi-wasmedge:wasmedge_tensorflowlite)
+- [docker.io/labring/runwasi-wasmedge:wasmedge_tensorflow](https://explore.ggcr.dev/?image=docker.io/labring/runwasi-wasmedge:wasmedge_tensorflow)
+- [docker.io/labring/runwasi-wasmedge:wasmedge_image](https://explore.ggcr.dev/?image=docker.io/labring/runwasi-wasmedge:wasmedge_image)
+- [docker.io/labring/runwasi-wasmedge:wasm_bpf](https://explore.ggcr.dev/?image=docker.io/labring/runwasi-wasmedge:wasm_bpf)
+- [docker.io/labring/runwasi-wasmedge:wasi_nn-tensorflowlite](https://explore.ggcr.dev/?image=docker.io/labring/runwasi-wasmedge:wasi_nn-tensorflowlite)
+- [docker.io/labring/runwasi-wasmedge:wasi_nn-pytorch](https://explore.ggcr.dev/?image=docker.io/labring/runwasi-wasmedge:wasi_nn-pytorch)
+- [docker.io/labring/runwasi-wasmedge:wasi_nn-openvino](https://explore.ggcr.dev/?image=docker.io/labring/runwasi-wasmedge:wasi_nn-openvino)
+- [docker.io/labring/runwasi-wasmedge:wasi_nn-ggml-preview](https://explore.ggcr.dev/?image=docker.io/labring/runwasi-wasmedge:wasi_nn-ggml-preview)
+- [docker.io/labring/runwasi-wasmedge:wasi_nn-ggml-cuda](https://explore.ggcr.dev/?image=docker.io/labring/runwasi-wasmedge:wasi_nn-ggml-cuda)
 - [docker.io/labring/runwasi-wasmedge:wasi_nn-ggml](https://explore.ggcr.dev/?image=docker.io/labring/runwasi-wasmedge:wasi_nn-ggml)
+- [docker.io/labring/runwasi-wasmedge:wasi_crypto](https://explore.ggcr.dev/?image=docker.io/labring/runwasi-wasmedge:wasi_crypto)
 
 
 ### [skopeo](https://github.com/labring-actions/cluster-image/tree/main/applications/skopeo)
