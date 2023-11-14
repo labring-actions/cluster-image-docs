@@ -282,6 +282,16 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/code-server:v4.8.2](https://explore.ggcr.dev/?image=docker.io/labring/code-server:v4.8.2)
 
 
+### [containerd-shim-wasmedge](https://github.com/labring-actions/cluster-image/tree/main/applications/containerd-shim-wasmedge)
+
+- [docker.io/labring/containerd-shim-wasmedge:v0.3.0](https://explore.ggcr.dev/?image=docker.io/labring/containerd-shim-wasmedge:v0.3.0)
+
+
+### [containerd-shim-wasmer](https://github.com/labring-actions/cluster-image/tree/main/applications/containerd-shim-wasmer)
+
+- [docker.io/labring/containerd-shim-wasmer:v0.3.0](https://explore.ggcr.dev/?image=docker.io/labring/containerd-shim-wasmer:v0.3.0)
+
+
 ### [containerd-shim-wasmtime](https://github.com/labring-actions/cluster-image/tree/main/applications/containerd-shim-wasmtime)
 
 - [docker.io/labring/containerd-shim-wasmtime:v0.3.0](https://explore.ggcr.dev/?image=docker.io/labring/containerd-shim-wasmtime:v0.3.0)
@@ -382,6 +392,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [endpoints-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/endpoints-operator)
 
+- [docker.io/labring/endpoints-operator:v0.2.2-rc12](https://explore.ggcr.dev/?image=docker.io/labring/endpoints-operator:v0.2.2-rc12)
+- [docker.io/labring/endpoints-operator:v0.2.2-rc11](https://explore.ggcr.dev/?image=docker.io/labring/endpoints-operator:v0.2.2-rc11)
 - [docker.io/labring/endpoints-operator:v0.2.1](https://explore.ggcr.dev/?image=docker.io/labring/endpoints-operator:v0.2.1)
 - [docker.io/labring/endpoints-operator:v0.2.0](https://explore.ggcr.dev/?image=docker.io/labring/endpoints-operator:v0.2.0)
 - [docker.io/labring/endpoints-operator:v0.1.1](https://explore.ggcr.dev/?image=docker.io/labring/endpoints-operator:v0.1.1)
@@ -577,6 +589,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [ingress-nginx](https://github.com/labring-actions/cluster-image/tree/main/applications/ingress-nginx)
 
+- [docker.io/labring/ingress-nginx:v1.9.4](https://explore.ggcr.dev/?image=docker.io/labring/ingress-nginx:v1.9.4)
 - [docker.io/labring/ingress-nginx:v1.9.3](https://explore.ggcr.dev/?image=docker.io/labring/ingress-nginx:v1.9.3)
 - [docker.io/labring/ingress-nginx:v1.8.1](https://explore.ggcr.dev/?image=docker.io/labring/ingress-nginx:v1.8.1)
 - [docker.io/labring/ingress-nginx:v1.8.0](https://explore.ggcr.dev/?image=docker.io/labring/ingress-nginx:v1.8.0)
@@ -1206,6 +1219,9 @@ Here are the versions of the images along with their corresponding links:
 
 ### [uptime-kuma](https://github.com/labring-actions/cluster-image/tree/main/applications/uptime-kuma)
 
+- [docker.io/labring/uptime-kuma:1.23.4](https://explore.ggcr.dev/?image=docker.io/labring/uptime-kuma:1.23.4)
+- [docker.io/labring/uptime-kuma:1.23.3](https://explore.ggcr.dev/?image=docker.io/labring/uptime-kuma:1.23.3)
+- [docker.io/labring/uptime-kuma:1.23.2](https://explore.ggcr.dev/?image=docker.io/labring/uptime-kuma:1.23.2)
 - [docker.io/labring/uptime-kuma:1.23.1](https://explore.ggcr.dev/?image=docker.io/labring/uptime-kuma:1.23.1)
 - [docker.io/labring/uptime-kuma:1.23.0](https://explore.ggcr.dev/?image=docker.io/labring/uptime-kuma:1.23.0)
 

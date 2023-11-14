@@ -282,8 +282,17 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/code-server:v4.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/code-server:v4.8.2)
 
 
+### [containerd-shim-wasmedge](https://github.com/labring-actions/cluster-image/tree/main/applications/containerd-shim-wasmedge)
+
+
+
+### [containerd-shim-wasmer](https://github.com/labring-actions/cluster-image/tree/main/applications/containerd-shim-wasmer)
+
+
+
 ### [containerd-shim-wasmtime](https://github.com/labring-actions/cluster-image/tree/main/applications/containerd-shim-wasmtime)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/containerd-shim-wasmtime:v0.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/containerd-shim-wasmtime:v0.3.0)
 
 
 ### [contour](https://github.com/labring-actions/cluster-image/tree/main/applications/contour)
@@ -576,6 +585,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [ingress-nginx](https://github.com/labring-actions/cluster-image/tree/main/applications/ingress-nginx)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.9.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.9.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.9.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.9.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.8.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.8.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.8.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.8.0)
@@ -1205,6 +1215,9 @@ Here are the versions of the images along with their corresponding links:
 
 ### [uptime-kuma](https://github.com/labring-actions/cluster-image/tree/main/applications/uptime-kuma)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.4)
+- [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.0)
 
