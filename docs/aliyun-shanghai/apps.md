@@ -284,10 +284,12 @@ Here are the versions of the images along with their corresponding links:
 
 ### [containerd-shim-wasmedge](https://github.com/labring-actions/cluster-image/tree/main/applications/containerd-shim-wasmedge)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/containerd-shim-wasmedge:v0.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/containerd-shim-wasmedge:v0.3.0)
 
 
 ### [containerd-shim-wasmer](https://github.com/labring-actions/cluster-image/tree/main/applications/containerd-shim-wasmer)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/containerd-shim-wasmer:v0.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/containerd-shim-wasmer:v0.3.0)
 
 
 ### [containerd-shim-wasmtime](https://github.com/labring-actions/cluster-image/tree/main/applications/containerd-shim-wasmtime)
@@ -390,6 +392,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [endpoints-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/endpoints-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.2.2-rc12](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.2.2-rc12)
+- [registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.2.2-rc11](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.2.2-rc11)
 - [registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.2.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.2.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.2.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.1.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.1.1)
