@@ -240,6 +240,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cilium](https://github.com/labring-actions/cluster-image/tree/main/applications/cilium)
 
+- [docker.io/labring/cilium:v1.14.4](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.4)
 - [docker.io/labring/cilium:v1.14.3](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.3)
 - [docker.io/labring/cilium:v1.13.4](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.13.4)
 - [docker.io/labring/cilium:v1.13.0](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.13.0)
@@ -392,6 +393,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [endpoints-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/endpoints-operator)
 
+- [docker.io/labring/endpoints-operator:v0.2.2](https://explore.ggcr.dev/?image=docker.io/labring/endpoints-operator:v0.2.2)
 - [docker.io/labring/endpoints-operator:v0.2.2-rc12](https://explore.ggcr.dev/?image=docker.io/labring/endpoints-operator:v0.2.2-rc12)
 - [docker.io/labring/endpoints-operator:v0.2.2-rc11](https://explore.ggcr.dev/?image=docker.io/labring/endpoints-operator:v0.2.2-rc11)
 - [docker.io/labring/endpoints-operator:v0.2.1](https://explore.ggcr.dev/?image=docker.io/labring/endpoints-operator:v0.2.1)
