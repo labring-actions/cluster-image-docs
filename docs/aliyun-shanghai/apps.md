@@ -238,8 +238,13 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/chaos-mesh-crio:v2.4.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/chaos-mesh-crio:v2.4.3)
 
 
+### [chatbot-ui](https://github.com/labring-actions/cluster-image/tree/main/applications/chatbot-ui)
+
+
+
 ### [cilium](https://github.com/labring-actions/cluster-image/tree/main/applications/cilium)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.0)
@@ -392,6 +397,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [endpoints-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/endpoints-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.2.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.2.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.2.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.2.2-rc12](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.2.2-rc12)
 - [registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.2.2-rc11](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.2.2-rc11)
 - [registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.2.1)
