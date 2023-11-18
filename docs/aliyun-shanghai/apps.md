@@ -240,6 +240,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [chatbot-ui](https://github.com/labring-actions/cluster-image/tree/main/applications/chatbot-ui)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/chatbot-ui:main](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/chatbot-ui:main)
 
 
 ### [cilium](https://github.com/labring-actions/cluster-image/tree/main/applications/cilium)
