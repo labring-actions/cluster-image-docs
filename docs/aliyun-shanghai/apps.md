@@ -212,6 +212,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cert-manager](https://github.com/labring-actions/cluster-image/tree/main/applications/cert-manager)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.13.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.13.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.6)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.4)
@@ -471,6 +472,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [fluxcd](https://github.com/labring-actions/cluster-image/tree/main/applications/fluxcd)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/fluxcd:v2.1.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/fluxcd:v2.1.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/fluxcd:v0.37.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/fluxcd:v0.37.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/fluxcd:0.36.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/fluxcd:0.36.0)
 
@@ -986,6 +988,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [openebs](https://github.com/labring-actions/cluster-image/tree/main/applications/openebs)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/openebs:v3.9.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/openebs:v3.9.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/openebs:v3.8.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/openebs:v3.8.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/openebs:v3.7.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/openebs:v3.7.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/openebs:v3.6.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/openebs:v3.6.0)
@@ -1055,6 +1058,10 @@ Here are the versions of the images along with their corresponding links:
 ### [opentelemetry-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/opentelemetry-operator)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/opentelemetry-operator:v0.87.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/opentelemetry-operator:v0.87.0)
+
+
+### [operator-lifecycle-manager](https://github.com/labring-actions/cluster-image/tree/main/applications/operator-lifecycle-manager)
+
 
 
 ### [oracle-mysql-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/oracle-mysql-operator)
@@ -1175,6 +1182,10 @@ Here are the versions of the images along with their corresponding links:
 ### [sonarqube](https://github.com/labring-actions/cluster-image/tree/main/applications/sonarqube)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/sonarqube:v10.1.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sonarqube:v10.1.0)
+
+
+### [spinnaker-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/spinnaker-operator)
+
 
 
 ### [sriov-network-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/sriov-network-operator)
