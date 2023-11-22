@@ -813,6 +813,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kustomize](https://github.com/labring-actions/cluster-image/tree/main/applications/kustomize)
 
+- [docker.io/labring/kustomize:v5.2.1](https://explore.ggcr.dev/?image=docker.io/labring/kustomize:v5.2.1)
 - [docker.io/labring/kustomize:v4.5.6](https://explore.ggcr.dev/?image=docker.io/labring/kustomize:v4.5.6)
 
 
@@ -1183,6 +1184,11 @@ Here are the versions of the images along with their corresponding links:
 ### [sonarqube](https://github.com/labring-actions/cluster-image/tree/main/applications/sonarqube)
 
 - [docker.io/labring/sonarqube:v10.1.0](https://explore.ggcr.dev/?image=docker.io/labring/sonarqube:v10.1.0)
+
+
+### [spinnaker](https://github.com/labring-actions/cluster-image/tree/main/applications/spinnaker)
+
+- [docker.io/labring/spinnaker:v1.32.2](https://explore.ggcr.dev/?image=docker.io/labring/spinnaker:v1.32.2)
 
 
 ### [spinnaker-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/spinnaker-operator)
