@@ -1062,6 +1062,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [operator-lifecycle-manager](https://github.com/labring-actions/cluster-image/tree/main/applications/operator-lifecycle-manager)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/operator-lifecycle-manager:v0.26.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/operator-lifecycle-manager:v0.26.0)
 
 
 ### [oracle-mysql-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/oracle-mysql-operator)
@@ -1184,8 +1185,13 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/sonarqube:v10.1.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sonarqube:v10.1.0)
 
 
+### [spinnaker](https://github.com/labring-actions/cluster-image/tree/main/applications/spinnaker)
+
+
+
 ### [spinnaker-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/spinnaker-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/spinnaker-operator:v1.4.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/spinnaker-operator:v1.4.0)
 
 
 ### [sriov-network-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/sriov-network-operator)
