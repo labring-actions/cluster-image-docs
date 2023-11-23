@@ -813,6 +813,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kustomize](https://github.com/labring-actions/cluster-image/tree/main/applications/kustomize)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kustomize:v5.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kustomize:v5.2.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/kustomize:v4.5.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kustomize:v4.5.6)
 
 
