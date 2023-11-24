@@ -625,8 +625,10 @@ Here are the versions of the images along with their corresponding links:
 
 ### [jenkins](https://github.com/labring-actions/cluster-image/tree/main/applications/jenkins)
 
+- [docker.io/labring/jenkins:v2.426.1](https://explore.ggcr.dev/?image=docker.io/labring/jenkins:v2.426.1)
 - [docker.io/labring/jenkins:v2.425](https://explore.ggcr.dev/?image=docker.io/labring/jenkins:v2.425)
 - [docker.io/labring/jenkins:v2.419](https://explore.ggcr.dev/?image=docker.io/labring/jenkins:v2.419)
+- [docker.io/labring/jenkins:v2.414.3](https://explore.ggcr.dev/?image=docker.io/labring/jenkins:v2.414.3)
 - [docker.io/labring/jenkins:v2.401.3](https://explore.ggcr.dev/?image=docker.io/labring/jenkins:v2.401.3)
 - [docker.io/labring/jenkins:v2.387.3](https://explore.ggcr.dev/?image=docker.io/labring/jenkins:v2.387.3)
 - [docker.io/labring/jenkins:v2.375.3](https://explore.ggcr.dev/?image=docker.io/labring/jenkins:v2.375.3)
