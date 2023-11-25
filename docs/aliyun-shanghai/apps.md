@@ -625,8 +625,10 @@ Here are the versions of the images along with their corresponding links:
 
 ### [jenkins](https://github.com/labring-actions/cluster-image/tree/main/applications/jenkins)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.426.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.426.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.425](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.425)
 - [registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.419](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.419)
+- [registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.414.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.414.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.401.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.401.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.387.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.387.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.375.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.375.3)
@@ -737,6 +739,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.7.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.7.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.7.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.7.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.6.3)
@@ -1188,6 +1191,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [spinnaker](https://github.com/labring-actions/cluster-image/tree/main/applications/spinnaker)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/spinnaker:v1.32.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/spinnaker:v1.32.2)
 
 
 ### [spinnaker-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/spinnaker-operator)
