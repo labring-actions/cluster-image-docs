@@ -677,6 +677,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [keda](https://github.com/labring-actions/cluster-image/tree/main/applications/keda)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/keda:v2.12.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/keda:v2.12.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/keda:v2.11.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/keda:v2.11.2)
 
 
