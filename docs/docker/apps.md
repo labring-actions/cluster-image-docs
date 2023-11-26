@@ -677,6 +677,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [keda](https://github.com/labring-actions/cluster-image/tree/main/applications/keda)
 
+- [docker.io/labring/keda:v2.12.0](https://explore.ggcr.dev/?image=docker.io/labring/keda:v2.12.0)
 - [docker.io/labring/keda:v2.11.2](https://explore.ggcr.dev/?image=docker.io/labring/keda:v2.11.2)
 
 
