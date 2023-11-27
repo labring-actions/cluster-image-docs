@@ -1172,6 +1172,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/runwasi-wasmedge:wasi_crypto](https://explore.ggcr.dev/?image=docker.io/labring/runwasi-wasmedge:wasi_crypto)
 
 
+### [seaweedfs](https://github.com/labring-actions/cluster-image/tree/main/applications/seaweedfs)
+
+- [docker.io/labring/seaweedfs:3.59](https://explore.ggcr.dev/?image=docker.io/labring/seaweedfs:3.59)
+
+
 ### [skopeo](https://github.com/labring-actions/cluster-image/tree/main/applications/skopeo)
 
 - [docker.io/labring/skopeo:v1.13.3](https://explore.ggcr.dev/?image=docker.io/labring/skopeo:v1.13.3)
