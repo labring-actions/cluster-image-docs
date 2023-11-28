@@ -1174,6 +1174,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [seaweedfs](https://github.com/labring-actions/cluster-image/tree/main/applications/seaweedfs)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.59](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.59)
 
 
 ### [skopeo](https://github.com/labring-actions/cluster-image/tree/main/applications/skopeo)
