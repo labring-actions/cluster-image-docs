@@ -1115,6 +1115,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/promtail:v2.8.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/promtail:v2.8.3)
 
 
+### [pulsar](https://github.com/labring-actions/cluster-image/tree/main/applications/pulsar)
+
+
+
 ### [rabbitmq-cluster-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/rabbitmq-cluster-operator)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/rabbitmq-cluster-operator:2.0.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/rabbitmq-cluster-operator:2.0.0)
@@ -1227,6 +1231,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [tidb-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/tidb-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/tidb-operator:v1.5.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/tidb-operator:v1.5.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/tidb-operator:v1.4.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/tidb-operator:v1.4.7)
 - [registry.cn-shanghai.aliyuncs.com/labring/tidb-operator:v1.3.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/tidb-operator:v1.3.7)
 
 
