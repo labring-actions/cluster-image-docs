@@ -34,6 +34,9 @@ Here are the versions of the images along with their corresponding links:
 
 ### [argo-workflows](https://github.com/labring-actions/cluster-image/tree/main/applications/argo-workflows)
 
+- [docker.io/labring/argo-workflows:v3.5.2](https://explore.ggcr.dev/?image=docker.io/labring/argo-workflows:v3.5.2)
+- [docker.io/labring/argo-workflows:v3.5.1](https://explore.ggcr.dev/?image=docker.io/labring/argo-workflows:v3.5.1)
+- [docker.io/labring/argo-workflows:v3.5.0](https://explore.ggcr.dev/?image=docker.io/labring/argo-workflows:v3.5.0)
 - [docker.io/labring/argo-workflows:v3.4.11](https://explore.ggcr.dev/?image=docker.io/labring/argo-workflows:v3.4.11)
 - [docker.io/labring/argo-workflows:v3.4.10](https://explore.ggcr.dev/?image=docker.io/labring/argo-workflows:v3.4.10)
 
@@ -669,6 +672,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/kafka-ui:v0.6.2](https://explore.ggcr.dev/?image=docker.io/labring/kafka-ui:v0.6.2)
 - [docker.io/labring/kafka-ui:v0.5.0](https://explore.ggcr.dev/?image=docker.io/labring/kafka-ui:v0.5.0)
 - [docker.io/labring/kafka-ui:v0.4.0](https://explore.ggcr.dev/?image=docker.io/labring/kafka-ui:v0.4.0)
+
+
+### [kargo](https://github.com/labring-actions/cluster-image/tree/main/applications/kargo)
+
+- [docker.io/labring/kargo:v0.2.1](https://explore.ggcr.dev/?image=docker.io/labring/kargo:v0.2.1)
 
 
 ### [karmada](https://github.com/labring-actions/cluster-image/tree/main/applications/karmada)
@@ -1336,6 +1344,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [zot](https://github.com/labring-actions/cluster-image/tree/main/applications/zot)
 
+- [docker.io/labring/zot:v2.0.0-rc7](https://explore.ggcr.dev/?image=docker.io/labring/zot:v2.0.0-rc7)
 - [docker.io/labring/zot:v2.0.0-rc4](https://explore.ggcr.dev/?image=docker.io/labring/zot:v2.0.0-rc4)
 - [docker.io/labring/zot:v1.4.3](https://explore.ggcr.dev/?image=docker.io/labring/zot:v1.4.3)
 
