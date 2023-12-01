@@ -676,6 +676,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kargo](https://github.com/labring-actions/cluster-image/tree/main/applications/kargo)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kargo:v0.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kargo:v0.2.1)
 
 
 ### [karmada](https://github.com/labring-actions/cluster-image/tree/main/applications/karmada)
