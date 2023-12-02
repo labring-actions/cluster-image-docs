@@ -27,6 +27,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/apisix:2.13.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/apisix:2.13.1)
 
 
+### [argo-events](https://github.com/labring-actions/cluster-image/tree/main/applications/argo-events)
+
+
+
 ### [argo-rollouts](https://github.com/labring-actions/cluster-image/tree/main/applications/argo-rollouts)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/argo-rollouts:v1.5.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/argo-rollouts:v1.5.1)
