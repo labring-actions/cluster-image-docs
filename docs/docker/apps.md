@@ -27,6 +27,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/apisix:2.13.1](https://explore.ggcr.dev/?image=docker.io/labring/apisix:2.13.1)
 
 
+### [argo-events](https://github.com/labring-actions/cluster-image/tree/main/applications/argo-events)
+
+- [docker.io/labring/argo-events:v1.8.1](https://explore.ggcr.dev/?image=docker.io/labring/argo-events:v1.8.1)
+
+
 ### [argo-rollouts](https://github.com/labring-actions/cluster-image/tree/main/applications/argo-rollouts)
 
 - [docker.io/labring/argo-rollouts:v1.5.1](https://explore.ggcr.dev/?image=docker.io/labring/argo-rollouts:v1.5.1)
