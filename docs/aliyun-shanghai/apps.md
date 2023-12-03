@@ -29,6 +29,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [argo-events](https://github.com/labring-actions/cluster-image/tree/main/applications/argo-events)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/argo-events:v1.8.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/argo-events:v1.8.1)
 
 
 ### [argo-rollouts](https://github.com/labring-actions/cluster-image/tree/main/applications/argo-rollouts)
