@@ -1232,6 +1232,7 @@ Here are the versions of the images along with their corresponding links:
 ### [tekton](https://github.com/labring-actions/cluster-image/tree/main/applications/tekton)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/tekton:v0.61.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/tekton:v0.61.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/tekton:v0.54.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/tekton:v0.54.0)
 
 
 ### [teleport](https://github.com/labring-actions/cluster-image/tree/main/applications/teleport)
