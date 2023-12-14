@@ -1330,6 +1330,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [zadig](https://github.com/labring-actions/cluster-image/tree/main/applications/zadig)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/zadig:2.1.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/zadig:2.1.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/zadig:2.0.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/zadig:2.0.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/zadig:1.18.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/zadig:1.18.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/zadig:1.17.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/zadig:1.17.0)

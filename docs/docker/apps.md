@@ -508,6 +508,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [gitlab](https://github.com/labring-actions/cluster-image/tree/main/applications/gitlab)
 
+- [docker.io/labring/gitlab:v16.6.2](https://explore.ggcr.dev/?image=docker.io/labring/gitlab:v16.6.2)
 - [docker.io/labring/gitlab:v16.2.3](https://explore.ggcr.dev/?image=docker.io/labring/gitlab:v16.2.3)
 - [docker.io/labring/gitlab:v16.2.2](https://explore.ggcr.dev/?image=docker.io/labring/gitlab:v16.2.2)
 
@@ -1330,6 +1331,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [zadig](https://github.com/labring-actions/cluster-image/tree/main/applications/zadig)
 
+- [docker.io/labring/zadig:2.1.0](https://explore.ggcr.dev/?image=docker.io/labring/zadig:2.1.0)
 - [docker.io/labring/zadig:2.0.0](https://explore.ggcr.dev/?image=docker.io/labring/zadig:2.0.0)
 - [docker.io/labring/zadig:1.18.0](https://explore.ggcr.dev/?image=docker.io/labring/zadig:1.18.0)
 - [docker.io/labring/zadig:1.17.0](https://explore.ggcr.dev/?image=docker.io/labring/zadig:1.17.0)
