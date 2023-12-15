@@ -508,6 +508,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [gitlab](https://github.com/labring-actions/cluster-image/tree/main/applications/gitlab)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/gitlab:v16.6.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/gitlab:v16.6.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/gitlab:v16.2.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/gitlab:v16.2.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/gitlab:v16.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/gitlab:v16.2.2)
 
