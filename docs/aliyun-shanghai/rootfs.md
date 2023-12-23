@@ -349,6 +349,7 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.27.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.27.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.27.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.27.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.27.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.27.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.26.12](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.26.12)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.26.11](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.26.11)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.26.10](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.26.10)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.26.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.26.9)
