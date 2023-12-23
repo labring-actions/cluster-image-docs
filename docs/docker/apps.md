@@ -761,6 +761,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks)
 
+- [docker.io/labring/kubeblocks:v0.7.2](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.7.2)
 - [docker.io/labring/kubeblocks:v0.7.1](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.7.1)
 - [docker.io/labring/kubeblocks:v0.7.0](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.7.0)
 - [docker.io/labring/kubeblocks:v0.6.4](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.6.4)
@@ -1200,6 +1201,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [seaweedfs](https://github.com/labring-actions/cluster-image/tree/main/applications/seaweedfs)
 
+- [docker.io/labring/seaweedfs:3.60.0](https://explore.ggcr.dev/?image=docker.io/labring/seaweedfs:3.60.0)
+- [docker.io/labring/seaweedfs:3.59.4](https://explore.ggcr.dev/?image=docker.io/labring/seaweedfs:3.59.4)
 - [docker.io/labring/seaweedfs:3.59](https://explore.ggcr.dev/?image=docker.io/labring/seaweedfs:3.59)
 
 
@@ -1239,6 +1242,7 @@ Here are the versions of the images along with their corresponding links:
 ### [tekton](https://github.com/labring-actions/cluster-image/tree/main/applications/tekton)
 
 - [docker.io/labring/tekton:v0.61.0](https://explore.ggcr.dev/?image=docker.io/labring/tekton:v0.61.0)
+- [docker.io/labring/tekton:v0.55.0](https://explore.ggcr.dev/?image=docker.io/labring/tekton:v0.55.0)
 - [docker.io/labring/tekton:v0.54.0](https://explore.ggcr.dev/?image=docker.io/labring/tekton:v0.54.0)
 
 
