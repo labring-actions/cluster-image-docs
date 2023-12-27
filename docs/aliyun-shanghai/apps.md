@@ -639,6 +639,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/istio:1.15.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/istio:1.15.1)
 
 
+### [istio-bookinfo](https://github.com/labring-actions/cluster-image/tree/main/applications/istio-bookinfo)
+
+
+
 ### [jenkins](https://github.com/labring-actions/cluster-image/tree/main/applications/jenkins)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.426.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/jenkins:v2.426.1)
