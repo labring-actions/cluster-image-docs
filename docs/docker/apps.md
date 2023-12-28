@@ -633,6 +633,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [istio](https://github.com/labring-actions/cluster-image/tree/main/applications/istio)
 
+- [docker.io/labring/istio:v1.20.1](https://explore.ggcr.dev/?image=docker.io/labring/istio:v1.20.1)
 - [docker.io/labring/istio:v1.14.2](https://explore.ggcr.dev/?image=docker.io/labring/istio:v1.14.2)
 - [docker.io/labring/istio:1.16.2-min](https://explore.ggcr.dev/?image=docker.io/labring/istio:1.16.2-min)
 - [docker.io/labring/istio:1.16.2](https://explore.ggcr.dev/?image=docker.io/labring/istio:1.16.2)
@@ -1322,6 +1323,11 @@ Here are the versions of the images along with their corresponding links:
 ### [vertical-pod-autoscaler](https://github.com/labring-actions/cluster-image/tree/main/applications/vertical-pod-autoscaler)
 
 - [docker.io/labring/vertical-pod-autoscaler:v0.14.0](https://explore.ggcr.dev/?image=docker.io/labring/vertical-pod-autoscaler:v0.14.0)
+
+
+### [victoria-metrics-k8s-stack](https://github.com/labring-actions/cluster-image/tree/main/applications/victoria-metrics-k8s-stack)
+
+- [docker.io/labring/victoria-metrics-k8s-stack:v1.96.0](https://explore.ggcr.dev/?image=docker.io/labring/victoria-metrics-k8s-stack:v1.96.0)
 
 
 ### [weave-gitops](https://github.com/labring-actions/cluster-image/tree/main/applications/weave-gitops)

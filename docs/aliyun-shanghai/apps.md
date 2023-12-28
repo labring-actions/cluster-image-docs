@@ -641,6 +641,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [istio-bookinfo](https://github.com/labring-actions/cluster-image/tree/main/applications/istio-bookinfo)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/istio-bookinfo:v1.20.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/istio-bookinfo:v1.20.1)
 
 
 ### [jenkins](https://github.com/labring-actions/cluster-image/tree/main/applications/jenkins)
@@ -1321,6 +1322,10 @@ Here are the versions of the images along with their corresponding links:
 ### [vertical-pod-autoscaler](https://github.com/labring-actions/cluster-image/tree/main/applications/vertical-pod-autoscaler)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/vertical-pod-autoscaler:v0.14.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/vertical-pod-autoscaler:v0.14.0)
+
+
+### [victoria-metrics-k8s-stack](https://github.com/labring-actions/cluster-image/tree/main/applications/victoria-metrics-k8s-stack)
+
 
 
 ### [weave-gitops](https://github.com/labring-actions/cluster-image/tree/main/applications/weave-gitops)
