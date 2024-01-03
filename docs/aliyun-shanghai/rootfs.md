@@ -4,6 +4,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [k3s](https://github.com/kubernetes/kubernetes)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.29.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.29.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.28.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.28.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.28.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.28.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.28.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.28.3)
@@ -28,6 +29,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubernetes](https://github.com/kubernetes/kubernetes)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.29.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.29.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.28.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.28.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.28.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.28.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.28.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.28.3)
@@ -201,6 +203,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubernetes-crio](https://github.com/kubernetes/kubernetes)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.29.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.29.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.28.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.28.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.28.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.28.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.28.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.28.3)
@@ -336,6 +339,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubernetes-docker](https://github.com/kubernetes/kubernetes)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.29.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.29.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.28.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.28.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.28.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.28.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.28.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-docker:v1.28.3)
