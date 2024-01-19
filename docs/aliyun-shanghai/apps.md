@@ -440,6 +440,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [flannel](https://github.com/labring-actions/cluster-image/tree/main/applications/flannel)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.24.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.24.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.24.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.24.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.22.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.22.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.22.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.22.2)
@@ -454,6 +455,7 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.19.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.19.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.19.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.19.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.18.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.18.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/flannel:0.24.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:0.24.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:0.24.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:0.24.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:0.22.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:0.22.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:0.22.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:0.22.2)
