@@ -39,6 +39,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [argo-workflows](https://github.com/labring-actions/cluster-image/tree/main/applications/argo-workflows)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.0)
@@ -358,27 +359,28 @@ Here are the versions of the images along with their corresponding links:
 ### [deepflow](https://github.com/labring-actions/cluster-image/tree/main/applications/deepflow)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/deepflow:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:latest)
-- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.7)
 - [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/deepflow:6.1.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:6.1.5)
-- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.4.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.4.3)
-- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.6)
-- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.7)
-- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.3)
-- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.9)
-- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.0)
-- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.1.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.1.7)
-- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.6)
 - [registry.cn-shanghai.aliyuncs.com/labring/deepflow:6.1.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:6.1.2)
-- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:stable](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:stable)
-- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.4)
-- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:6.1.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:6.1.6)
-- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.1.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.1.1)
-- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.1)
-- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:6.1.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:6.1.4)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.6)
 - [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.5)
-- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.5)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:stable](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:stable)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.1.8](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.1.8)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:6.1.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:6.1.6)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.1.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.1.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.5)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.4.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.4.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.4)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.9)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.3.6)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.1.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.1.7)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.2.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.4.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:v6.4.9)
+- [registry.cn-shanghai.aliyuncs.com/labring/deepflow:6.1.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/deepflow:6.1.4)
 
 
 ### [descheduler](https://github.com/labring-actions/cluster-image/tree/main/applications/descheduler)
@@ -919,6 +921,14 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.6.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.6.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.6.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.6.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.6.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.6.1)
+
+
+### [milvus](https://github.com/labring-actions/cluster-image/tree/main/applications/milvus)
+
+
+
+### [milvus-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/milvus-operator)
+
 
 
 ### [minio](https://github.com/labring-actions/cluster-image/tree/main/applications/minio)
