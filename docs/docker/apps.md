@@ -808,6 +808,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/kubegems:v1.21.4](https://explore.ggcr.dev/?image=docker.io/labring/kubegems:v1.21.4)
 
 
+### [kuberay](https://github.com/labring-actions/cluster-image/tree/main/applications/kuberay)
+
+- [docker.io/labring/kuberay:1.0.0](https://explore.ggcr.dev/?image=docker.io/labring/kuberay:1.0.0)
+
+
 ### [kubernetes-dashboard](https://github.com/labring-actions/cluster-image/tree/main/applications/kubernetes-dashboard)
 
 - [docker.io/labring/kubernetes-dashboard:v2.7.0](https://explore.ggcr.dev/?image=docker.io/labring/kubernetes-dashboard:v2.7.0)

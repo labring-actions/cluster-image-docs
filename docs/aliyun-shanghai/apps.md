@@ -808,6 +808,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/kubegems:v1.21.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubegems:v1.21.4)
 
 
+### [kuberay](https://github.com/labring-actions/cluster-image/tree/main/applications/kuberay)
+
+
+
 ### [kubernetes-dashboard](https://github.com/labring-actions/cluster-image/tree/main/applications/kubernetes-dashboard)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-dashboard:v2.7.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-dashboard:v2.7.0)
@@ -925,10 +929,12 @@ Here are the versions of the images along with their corresponding links:
 
 ### [milvus](https://github.com/labring-actions/cluster-image/tree/main/applications/milvus)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/milvus:v2.3.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/milvus:v2.3.5)
 
 
 ### [milvus-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/milvus-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/milvus-operator:v0.8.8](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/milvus-operator:v0.8.8)
 
 
 ### [minio](https://github.com/labring-actions/cluster-image/tree/main/applications/minio)
