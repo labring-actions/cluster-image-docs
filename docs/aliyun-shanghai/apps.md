@@ -774,6 +774,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.7.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.7.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.7.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.7.1)
@@ -931,6 +932,10 @@ Here are the versions of the images along with their corresponding links:
 ### [milvus](https://github.com/labring-actions/cluster-image/tree/main/applications/milvus)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/milvus:v2.3.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/milvus:v2.3.5)
+
+
+### [milvus-attu](https://github.com/labring-actions/cluster-image/tree/main/applications/milvus-attu)
+
 
 
 ### [milvus-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/milvus-operator)
@@ -1176,6 +1181,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/rabbitmq-cluster-operator:2.0.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/rabbitmq-cluster-operator:2.0.0)
 
 
+### [rainbond](https://github.com/labring-actions/cluster-image/tree/main/applications/rainbond)
+
+
+
 ### [rancher](https://github.com/labring-actions/cluster-image/tree/main/applications/rancher)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/rancher:v2.6.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/rancher:v2.6.9)
@@ -1351,6 +1360,14 @@ Here are the versions of the images along with their corresponding links:
 ### [victoria-metrics-k8s-stack](https://github.com/labring-actions/cluster-image/tree/main/applications/victoria-metrics-k8s-stack)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/victoria-metrics-k8s-stack:v1.96.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/victoria-metrics-k8s-stack:v1.96.0)
+
+
+### [victoria-metrics-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/victoria-metrics-operator)
+
+
+
+### [victoria-metrics-single](https://github.com/labring-actions/cluster-image/tree/main/applications/victoria-metrics-single)
+
 
 
 ### [weave-gitops](https://github.com/labring-actions/cluster-image/tree/main/applications/weave-gitops)

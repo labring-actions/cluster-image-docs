@@ -934,6 +934,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/milvus:v2.3.5](https://explore.ggcr.dev/?image=docker.io/labring/milvus:v2.3.5)
 
 
+### [milvus-attu](https://github.com/labring-actions/cluster-image/tree/main/applications/milvus-attu)
+
+- [docker.io/labring/milvus-attu:v2.3.6](https://explore.ggcr.dev/?image=docker.io/labring/milvus-attu:v2.3.6)
+
+
 ### [milvus-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/milvus-operator)
 
 - [docker.io/labring/milvus-operator:v0.8.8](https://explore.ggcr.dev/?image=docker.io/labring/milvus-operator:v0.8.8)
@@ -1177,6 +1182,12 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/rabbitmq-cluster-operator:2.0.0](https://explore.ggcr.dev/?image=docker.io/labring/rabbitmq-cluster-operator:2.0.0)
 
 
+### [rainbond](https://github.com/labring-actions/cluster-image/tree/main/applications/rainbond)
+
+- [docker.io/labring/rainbond:v5.16.0](https://explore.ggcr.dev/?image=docker.io/labring/rainbond:v5.16.0)
+- [docker.io/labring/rainbond:v5.15.0](https://explore.ggcr.dev/?image=docker.io/labring/rainbond:v5.15.0)
+
+
 ### [rancher](https://github.com/labring-actions/cluster-image/tree/main/applications/rancher)
 
 - [docker.io/labring/rancher:v2.6.9](https://explore.ggcr.dev/?image=docker.io/labring/rancher:v2.6.9)
@@ -1352,6 +1363,16 @@ Here are the versions of the images along with their corresponding links:
 ### [victoria-metrics-k8s-stack](https://github.com/labring-actions/cluster-image/tree/main/applications/victoria-metrics-k8s-stack)
 
 - [docker.io/labring/victoria-metrics-k8s-stack:v1.96.0](https://explore.ggcr.dev/?image=docker.io/labring/victoria-metrics-k8s-stack:v1.96.0)
+
+
+### [victoria-metrics-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/victoria-metrics-operator)
+
+- [docker.io/labring/victoria-metrics-operator:v0.39.3](https://explore.ggcr.dev/?image=docker.io/labring/victoria-metrics-operator:v0.39.3)
+
+
+### [victoria-metrics-single](https://github.com/labring-actions/cluster-image/tree/main/applications/victoria-metrics-single)
+
+- [docker.io/labring/victoria-metrics-single:v1.96.0](https://explore.ggcr.dev/?image=docker.io/labring/victoria-metrics-single:v1.96.0)
 
 
 ### [weave-gitops](https://github.com/labring-actions/cluster-image/tree/main/applications/weave-gitops)
