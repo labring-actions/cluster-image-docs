@@ -810,6 +810,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kuberay](https://github.com/labring-actions/cluster-image/tree/main/applications/kuberay)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kuberay:1.0.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kuberay:1.0.0)
 
 
 ### [kubernetes-dashboard](https://github.com/labring-actions/cluster-image/tree/main/applications/kubernetes-dashboard)
