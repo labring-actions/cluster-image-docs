@@ -936,6 +936,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [milvus-attu](https://github.com/labring-actions/cluster-image/tree/main/applications/milvus-attu)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/milvus-attu:v2.3.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/milvus-attu:v2.3.6)
 
 
 ### [milvus-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/milvus-operator)
@@ -1183,6 +1184,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [rainbond](https://github.com/labring-actions/cluster-image/tree/main/applications/rainbond)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/rainbond:v5.16.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/rainbond:v5.16.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/rainbond:v5.15.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/rainbond:v5.15.0)
 
 
 ### [rancher](https://github.com/labring-actions/cluster-image/tree/main/applications/rancher)
@@ -1364,10 +1367,12 @@ Here are the versions of the images along with their corresponding links:
 
 ### [victoria-metrics-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/victoria-metrics-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/victoria-metrics-operator:v0.39.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/victoria-metrics-operator:v0.39.3)
 
 
 ### [victoria-metrics-single](https://github.com/labring-actions/cluster-image/tree/main/applications/victoria-metrics-single)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/victoria-metrics-single:v1.96.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/victoria-metrics-single:v1.96.0)
 
 
 ### [weave-gitops](https://github.com/labring-actions/cluster-image/tree/main/applications/weave-gitops)
