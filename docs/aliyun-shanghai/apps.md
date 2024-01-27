@@ -1156,6 +1156,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [prometheus](https://github.com/labring-actions/cluster-image/tree/main/applications/prometheus)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/prometheus:v2.49.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/prometheus:v2.49.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/prometheus:v2.46.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/prometheus:v2.46.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/prometheus:v2.45.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/prometheus:v2.45.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/prometheus:v2.44.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/prometheus:v2.44.0)
