@@ -1156,6 +1156,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [prometheus](https://github.com/labring-actions/cluster-image/tree/main/applications/prometheus)
 
+- [docker.io/labring/prometheus:v2.49.1](https://explore.ggcr.dev/?image=docker.io/labring/prometheus:v2.49.1)
 - [docker.io/labring/prometheus:v2.46.0](https://explore.ggcr.dev/?image=docker.io/labring/prometheus:v2.46.0)
 - [docker.io/labring/prometheus:v2.45.0](https://explore.ggcr.dev/?image=docker.io/labring/prometheus:v2.45.0)
 - [docker.io/labring/prometheus:v2.44.0](https://explore.ggcr.dev/?image=docker.io/labring/prometheus:v2.44.0)
