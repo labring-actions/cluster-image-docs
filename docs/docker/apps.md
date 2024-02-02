@@ -1243,6 +1243,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [seaweedfs](https://github.com/labring-actions/cluster-image/tree/main/applications/seaweedfs)
 
+- [docker.io/labring/seaweedfs:3.62.0](https://explore.ggcr.dev/?image=docker.io/labring/seaweedfs:3.62.0)
 - [docker.io/labring/seaweedfs:3.60.0](https://explore.ggcr.dev/?image=docker.io/labring/seaweedfs:3.60.0)
 - [docker.io/labring/seaweedfs:3.59.4](https://explore.ggcr.dev/?image=docker.io/labring/seaweedfs:3.59.4)
 - [docker.io/labring/seaweedfs:3.59](https://explore.ggcr.dev/?image=docker.io/labring/seaweedfs:3.59)
