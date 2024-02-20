@@ -421,6 +421,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-node-controller:v5.0.0-alpha2](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-node-controller:v5.0.0-alpha2)
 
 
+### [sealos-cloud-objectstorage-controller](https://github.com/labring/sealos)
+
+- [docker.io/labring/sealos-cloud-objectstorage-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-objectstorage-controller:latest)
+
+
 ### [sealos-cloud-pay-service](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-pay-service:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-pay-service:latest)
