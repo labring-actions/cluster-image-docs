@@ -580,6 +580,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [helm](https://github.com/labring-actions/cluster-image/tree/main/applications/helm)
 
+- [docker.io/labring/helm:v3.14.1](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.14.1)
+- [docker.io/labring/helm:v3.14.0](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.14.0)
 - [docker.io/labring/helm:v3.13.2](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.13.2)
 - [docker.io/labring/helm:v3.13.1](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.13.1)
 - [docker.io/labring/helm:v3.13.0](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.13.0)
@@ -1054,6 +1056,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [openebs](https://github.com/labring-actions/cluster-image/tree/main/applications/openebs)
 
+- [docker.io/labring/openebs:v3.10.0](https://explore.ggcr.dev/?image=docker.io/labring/openebs:v3.10.0)
 - [docker.io/labring/openebs:v3.9.0](https://explore.ggcr.dev/?image=docker.io/labring/openebs:v3.9.0)
 - [docker.io/labring/openebs:v3.8.0](https://explore.ggcr.dev/?image=docker.io/labring/openebs:v3.8.0)
 - [docker.io/labring/openebs:v3.7.0](https://explore.ggcr.dev/?image=docker.io/labring/openebs:v3.7.0)
