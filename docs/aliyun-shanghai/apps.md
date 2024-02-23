@@ -257,6 +257,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cilium](https://github.com/labring-actions/cluster-image/tree/main/applications/cilium)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.7)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.3)
@@ -577,6 +578,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [helm](https://github.com/labring-actions/cluster-image/tree/main/applications/helm)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.14.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.14.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.14.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.14.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.13.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.13.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.13.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.13.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.13.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.13.0)
@@ -614,6 +617,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [higress](https://github.com/labring-actions/cluster-image/tree/main/applications/higress)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/higress:v1.3.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/higress:v1.3.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/higress:v1.3.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/higress:v1.3.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/higress:v1.1.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/higress:v1.1.0)
 
@@ -1050,6 +1054,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [openebs](https://github.com/labring-actions/cluster-image/tree/main/applications/openebs)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/openebs:v3.10.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/openebs:v3.10.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/openebs:v3.9.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/openebs:v3.9.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/openebs:v3.8.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/openebs:v3.8.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/openebs:v3.7.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/openebs:v3.7.0)
