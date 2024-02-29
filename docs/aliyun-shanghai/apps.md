@@ -877,6 +877,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [local-path-provisioner](https://github.com/labring-actions/cluster-image/tree/main/applications/local-path-provisioner)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/local-path-provisioner:v0.0.26](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/local-path-provisioner:v0.0.26)
 - [registry.cn-shanghai.aliyuncs.com/labring/local-path-provisioner:v0.0.23](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/local-path-provisioner:v0.0.23)
 
 
