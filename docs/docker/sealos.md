@@ -411,6 +411,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-metering-controller:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-metering-controller:v1alpha1)
 
 
+### [sealos-cloud-minio-service](https://github.com/labring/sealos)
+
+- [docker.io/labring/sealos-cloud-minio-service:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-minio-service:latest)
+
+
 ### [sealos-cloud-node-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-node-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-node-controller:latest)
@@ -424,6 +429,11 @@ Here are the versions of the images along with their corresponding links:
 ### [sealos-cloud-objectstorage-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-objectstorage-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-objectstorage-controller:latest)
+
+
+### [sealos-cloud-objectstorage-frontend](https://github.com/labring/sealos)
+
+- [docker.io/labring/sealos-cloud-objectstorage-frontend:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-objectstorage-frontend:latest)
 
 
 ### [sealos-cloud-pay-service](https://github.com/labring/sealos)
