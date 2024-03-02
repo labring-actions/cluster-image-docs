@@ -1342,6 +1342,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/uptime-kuma:1.23.4](https://explore.ggcr.dev/?image=docker.io/labring/uptime-kuma:1.23.4)
 - [docker.io/labring/uptime-kuma:1.23.3](https://explore.ggcr.dev/?image=docker.io/labring/uptime-kuma:1.23.3)
 - [docker.io/labring/uptime-kuma:1.23.2](https://explore.ggcr.dev/?image=docker.io/labring/uptime-kuma:1.23.2)
+- [docker.io/labring/uptime-kuma:1.23.11](https://explore.ggcr.dev/?image=docker.io/labring/uptime-kuma:1.23.11)
 - [docker.io/labring/uptime-kuma:1.23.1](https://explore.ggcr.dev/?image=docker.io/labring/uptime-kuma:1.23.1)
 - [docker.io/labring/uptime-kuma:1.23.0](https://explore.ggcr.dev/?image=docker.io/labring/uptime-kuma:1.23.0)
 
