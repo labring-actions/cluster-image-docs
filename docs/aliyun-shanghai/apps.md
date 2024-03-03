@@ -1342,6 +1342,7 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.11](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.11)
 - [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.0)
 
