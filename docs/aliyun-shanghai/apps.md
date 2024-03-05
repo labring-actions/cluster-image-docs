@@ -953,6 +953,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [minio](https://github.com/labring-actions/cluster-image/tree/main/applications/minio)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/minio:RELEASE.2024-01-11T07-46-16Z](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio:RELEASE.2024-01-11T07-46-16Z)
 - [registry.cn-shanghai.aliyuncs.com/labring/minio:RELEASE.2023-10-07T15-07-38Z](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio:RELEASE.2023-10-07T15-07-38Z)
 - [registry.cn-shanghai.aliyuncs.com/labring/minio:RELEASE.2023-09-30T07-02-29Z](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio:RELEASE.2023-09-30T07-02-29Z)
 - [registry.cn-shanghai.aliyuncs.com/labring/minio:RELEASE.2023-07-07T07-13-57Z](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio:RELEASE.2023-07-07T07-13-57Z)
