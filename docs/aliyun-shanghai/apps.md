@@ -963,6 +963,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [minio-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/minio-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/minio-operator:v5.0.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio-operator:v5.0.6)
 - [registry.cn-shanghai.aliyuncs.com/labring/minio-operator:v4.5.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio-operator:v4.5.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/minio-operator:v4.5.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio-operator:v4.5.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/minio-operator:v4.5.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio-operator:v4.5.3)
