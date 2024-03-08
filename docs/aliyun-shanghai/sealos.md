@@ -375,6 +375,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [sealos-cloud-kubepanel-frontend](https://github.com/labring/sealos)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-kubepanel-frontend:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-kubepanel-frontend:latest)
 
 
 ### [sealos-cloud-license-controller](https://github.com/labring/sealos)
