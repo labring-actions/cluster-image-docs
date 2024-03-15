@@ -221,8 +221,11 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cert-manager](https://github.com/labring-actions/cluster-image/tree/main/applications/cert-manager)
 
+- [docker.io/labring/cert-manager:v1.14.4](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.14.4)
+- [docker.io/labring/cert-manager:v1.13.5](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.13.5)
 - [docker.io/labring/cert-manager:v1.13.3](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.13.3)
 - [docker.io/labring/cert-manager:v1.13.2](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.13.2)
+- [docker.io/labring/cert-manager:v1.12.9](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.12.9)
 - [docker.io/labring/cert-manager:v1.12.7](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.12.7)
 - [docker.io/labring/cert-manager:v1.12.6](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.12.6)
 - [docker.io/labring/cert-manager:v1.12.5](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.12.5)
@@ -443,6 +446,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [flannel](https://github.com/labring-actions/cluster-image/tree/main/applications/flannel)
 
+- [docker.io/labring/flannel:v0.24.3](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.24.3)
 - [docker.io/labring/flannel:v0.24.2](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.24.2)
 - [docker.io/labring/flannel:v0.24.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.24.1)
 - [docker.io/labring/flannel:v0.24.0](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.24.0)
@@ -459,6 +463,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/flannel:v0.19.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.19.1)
 - [docker.io/labring/flannel:v0.19.0](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.19.0)
 - [docker.io/labring/flannel:v0.18.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.18.1)
+- [docker.io/labring/flannel:0.24.3](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.24.3)
 - [docker.io/labring/flannel:0.24.2](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.24.2)
 - [docker.io/labring/flannel:0.24.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.24.1)
 - [docker.io/labring/flannel:0.24.0](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.24.0)
@@ -619,6 +624,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [higress](https://github.com/labring-actions/cluster-image/tree/main/applications/higress)
 
+- [docker.io/labring/higress:v1.3.5](https://explore.ggcr.dev/?image=docker.io/labring/higress:v1.3.5)
 - [docker.io/labring/higress:v1.3.4](https://explore.ggcr.dev/?image=docker.io/labring/higress:v1.3.4)
 - [docker.io/labring/higress:v1.3.3](https://explore.ggcr.dev/?image=docker.io/labring/higress:v1.3.3)
 - [docker.io/labring/higress:v1.1.0](https://explore.ggcr.dev/?image=docker.io/labring/higress:v1.1.0)
