@@ -260,6 +260,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cilium](https://github.com/labring-actions/cluster-image/tree/main/applications/cilium)
 
+- [docker.io/labring/cilium:v1.14.8](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.8)
 - [docker.io/labring/cilium:v1.14.7](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.7)
 - [docker.io/labring/cilium:v1.14.5](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.5)
 - [docker.io/labring/cilium:v1.14.4](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.4)
@@ -298,6 +299,11 @@ Here are the versions of the images along with their corresponding links:
 
 - [docker.io/labring/cni-plugins:v1.4.0](https://explore.ggcr.dev/?image=docker.io/labring/cni-plugins:v1.4.0)
 - [docker.io/labring/cni-plugins:v1.3.0](https://explore.ggcr.dev/?image=docker.io/labring/cni-plugins:v1.3.0)
+
+
+### [cockroach](https://github.com/labring-actions/cluster-image/tree/main/applications/cockroach)
+
+- [docker.io/labring/cockroach:latest](https://explore.ggcr.dev/?image=docker.io/labring/cockroach:latest)
 
 
 ### [code-server](https://github.com/labring-actions/cluster-image/tree/main/applications/code-server)

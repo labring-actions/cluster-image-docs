@@ -300,6 +300,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/cni-plugins:v1.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cni-plugins:v1.3.0)
 
 
+### [cockroach](https://github.com/labring-actions/cluster-image/tree/main/applications/cockroach)
+
+
+
 ### [code-server](https://github.com/labring-actions/cluster-image/tree/main/applications/code-server)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/code-server:v4.9.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/code-server:v4.9.1)
