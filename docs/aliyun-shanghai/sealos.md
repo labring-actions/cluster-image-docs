@@ -71,6 +71,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-account-controller:v5.0.0-beta3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-account-controller:v5.0.0-beta3)
 
 
+### [sealos-cloud-account-service](https://github.com/labring/sealos)
+
+
+
 ### [sealos-cloud-adminer-frontend](https://github.com/labring/sealos)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-adminer-frontend:latest)

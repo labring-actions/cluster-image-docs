@@ -71,6 +71,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-account-controller:v5.0.0-beta3](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-account-controller:v5.0.0-beta3)
 
 
+### [sealos-cloud-account-service](https://github.com/labring/sealos)
+
+- [docker.io/labring/sealos-cloud-account-service:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-account-service:latest)
+
+
 ### [sealos-cloud-adminer-frontend](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-adminer-frontend:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-adminer-frontend:latest)
