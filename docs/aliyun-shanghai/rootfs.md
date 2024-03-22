@@ -50,6 +50,7 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.28.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.28.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.28.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.28.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.28.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.28.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.27.12](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.27.12)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.27.11](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.27.11)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.27.10](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.27.10)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.27.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.27.9)

@@ -9,6 +9,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [apisix](https://github.com/labring-actions/cluster-image/tree/main/applications/apisix)
 
+- [docker.io/labring/apisix:v3.8.0](https://explore.ggcr.dev/?image=docker.io/labring/apisix:v3.8.0)
 - [docker.io/labring/apisix:v3.6.0](https://explore.ggcr.dev/?image=docker.io/labring/apisix:v3.6.0)
 - [docker.io/labring/apisix:v3.5.0](https://explore.ggcr.dev/?image=docker.io/labring/apisix:v3.5.0)
 - [docker.io/labring/apisix:v3.4.0](https://explore.ggcr.dev/?image=docker.io/labring/apisix:v3.4.0)
@@ -913,6 +914,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [longhorn](https://github.com/labring-actions/cluster-image/tree/main/applications/longhorn)
 
+- [docker.io/labring/longhorn:v1.6.0](https://explore.ggcr.dev/?image=docker.io/labring/longhorn:v1.6.0)
+- [docker.io/labring/longhorn:v1.5.4](https://explore.ggcr.dev/?image=docker.io/labring/longhorn:v1.5.4)
 - [docker.io/labring/longhorn:v1.5.1](https://explore.ggcr.dev/?image=docker.io/labring/longhorn:v1.5.1)
 - [docker.io/labring/longhorn:v1.4.3](https://explore.ggcr.dev/?image=docker.io/labring/longhorn:v1.4.3)
 - [docker.io/labring/longhorn:v1.4.0](https://explore.ggcr.dev/?image=docker.io/labring/longhorn:v1.4.0)
@@ -936,6 +939,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [metallb](https://github.com/labring-actions/cluster-image/tree/main/applications/metallb)
 
+- [docker.io/labring/metallb:v0.14.3](https://explore.ggcr.dev/?image=docker.io/labring/metallb:v0.14.3)
+- [docker.io/labring/metallb:v0.13.12](https://explore.ggcr.dev/?image=docker.io/labring/metallb:v0.13.12)
 - [docker.io/labring/metallb:v0.13.10](https://explore.ggcr.dev/?image=docker.io/labring/metallb:v0.13.10)
 - [docker.io/labring/metallb:v0.13.9](https://explore.ggcr.dev/?image=docker.io/labring/metallb:v0.13.9)
 - [docker.io/labring/metallb:v0.13.7](https://explore.ggcr.dev/?image=docker.io/labring/metallb:v0.13.7)

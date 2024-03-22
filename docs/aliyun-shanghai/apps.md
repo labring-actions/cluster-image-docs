@@ -9,6 +9,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [apisix](https://github.com/labring-actions/cluster-image/tree/main/applications/apisix)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/apisix:v3.8.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/apisix:v3.8.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/apisix:v3.6.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/apisix:v3.6.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/apisix:v3.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/apisix:v3.5.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/apisix:v3.4.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/apisix:v3.4.0)
@@ -792,6 +793,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.7.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.7.2)
