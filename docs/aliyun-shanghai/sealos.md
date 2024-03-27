@@ -371,6 +371,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:v1alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-infra-controller:v1alpha1)
 
 
+### [sealos-cloud-job-heartbeat-controller](https://github.com/labring/sealos)
+
+
+
 ### [sealos-cloud-job-init-controller](https://github.com/labring/sealos)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-job-init-controller:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-job-init-controller:latest)
