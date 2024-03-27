@@ -371,6 +371,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-infra-controller:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-infra-controller:v1alpha1)
 
 
+### [sealos-cloud-job-heartbeat-controller](https://github.com/labring/sealos)
+
+- [docker.io/labring/sealos-cloud-job-heartbeat-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-job-heartbeat-controller:latest)
+
+
 ### [sealos-cloud-job-init-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-job-init-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-job-init-controller:latest)
