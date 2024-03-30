@@ -199,6 +199,8 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/calico:v3.23.5](https://explore.ggcr.dev/?image=docker.io/labring/calico:v3.23.5)
 - [docker.io/labring/calico:v3.22.5](https://explore.ggcr.dev/?image=docker.io/labring/calico:v3.22.5)
 - [docker.io/labring/calico:v3.22.1](https://explore.ggcr.dev/?image=docker.io/labring/calico:v3.22.1)
+- [docker.io/labring/calico:3.27.2](https://explore.ggcr.dev/?image=docker.io/labring/calico:3.27.2)
+- [docker.io/labring/calico:3.26.4](https://explore.ggcr.dev/?image=docker.io/labring/calico:3.26.4)
 - [docker.io/labring/calico:3.26.1](https://explore.ggcr.dev/?image=docker.io/labring/calico:3.26.1)
 - [docker.io/labring/calico:3.25.1](https://explore.ggcr.dev/?image=docker.io/labring/calico:3.25.1)
 - [docker.io/labring/calico:3.24.6](https://explore.ggcr.dev/?image=docker.io/labring/calico:3.24.6)
@@ -261,6 +263,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cilium](https://github.com/labring-actions/cluster-image/tree/main/applications/cilium)
 
+- [docker.io/labring/cilium:v1.14.9](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.9)
 - [docker.io/labring/cilium:v1.14.8](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.8)
 - [docker.io/labring/cilium:v1.14.7](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.7)
 - [docker.io/labring/cilium:v1.14.5](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.5)
@@ -453,6 +456,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [flannel](https://github.com/labring-actions/cluster-image/tree/main/applications/flannel)
 
+- [docker.io/labring/flannel:v0.24.4](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.24.4)
 - [docker.io/labring/flannel:v0.24.3](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.24.3)
 - [docker.io/labring/flannel:v0.24.2](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.24.2)
 - [docker.io/labring/flannel:v0.24.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.24.1)
@@ -470,6 +474,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/flannel:v0.19.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.19.1)
 - [docker.io/labring/flannel:v0.19.0](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.19.0)
 - [docker.io/labring/flannel:v0.18.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.18.1)
+- [docker.io/labring/flannel:0.24.4](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.24.4)
 - [docker.io/labring/flannel:0.24.3](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.24.3)
 - [docker.io/labring/flannel:0.24.2](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.24.2)
 - [docker.io/labring/flannel:0.24.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.24.1)
@@ -807,11 +812,36 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/kubeblocks:v0.5.3](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks:v0.5.3)
 
 
+### [kubeblocks-apecloud-mysql](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-apecloud-mysql)
+
+- [docker.io/labring/kubeblocks-apecloud-mysql:v0.8.2](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-apecloud-mysql:v0.8.2)
+
+
 ### [kubeblocks-csi-s3](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-csi-s3)
 
 - [docker.io/labring/kubeblocks-csi-s3:v0.6.2](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-csi-s3:v0.6.2)
 - [docker.io/labring/kubeblocks-csi-s3:v0.6.1](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-csi-s3:v0.6.1)
 - [docker.io/labring/kubeblocks-csi-s3:v0.6.0](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-csi-s3:v0.6.0)
+
+
+### [kubeblocks-kafka](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-kafka)
+
+- [docker.io/labring/kubeblocks-kafka:v0.8.2](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-kafka:v0.8.2)
+
+
+### [kubeblocks-mongodb](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-mongodb)
+
+- [docker.io/labring/kubeblocks-mongodb:v0.8.2](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-mongodb:v0.8.2)
+
+
+### [kubeblocks-postgresql](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-postgresql)
+
+- [docker.io/labring/kubeblocks-postgresql:v0.8.2](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-postgresql:v0.8.2)
+
+
+### [kubeblocks-redis](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-redis)
+
+- [docker.io/labring/kubeblocks-redis:v0.8.2](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-redis:v0.8.2)
 
 
 ### [kubectl-df-pv](https://github.com/labring-actions/cluster-image/tree/main/applications/kubectl-df-pv)
@@ -939,6 +969,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [metallb](https://github.com/labring-actions/cluster-image/tree/main/applications/metallb)
 
+- [docker.io/labring/metallb:v0.14.4](https://explore.ggcr.dev/?image=docker.io/labring/metallb:v0.14.4)
 - [docker.io/labring/metallb:v0.14.3](https://explore.ggcr.dev/?image=docker.io/labring/metallb:v0.14.3)
 - [docker.io/labring/metallb:v0.13.12](https://explore.ggcr.dev/?image=docker.io/labring/metallb:v0.13.12)
 - [docker.io/labring/metallb:v0.13.10](https://explore.ggcr.dev/?image=docker.io/labring/metallb:v0.13.10)
@@ -1399,6 +1430,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [victoria-metrics-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/victoria-metrics-operator)
 
+- [docker.io/labring/victoria-metrics-operator:v0.42.3](https://explore.ggcr.dev/?image=docker.io/labring/victoria-metrics-operator:v0.42.3)
 - [docker.io/labring/victoria-metrics-operator:v0.39.3](https://explore.ggcr.dev/?image=docker.io/labring/victoria-metrics-operator:v0.39.3)
 
 
