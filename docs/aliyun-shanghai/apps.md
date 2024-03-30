@@ -199,6 +199,8 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:v3.23.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:v3.23.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:v3.22.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:v3.22.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:v3.22.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:v3.22.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/calico:3.27.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:3.27.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/calico:3.26.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:3.26.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:3.26.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:3.26.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:3.25.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:3.25.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:3.24.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:3.24.6)
@@ -261,6 +263,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cilium](https://github.com/labring-actions/cluster-image/tree/main/applications/cilium)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.9)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.8](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.8)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.7)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.5)
@@ -453,6 +456,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [flannel](https://github.com/labring-actions/cluster-image/tree/main/applications/flannel)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.24.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.24.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.24.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.24.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.24.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.24.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.24.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.24.1)
@@ -470,6 +474,7 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.19.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.19.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.19.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.19.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.18.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.18.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/flannel:0.24.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:0.24.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:0.24.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:0.24.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:0.24.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:0.24.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:0.24.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:0.24.1)
@@ -807,11 +812,31 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.5.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.5.3)
 
 
+### [kubeblocks-apecloud-mysql](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-apecloud-mysql)
+
+
+
 ### [kubeblocks-csi-s3](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-csi-s3)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-csi-s3:v0.6.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-csi-s3:v0.6.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-csi-s3:v0.6.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-csi-s3:v0.6.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-csi-s3:v0.6.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-csi-s3:v0.6.0)
+
+
+### [kubeblocks-kafka](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-kafka)
+
+
+
+### [kubeblocks-mongodb](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-mongodb)
+
+
+
+### [kubeblocks-postgresql](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-postgresql)
+
+
+
+### [kubeblocks-redis](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-redis)
+
 
 
 ### [kubectl-df-pv](https://github.com/labring-actions/cluster-image/tree/main/applications/kubectl-df-pv)
@@ -939,6 +964,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [metallb](https://github.com/labring-actions/cluster-image/tree/main/applications/metallb)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.14.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.14.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.14.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.14.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.13.12](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.13.12)
 - [registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.13.10](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.13.10)
@@ -1399,6 +1425,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [victoria-metrics-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/victoria-metrics-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/victoria-metrics-operator:v0.42.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/victoria-metrics-operator:v0.42.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/victoria-metrics-operator:v0.39.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/victoria-metrics-operator:v0.39.3)
 
 
