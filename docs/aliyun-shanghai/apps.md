@@ -814,6 +814,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks-apecloud-mysql](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-apecloud-mysql)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-apecloud-mysql:v0.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-apecloud-mysql:v0.8.2)
 
 
 ### [kubeblocks-csi-s3](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-csi-s3)
@@ -825,18 +826,22 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks-kafka](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-kafka)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-kafka:v0.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-kafka:v0.8.2)
 
 
 ### [kubeblocks-mongodb](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-mongodb)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-mongodb:v0.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-mongodb:v0.8.2)
 
 
 ### [kubeblocks-postgresql](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-postgresql)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-postgresql:v0.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-postgresql:v0.8.2)
 
 
 ### [kubeblocks-redis](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-redis)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-redis:v0.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-redis:v0.8.2)
 
 
 ### [kubectl-df-pv](https://github.com/labring-actions/cluster-image/tree/main/applications/kubectl-df-pv)
