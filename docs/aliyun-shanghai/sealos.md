@@ -375,6 +375,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [sealos-cloud-job-heartbeat-controller](https://github.com/labring/sealos)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-job-heartbeat-controller:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-job-heartbeat-controller:latest)
 
 
 ### [sealos-cloud-job-init-controller](https://github.com/labring/sealos)
