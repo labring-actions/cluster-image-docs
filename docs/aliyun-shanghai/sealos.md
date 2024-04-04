@@ -393,6 +393,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [sealos-cloud-launchpad-service](https://github.com/labring/sealos)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-launchpad-service:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-launchpad-service:latest)
 
 
 ### [sealos-cloud-license-controller](https://github.com/labring/sealos)

@@ -399,6 +399,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [descheduler](https://github.com/labring-actions/cluster-image/tree/main/applications/descheduler)
 
+- [docker.io/labring/descheduler:v0.29.0](https://explore.ggcr.dev/?image=docker.io/labring/descheduler:v0.29.0)
 - [docker.io/labring/descheduler:v0.28.0](https://explore.ggcr.dev/?image=docker.io/labring/descheduler:v0.28.0)
 - [docker.io/labring/descheduler:v0.27.1](https://explore.ggcr.dev/?image=docker.io/labring/descheduler:v0.27.1)
 
