@@ -399,6 +399,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [descheduler](https://github.com/labring-actions/cluster-image/tree/main/applications/descheduler)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/descheduler:v0.29.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/descheduler:v0.29.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/descheduler:v0.28.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/descheduler:v0.28.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/descheduler:v0.27.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/descheduler:v0.27.1)
 
