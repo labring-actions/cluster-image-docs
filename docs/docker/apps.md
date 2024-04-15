@@ -941,6 +941,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [loki-stack](https://github.com/labring-actions/cluster-image/tree/main/applications/loki-stack)
 
+- [docker.io/labring/loki-stack:v2.9.3](https://explore.ggcr.dev/?image=docker.io/labring/loki-stack:v2.9.3)
 - [docker.io/labring/loki-stack:v2.6.1](https://explore.ggcr.dev/?image=docker.io/labring/loki-stack:v2.6.1)
 
 
