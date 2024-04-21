@@ -176,6 +176,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/bitnami-redis-cluster:v7.0.8](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-redis-cluster:v7.0.8)
 
 
+### [bitnami-thanos](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-thanos)
+
+- [docker.io/labring/bitnami-thanos:v0.33.0](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-thanos:v0.33.0)
+
+
 ### [bitnami-zookeeper](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-zookeeper)
 
 - [docker.io/labring/bitnami-zookeeper:v12.1.3](https://explore.ggcr.dev/?image=docker.io/labring/bitnami-zookeeper:v12.1.3)
@@ -770,6 +775,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kube-prometheus-stack](https://github.com/labring-actions/cluster-image/tree/main/applications/kube-prometheus-stack)
 
+- [docker.io/labring/kube-prometheus-stack:v0.71.0](https://explore.ggcr.dev/?image=docker.io/labring/kube-prometheus-stack:v0.71.0)
 - [docker.io/labring/kube-prometheus-stack:v0.70.0](https://explore.ggcr.dev/?image=docker.io/labring/kube-prometheus-stack:v0.70.0)
 - [docker.io/labring/kube-prometheus-stack:v0.69.1](https://explore.ggcr.dev/?image=docker.io/labring/kube-prometheus-stack:v0.69.1)
 - [docker.io/labring/kube-prometheus-stack:v0.68.0](https://explore.ggcr.dev/?image=docker.io/labring/kube-prometheus-stack:v0.68.0)
@@ -796,6 +802,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/kube-vip:v0.5.9](https://explore.ggcr.dev/?image=docker.io/labring/kube-vip:v0.5.9)
 - [docker.io/labring/kube-vip:v0.5.8](https://explore.ggcr.dev/?image=docker.io/labring/kube-vip:v0.5.8)
 - [docker.io/labring/kube-vip:v0.5.7](https://explore.ggcr.dev/?image=docker.io/labring/kube-vip:v0.5.7)
+
+
+### [kubean](https://github.com/labring-actions/cluster-image/tree/main/applications/kubean)
+
+- [docker.io/labring/kubean:v0.13.3](https://explore.ggcr.dev/?image=docker.io/labring/kubean:v0.13.3)
 
 
 ### [kubeblocks](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks)
@@ -1231,6 +1242,21 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/prometheus-adapter:3.4.2](https://explore.ggcr.dev/?image=docker.io/labring/prometheus-adapter:3.4.2)
 
 
+### [prometheus-blackbox-exporter](https://github.com/labring-actions/cluster-image/tree/main/applications/prometheus-blackbox-exporter)
+
+- [docker.io/labring/prometheus-blackbox-exporter:v0.24.0](https://explore.ggcr.dev/?image=docker.io/labring/prometheus-blackbox-exporter:v0.24.0)
+
+
+### [prometheus-node-exporter](https://github.com/labring-actions/cluster-image/tree/main/applications/prometheus-node-exporter)
+
+- [docker.io/labring/prometheus-node-exporter:v1.7.0](https://explore.ggcr.dev/?image=docker.io/labring/prometheus-node-exporter:v1.7.0)
+
+
+### [prometheus-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/prometheus-operator)
+
+- [docker.io/labring/prometheus-operator:v0.71.2](https://explore.ggcr.dev/?image=docker.io/labring/prometheus-operator:v0.71.2)
+
+
 ### [promtail](https://github.com/labring-actions/cluster-image/tree/main/applications/promtail)
 
 - [docker.io/labring/promtail:v2.8.3](https://explore.ggcr.dev/?image=docker.io/labring/promtail:v2.8.3)
@@ -1312,6 +1338,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/seaweedfs:3.59](https://explore.ggcr.dev/?image=docker.io/labring/seaweedfs:3.59)
 
 
+### [signoz](https://github.com/labring-actions/cluster-image/tree/main/applications/signoz)
+
+- [docker.io/labring/signoz:v0.39.1](https://explore.ggcr.dev/?image=docker.io/labring/signoz:v0.39.1)
+
+
 ### [skopeo](https://github.com/labring-actions/cluster-image/tree/main/applications/skopeo)
 
 - [docker.io/labring/skopeo:v1.13.3](https://explore.ggcr.dev/?image=docker.io/labring/skopeo:v1.13.3)
@@ -1343,6 +1374,11 @@ Here are the versions of the images along with their corresponding links:
 ### [sriov-network-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/sriov-network-operator)
 
 - [docker.io/labring/sriov-network-operator:v1.2.0](https://explore.ggcr.dev/?image=docker.io/labring/sriov-network-operator:v1.2.0)
+
+
+### [stakater-reloader](https://github.com/labring-actions/cluster-image/tree/main/applications/stakater-reloader)
+
+- [docker.io/labring/stakater-reloader:v1.0.80](https://explore.ggcr.dev/?image=docker.io/labring/stakater-reloader:v1.0.80)
 
 
 ### [tekton](https://github.com/labring-actions/cluster-image/tree/main/applications/tekton)

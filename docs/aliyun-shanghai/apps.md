@@ -176,6 +176,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/bitnami-redis-cluster:v7.0.8](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-redis-cluster:v7.0.8)
 
 
+### [bitnami-thanos](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-thanos)
+
+
+
 ### [bitnami-zookeeper](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-zookeeper)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/bitnami-zookeeper:v12.1.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-zookeeper:v12.1.3)
@@ -798,6 +802,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/kube-vip:v0.5.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kube-vip:v0.5.7)
 
 
+### [kubean](https://github.com/labring-actions/cluster-image/tree/main/applications/kubean)
+
+
+
 ### [kubeblocks](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.2)
@@ -1231,6 +1239,18 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/prometheus-adapter:3.4.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/prometheus-adapter:3.4.2)
 
 
+### [prometheus-blackbox-exporter](https://github.com/labring-actions/cluster-image/tree/main/applications/prometheus-blackbox-exporter)
+
+
+
+### [prometheus-node-exporter](https://github.com/labring-actions/cluster-image/tree/main/applications/prometheus-node-exporter)
+
+
+
+### [prometheus-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/prometheus-operator)
+
+
+
 ### [promtail](https://github.com/labring-actions/cluster-image/tree/main/applications/promtail)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/promtail:v2.8.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/promtail:v2.8.3)
@@ -1312,6 +1332,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.59](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.59)
 
 
+### [signoz](https://github.com/labring-actions/cluster-image/tree/main/applications/signoz)
+
+
+
 ### [skopeo](https://github.com/labring-actions/cluster-image/tree/main/applications/skopeo)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/skopeo:v1.13.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/skopeo:v1.13.3)
@@ -1343,6 +1367,10 @@ Here are the versions of the images along with their corresponding links:
 ### [sriov-network-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/sriov-network-operator)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/sriov-network-operator:v1.2.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sriov-network-operator:v1.2.0)
+
+
+### [stakater-reloader](https://github.com/labring-actions/cluster-image/tree/main/applications/stakater-reloader)
+
 
 
 ### [tekton](https://github.com/labring-actions/cluster-image/tree/main/applications/tekton)
