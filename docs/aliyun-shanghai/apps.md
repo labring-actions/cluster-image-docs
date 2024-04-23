@@ -178,6 +178,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [bitnami-thanos](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-thanos)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/bitnami-thanos:v0.33.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/bitnami-thanos:v0.33.0)
 
 
 ### [bitnami-zookeeper](https://github.com/labring-actions/cluster-image/tree/main/applications/bitnami-zookeeper)
@@ -267,6 +268,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cilium](https://github.com/labring-actions/cluster-image/tree/main/applications/cilium)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.10](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.10)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.9)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.8](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.8)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.7)
@@ -462,6 +464,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [flannel](https://github.com/labring-actions/cluster-image/tree/main/applications/flannel)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.25.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.25.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.24.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.24.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.24.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.24.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.24.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.24.2)
@@ -480,6 +483,7 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.19.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.19.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.19.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.19.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.18.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.18.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/flannel:0.25.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:0.25.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:0.24.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:0.24.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:0.24.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:0.24.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:0.24.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:0.24.2)
@@ -774,6 +778,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kube-prometheus-stack](https://github.com/labring-actions/cluster-image/tree/main/applications/kube-prometheus-stack)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.71.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.71.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.70.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.70.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.69.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.69.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.68.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kube-prometheus-stack:v0.68.0)
@@ -804,6 +809,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubean](https://github.com/labring-actions/cluster-image/tree/main/applications/kubean)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubean:v0.13.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubean:v0.13.3)
 
 
 ### [kubeblocks](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks)
@@ -1241,14 +1247,17 @@ Here are the versions of the images along with their corresponding links:
 
 ### [prometheus-blackbox-exporter](https://github.com/labring-actions/cluster-image/tree/main/applications/prometheus-blackbox-exporter)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/prometheus-blackbox-exporter:v0.24.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/prometheus-blackbox-exporter:v0.24.0)
 
 
 ### [prometheus-node-exporter](https://github.com/labring-actions/cluster-image/tree/main/applications/prometheus-node-exporter)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/prometheus-node-exporter:v1.7.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/prometheus-node-exporter:v1.7.0)
 
 
 ### [prometheus-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/prometheus-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/prometheus-operator:v0.71.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/prometheus-operator:v0.71.2)
 
 
 ### [promtail](https://github.com/labring-actions/cluster-image/tree/main/applications/promtail)
@@ -1334,6 +1343,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [signoz](https://github.com/labring-actions/cluster-image/tree/main/applications/signoz)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/signoz:v0.39.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/signoz:v0.39.1)
 
 
 ### [skopeo](https://github.com/labring-actions/cluster-image/tree/main/applications/skopeo)
@@ -1371,6 +1381,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [stakater-reloader](https://github.com/labring-actions/cluster-image/tree/main/applications/stakater-reloader)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/stakater-reloader:v1.0.80](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/stakater-reloader:v1.0.80)
 
 
 ### [tekton](https://github.com/labring-actions/cluster-image/tree/main/applications/tekton)
