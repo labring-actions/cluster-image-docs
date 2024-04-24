@@ -646,6 +646,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [higress](https://github.com/labring-actions/cluster-image/tree/main/applications/higress)
 
+- [docker.io/labring/higress:v1.3.6](https://explore.ggcr.dev/?image=docker.io/labring/higress:v1.3.6)
 - [docker.io/labring/higress:v1.3.5](https://explore.ggcr.dev/?image=docker.io/labring/higress:v1.3.5)
 - [docker.io/labring/higress:v1.3.4](https://explore.ggcr.dev/?image=docker.io/labring/higress:v1.3.4)
 - [docker.io/labring/higress:v1.3.3](https://explore.ggcr.dev/?image=docker.io/labring/higress:v1.3.3)
