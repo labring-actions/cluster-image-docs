@@ -50,6 +50,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [argocd](https://github.com/labring-actions/cluster-image/tree/main/applications/argocd)
 
+- [docker.io/labring/argocd:v2.10.8](https://explore.ggcr.dev/?image=docker.io/labring/argocd:v2.10.8)
 - [docker.io/labring/argocd:v2.8.4](https://explore.ggcr.dev/?image=docker.io/labring/argocd:v2.8.4)
 - [docker.io/labring/argocd:v2.7.11](https://explore.ggcr.dev/?image=docker.io/labring/argocd:v2.7.11)
 - [docker.io/labring/argocd:v2.6.7](https://explore.ggcr.dev/?image=docker.io/labring/argocd:v2.6.7)
@@ -1388,6 +1389,7 @@ Here are the versions of the images along with their corresponding links:
 ### [tekton](https://github.com/labring-actions/cluster-image/tree/main/applications/tekton)
 
 - [docker.io/labring/tekton:v0.61.0](https://explore.ggcr.dev/?image=docker.io/labring/tekton:v0.61.0)
+- [docker.io/labring/tekton:v0.59.0](https://explore.ggcr.dev/?image=docker.io/labring/tekton:v0.59.0)
 - [docker.io/labring/tekton:v0.55.0](https://explore.ggcr.dev/?image=docker.io/labring/tekton:v0.55.0)
 - [docker.io/labring/tekton:v0.54.0](https://explore.ggcr.dev/?image=docker.io/labring/tekton:v0.54.0)
 
