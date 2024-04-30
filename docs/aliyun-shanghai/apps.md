@@ -50,6 +50,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [argocd](https://github.com/labring-actions/cluster-image/tree/main/applications/argocd)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/argocd:v2.10.8](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/argocd:v2.10.8)
 - [registry.cn-shanghai.aliyuncs.com/labring/argocd:v2.8.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/argocd:v2.8.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/argocd:v2.7.11](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/argocd:v2.7.11)
 - [registry.cn-shanghai.aliyuncs.com/labring/argocd:v2.6.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/argocd:v2.6.7)
@@ -1388,6 +1389,7 @@ Here are the versions of the images along with their corresponding links:
 ### [tekton](https://github.com/labring-actions/cluster-image/tree/main/applications/tekton)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/tekton:v0.61.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/tekton:v0.61.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/tekton:v0.59.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/tekton:v0.59.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/tekton:v0.55.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/tekton:v0.55.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/tekton:v0.54.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/tekton:v0.54.0)
 
