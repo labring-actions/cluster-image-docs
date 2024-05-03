@@ -315,6 +315,7 @@ Here are the versions of the images along with their corresponding links:
 ### [cockroach](https://github.com/labring-actions/cluster-image/tree/main/applications/cockroach)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/cockroach:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cockroach:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/cockroach:v2.12.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cockroach:v2.12.0)
 
 
 ### [code-server](https://github.com/labring-actions/cluster-image/tree/main/applications/code-server)
