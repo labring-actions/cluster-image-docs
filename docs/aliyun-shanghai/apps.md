@@ -447,9 +447,9 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.1.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/endpoints-operator:v0.1.1)
 
 
-### [enovy-gateway](https://github.com/labring-actions/cluster-image/tree/main/applications/enovy-gateway)
+### [envoy-gateway](https://github.com/labring-actions/cluster-image/tree/main/applications/envoy-gateway)
 
-- [registry.cn-shanghai.aliyuncs.com/labring/enovy-gateway:v0.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/enovy-gateway:v0.5.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/envoy-gateway:v0.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/envoy-gateway:v0.5.0)
 
 
 ### [etcdctl](https://github.com/labring-actions/cluster-image/tree/main/applications/etcdctl)
