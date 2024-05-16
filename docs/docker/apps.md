@@ -205,6 +205,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/calico:v3.23.5](https://explore.ggcr.dev/?image=docker.io/labring/calico:v3.23.5)
 - [docker.io/labring/calico:v3.22.5](https://explore.ggcr.dev/?image=docker.io/labring/calico:v3.22.5)
 - [docker.io/labring/calico:v3.22.1](https://explore.ggcr.dev/?image=docker.io/labring/calico:v3.22.1)
+- [docker.io/labring/calico:3.27.3](https://explore.ggcr.dev/?image=docker.io/labring/calico:3.27.3)
 - [docker.io/labring/calico:3.27.2](https://explore.ggcr.dev/?image=docker.io/labring/calico:3.27.2)
 - [docker.io/labring/calico:3.26.4](https://explore.ggcr.dev/?image=docker.io/labring/calico:3.26.4)
 - [docker.io/labring/calico:3.26.1](https://explore.ggcr.dev/?image=docker.io/labring/calico:3.26.1)
