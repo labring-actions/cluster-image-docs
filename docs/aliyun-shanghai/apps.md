@@ -205,6 +205,7 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:v3.23.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:v3.23.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:v3.22.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:v3.22.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:v3.22.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:v3.22.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/calico:3.27.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:3.27.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:3.27.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:3.27.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:3.26.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:3.26.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:3.26.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:3.26.1)
@@ -230,10 +231,13 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cert-manager](https://github.com/labring-actions/cluster-image/tree/main/applications/cert-manager)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.14.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.14.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.14.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.14.4)
+- [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.13.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.13.6)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.13.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.13.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.13.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.13.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.13.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.13.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.10](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.10)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.9)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.7)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.6)
