@@ -273,6 +273,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cilium](https://github.com/labring-actions/cluster-image/tree/main/applications/cilium)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.15.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.15.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.10](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.10)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.9)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.8](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.8)

@@ -273,6 +273,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cilium](https://github.com/labring-actions/cluster-image/tree/main/applications/cilium)
 
+- [docker.io/labring/cilium:v1.15.5](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.15.5)
 - [docker.io/labring/cilium:v1.14.10](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.10)
 - [docker.io/labring/cilium:v1.14.9](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.9)
 - [docker.io/labring/cilium:v1.14.8](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.8)
