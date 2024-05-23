@@ -66,6 +66,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [awx-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/awx-operator)
 
+- [docker.io/labring/awx-operator:v2.16.1](https://explore.ggcr.dev/?image=docker.io/labring/awx-operator:v2.16.1)
 - [docker.io/labring/awx-operator:v1.1.0](https://explore.ggcr.dev/?image=docker.io/labring/awx-operator:v1.1.0)
 
 
@@ -369,6 +370,11 @@ Here are the versions of the images along with their corresponding links:
 
 - [docker.io/labring/csi-driver-nfs:v4.4.0](https://explore.ggcr.dev/?image=docker.io/labring/csi-driver-nfs:v4.4.0)
 - [docker.io/labring/csi-driver-nfs:v2.0.0](https://explore.ggcr.dev/?image=docker.io/labring/csi-driver-nfs:v2.0.0)
+
+
+### [cubefs](https://github.com/labring-actions/cluster-image/tree/main/applications/cubefs)
+
+- [docker.io/labring/cubefs:v3.3.0](https://explore.ggcr.dev/?image=docker.io/labring/cubefs:v3.3.0)
 
 
 ### [dapr](https://github.com/labring-actions/cluster-image/tree/main/applications/dapr)
@@ -1032,6 +1038,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/milvus-operator:v0.8.8](https://explore.ggcr.dev/?image=docker.io/labring/milvus-operator:v0.8.8)
 
 
+### [minecraft-server](https://github.com/labring-actions/cluster-image/tree/main/applications/minecraft-server)
+
+- [docker.io/labring/minecraft-server:latest](https://explore.ggcr.dev/?image=docker.io/labring/minecraft-server:latest)
+
+
 ### [minio](https://github.com/labring-actions/cluster-image/tree/main/applications/minio)
 
 - [docker.io/labring/minio:RELEASE.2024-03-21T23-13-43Z](https://explore.ggcr.dev/?image=docker.io/labring/minio:RELEASE.2024-03-21T23-13-43Z)
@@ -1137,6 +1148,16 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/nginx:1.22.0](https://explore.ggcr.dev/?image=docker.io/labring/nginx:1.22.0)
 - [docker.io/labring/nginx:1.21.6](https://explore.ggcr.dev/?image=docker.io/labring/nginx:1.21.6)
 - [docker.io/labring/nginx:1.21.5](https://explore.ggcr.dev/?image=docker.io/labring/nginx:1.21.5)
+
+
+### [oceanbase-cluster](https://github.com/labring-actions/cluster-image/tree/main/applications/oceanbase-cluster)
+
+- [docker.io/labring/oceanbase-cluster:v4.2.1](https://explore.ggcr.dev/?image=docker.io/labring/oceanbase-cluster:v4.2.1)
+
+
+### [oceanbase-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/oceanbase-operator)
+
+- [docker.io/labring/oceanbase-operator:v2.2.1](https://explore.ggcr.dev/?image=docker.io/labring/oceanbase-operator:v2.2.1)
 
 
 ### [openebs](https://github.com/labring-actions/cluster-image/tree/main/applications/openebs)
@@ -1350,10 +1371,16 @@ Here are the versions of the images along with their corresponding links:
 
 ### [seaweedfs](https://github.com/labring-actions/cluster-image/tree/main/applications/seaweedfs)
 
+- [docker.io/labring/seaweedfs:v3.67](https://explore.ggcr.dev/?image=docker.io/labring/seaweedfs:v3.67)
 - [docker.io/labring/seaweedfs:3.62.0](https://explore.ggcr.dev/?image=docker.io/labring/seaweedfs:3.62.0)
 - [docker.io/labring/seaweedfs:3.60.0](https://explore.ggcr.dev/?image=docker.io/labring/seaweedfs:3.60.0)
 - [docker.io/labring/seaweedfs:3.59.4](https://explore.ggcr.dev/?image=docker.io/labring/seaweedfs:3.59.4)
 - [docker.io/labring/seaweedfs:3.59](https://explore.ggcr.dev/?image=docker.io/labring/seaweedfs:3.59)
+
+
+### [seaweedfs-csi-driver](https://github.com/labring-actions/cluster-image/tree/main/applications/seaweedfs-csi-driver)
+
+- [docker.io/labring/seaweedfs-csi-driver:latest](https://explore.ggcr.dev/?image=docker.io/labring/seaweedfs-csi-driver:latest)
 
 
 ### [signoz](https://github.com/labring-actions/cluster-image/tree/main/applications/signoz)
