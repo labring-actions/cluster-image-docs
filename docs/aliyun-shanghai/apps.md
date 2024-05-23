@@ -371,6 +371,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/csi-driver-nfs:v2.0.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/csi-driver-nfs:v2.0.0)
 
 
+### [cubefs](https://github.com/labring-actions/cluster-image/tree/main/applications/cubefs)
+
+
+
 ### [dapr](https://github.com/labring-actions/cluster-image/tree/main/applications/dapr)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/dapr:v1.12.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/dapr:v1.12.0)
@@ -822,6 +826,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.0)
@@ -838,6 +843,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks-apecloud-mysql](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-apecloud-mysql)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-apecloud-mysql:v0.8.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-apecloud-mysql:v0.8.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-apecloud-mysql:v0.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-apecloud-mysql:v0.8.2)
 
 
@@ -850,21 +856,25 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks-kafka](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-kafka)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-kafka:v0.8.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-kafka:v0.8.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-kafka:v0.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-kafka:v0.8.2)
 
 
 ### [kubeblocks-mongodb](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-mongodb)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-mongodb:v0.8.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-mongodb:v0.8.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-mongodb:v0.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-mongodb:v0.8.2)
 
 
 ### [kubeblocks-postgresql](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-postgresql)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-postgresql:v0.8.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-postgresql:v0.8.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-postgresql:v0.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-postgresql:v0.8.2)
 
 
 ### [kubeblocks-redis](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-redis)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-redis:v0.8.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-redis:v0.8.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-redis:v0.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-redis:v0.8.2)
 
 
@@ -1026,6 +1036,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/milvus-operator:v0.8.8](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/milvus-operator:v0.8.8)
 
 
+### [minecraft-server](https://github.com/labring-actions/cluster-image/tree/main/applications/minecraft-server)
+
+
+
 ### [minio](https://github.com/labring-actions/cluster-image/tree/main/applications/minio)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/minio:RELEASE.2024-03-21T23-13-43Z](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio:RELEASE.2024-03-21T23-13-43Z)
@@ -1131,6 +1145,14 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/nginx:1.22.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/nginx:1.22.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/nginx:1.21.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/nginx:1.21.6)
 - [registry.cn-shanghai.aliyuncs.com/labring/nginx:1.21.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/nginx:1.21.5)
+
+
+### [oceanbase-cluster](https://github.com/labring-actions/cluster-image/tree/main/applications/oceanbase-cluster)
+
+
+
+### [oceanbase-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/oceanbase-operator)
+
 
 
 ### [openebs](https://github.com/labring-actions/cluster-image/tree/main/applications/openebs)
@@ -1348,6 +1370,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.60.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.60.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.59.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.59.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.59](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.59)
+
+
+### [seaweedfs-csi-driver](https://github.com/labring-actions/cluster-image/tree/main/applications/seaweedfs-csi-driver)
+
 
 
 ### [signoz](https://github.com/labring-actions/cluster-image/tree/main/applications/signoz)
