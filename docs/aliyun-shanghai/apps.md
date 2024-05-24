@@ -66,6 +66,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [awx-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/awx-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/awx-operator:v2.16.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/awx-operator:v2.16.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/awx-operator:v1.1.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/awx-operator:v1.1.0)
 
 
@@ -373,6 +374,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cubefs](https://github.com/labring-actions/cluster-image/tree/main/applications/cubefs)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/cubefs:v3.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cubefs:v3.3.0)
 
 
 ### [dapr](https://github.com/labring-actions/cluster-image/tree/main/applications/dapr)
@@ -1038,6 +1040,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [minecraft-server](https://github.com/labring-actions/cluster-image/tree/main/applications/minecraft-server)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/minecraft-server:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minecraft-server:latest)
 
 
 ### [minio](https://github.com/labring-actions/cluster-image/tree/main/applications/minio)
@@ -1149,10 +1152,12 @@ Here are the versions of the images along with their corresponding links:
 
 ### [oceanbase-cluster](https://github.com/labring-actions/cluster-image/tree/main/applications/oceanbase-cluster)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/oceanbase-cluster:v4.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/oceanbase-cluster:v4.2.1)
 
 
 ### [oceanbase-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/oceanbase-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/oceanbase-operator:v2.2.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/oceanbase-operator:v2.2.1)
 
 
 ### [openebs](https://github.com/labring-actions/cluster-image/tree/main/applications/openebs)
@@ -1366,6 +1371,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [seaweedfs](https://github.com/labring-actions/cluster-image/tree/main/applications/seaweedfs)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:v3.67](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:v3.67)
 - [registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.62.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.62.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.60.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.60.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.59.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.59.4)
@@ -1374,6 +1380,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [seaweedfs-csi-driver](https://github.com/labring-actions/cluster-image/tree/main/applications/seaweedfs-csi-driver)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/seaweedfs-csi-driver:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/seaweedfs-csi-driver:latest)
 
 
 ### [signoz](https://github.com/labring-actions/cluster-image/tree/main/applications/signoz)
