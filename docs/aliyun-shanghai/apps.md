@@ -206,6 +206,7 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:v3.23.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:v3.23.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:v3.22.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:v3.22.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:v3.22.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:v3.22.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/calico:3.28.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:3.28.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:3.27.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:3.27.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:3.27.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:3.27.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:3.26.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:3.26.4)
@@ -217,6 +218,9 @@ Here are the versions of the images along with their corresponding links:
 
 ### [calicoctl](https://github.com/labring-actions/cluster-image/tree/main/applications/calicoctl)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.28.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.28.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.27.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.27.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.26.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.26.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.26.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.26.1)
 
 
