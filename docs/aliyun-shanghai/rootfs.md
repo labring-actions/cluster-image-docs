@@ -4,11 +4,13 @@ Here are the versions of the images along with their corresponding links:
 
 ### [k3s](https://github.com/kubernetes/kubernetes)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.29.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.29.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.29.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.29.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.29.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.29.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.29.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.29.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.29.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.29.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.29.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.29.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.28.10](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.28.10)
 - [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.28.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.28.9)
 - [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.28.8](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.28.8)
 - [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.28.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.28.7)
@@ -18,6 +20,7 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.28.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.28.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.28.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.28.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.28.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.28.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.27.14](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.27.14)
 - [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.27.13](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.27.13)
 - [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.27.12](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.27.12)
 - [registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.27.11](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/k3s:v1.27.11)

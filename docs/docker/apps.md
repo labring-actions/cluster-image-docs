@@ -279,6 +279,7 @@ Here are the versions of the images along with their corresponding links:
 ### [cilium](https://github.com/labring-actions/cluster-image/tree/main/applications/cilium)
 
 - [docker.io/labring/cilium:v1.15.5](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.15.5)
+- [docker.io/labring/cilium:v1.14.11](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.11)
 - [docker.io/labring/cilium:v1.14.10](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.10)
 - [docker.io/labring/cilium:v1.14.9](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.9)
 - [docker.io/labring/cilium:v1.14.8](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.8)
@@ -481,6 +482,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [flannel](https://github.com/labring-actions/cluster-image/tree/main/applications/flannel)
 
+- [docker.io/labring/flannel:v0.25.3](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.25.3)
 - [docker.io/labring/flannel:v0.25.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.25.1)
 - [docker.io/labring/flannel:v0.24.4](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.24.4)
 - [docker.io/labring/flannel:v0.24.3](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.24.3)
@@ -500,6 +502,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/flannel:v0.19.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.19.1)
 - [docker.io/labring/flannel:v0.19.0](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.19.0)
 - [docker.io/labring/flannel:v0.18.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.18.1)
+- [docker.io/labring/flannel:0.25.3](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.25.3)
 - [docker.io/labring/flannel:0.25.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.25.1)
 - [docker.io/labring/flannel:0.24.4](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.24.4)
 - [docker.io/labring/flannel:0.24.3](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.24.3)
