@@ -236,12 +236,15 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cert-manager](https://github.com/labring-actions/cluster-image/tree/main/applications/cert-manager)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.15.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.15.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.14.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.14.6)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.14.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.14.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.14.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.14.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.13.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.13.6)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.13.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.13.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.13.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.13.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.13.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.13.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.11](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.11)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.10](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.10)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.9)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.12.7)
@@ -279,6 +282,7 @@ Here are the versions of the images along with their corresponding links:
 ### [cilium](https://github.com/labring-actions/cluster-image/tree/main/applications/cilium)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.15.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.15.5)
+- [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.12](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.12)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.11](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.11)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.10](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.10)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.9)
@@ -482,6 +486,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [flannel](https://github.com/labring-actions/cluster-image/tree/main/applications/flannel)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.25.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.25.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.25.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.25.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.25.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.25.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.24.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.24.4)
@@ -502,6 +507,7 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.19.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.19.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.19.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.19.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.18.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.18.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/flannel:0.25.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:0.25.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:0.25.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:0.25.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:0.25.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:0.25.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:0.24.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:0.24.4)
