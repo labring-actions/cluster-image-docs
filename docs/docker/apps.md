@@ -796,6 +796,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kube-ovn](https://github.com/labring-actions/cluster-image/tree/main/applications/kube-ovn)
 
+- [docker.io/labring/kube-ovn:v1.12.18](https://explore.ggcr.dev/?image=docker.io/labring/kube-ovn:v1.12.18)
 - [docker.io/labring/kube-ovn:v1.11.5](https://explore.ggcr.dev/?image=docker.io/labring/kube-ovn:v1.11.5)
 - [docker.io/labring/kube-ovn:v1.11.3](https://explore.ggcr.dev/?image=docker.io/labring/kube-ovn:v1.11.3)
 - [docker.io/labring/kube-ovn:v1.11.0](https://explore.ggcr.dev/?image=docker.io/labring/kube-ovn:v1.11.0)
