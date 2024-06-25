@@ -231,6 +231,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [ceph-csi-rbd](https://github.com/labring-actions/cluster-image/tree/main/applications/ceph-csi-rbd)
 
+- [docker.io/labring/ceph-csi-rbd:v3.9.0](https://explore.ggcr.dev/?image=docker.io/labring/ceph-csi-rbd:v3.9.0)
 - [docker.io/labring/ceph-csi-rbd:v3.8.0](https://explore.ggcr.dev/?image=docker.io/labring/ceph-csi-rbd:v3.8.0)
 
 

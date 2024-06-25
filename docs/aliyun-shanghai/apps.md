@@ -231,6 +231,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [ceph-csi-rbd](https://github.com/labring-actions/cluster-image/tree/main/applications/ceph-csi-rbd)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/ceph-csi-rbd:v3.9.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ceph-csi-rbd:v3.9.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/ceph-csi-rbd:v3.8.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ceph-csi-rbd:v3.8.0)
 
 
@@ -796,6 +797,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kube-ovn](https://github.com/labring-actions/cluster-image/tree/main/applications/kube-ovn)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kube-ovn:v1.12.18](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kube-ovn:v1.12.18)
 - [registry.cn-shanghai.aliyuncs.com/labring/kube-ovn:v1.11.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kube-ovn:v1.11.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/kube-ovn:v1.11.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kube-ovn:v1.11.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/kube-ovn:v1.11.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kube-ovn:v1.11.0)
