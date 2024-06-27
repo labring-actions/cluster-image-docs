@@ -709,6 +709,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/istio:1.15.1](https://explore.ggcr.dev/?image=docker.io/labring/istio:1.15.1)
 
 
+### [istio-base](https://github.com/labring-actions/cluster-image/tree/main/applications/istio-base)
+
+- [docker.io/labring/istio-base:v1.22.1](https://explore.ggcr.dev/?image=docker.io/labring/istio-base:v1.22.1)
+
+
 ### [istio-bookinfo](https://github.com/labring-actions/cluster-image/tree/main/applications/istio-bookinfo)
 
 - [docker.io/labring/istio-bookinfo:v1.20.1](https://explore.ggcr.dev/?image=docker.io/labring/istio-bookinfo:v1.20.1)
