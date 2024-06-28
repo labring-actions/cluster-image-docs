@@ -711,6 +711,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [istio-base](https://github.com/labring-actions/cluster-image/tree/main/applications/istio-base)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/istio-base:v1.22.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/istio-base:v1.22.1)
 
 
 ### [istio-bookinfo](https://github.com/labring-actions/cluster-image/tree/main/applications/istio-bookinfo)
