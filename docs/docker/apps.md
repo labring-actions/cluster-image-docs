@@ -1117,6 +1117,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [nerdctl](https://github.com/labring-actions/cluster-image/tree/main/applications/nerdctl)
 
+- [docker.io/labring/nerdctl:v1.7.3](https://explore.ggcr.dev/?image=docker.io/labring/nerdctl:v1.7.3)
 - [docker.io/labring/nerdctl:v1.7.0](https://explore.ggcr.dev/?image=docker.io/labring/nerdctl:v1.7.0)
 - [docker.io/labring/nerdctl:v1.6.0](https://explore.ggcr.dev/?image=docker.io/labring/nerdctl:v1.6.0)
 - [docker.io/labring/nerdctl:v1.5.0](https://explore.ggcr.dev/?image=docker.io/labring/nerdctl:v1.5.0)
@@ -1565,6 +1566,16 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/wordpress:v6.2.0](https://explore.ggcr.dev/?image=docker.io/labring/wordpress:v6.2.0)
 - [docker.io/labring/wordpress:v6.1.1](https://explore.ggcr.dev/?image=docker.io/labring/wordpress:v6.1.1)
 - [docker.io/labring/wordpress:v6.0.1](https://explore.ggcr.dev/?image=docker.io/labring/wordpress:v6.0.1)
+
+
+### [zabbix-agent](https://github.com/labring-actions/cluster-image/tree/main/applications/zabbix-agent)
+
+- [docker.io/labring/zabbix-agent:v7.0.0](https://explore.ggcr.dev/?image=docker.io/labring/zabbix-agent:v7.0.0)
+
+
+### [zabbix-server](https://github.com/labring-actions/cluster-image/tree/main/applications/zabbix-server)
+
+- [docker.io/labring/zabbix-server:v7.0.0](https://explore.ggcr.dev/?image=docker.io/labring/zabbix-server:v7.0.0)
 
 
 ### [zadig](https://github.com/labring-actions/cluster-image/tree/main/applications/zadig)
