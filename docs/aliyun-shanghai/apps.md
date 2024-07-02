@@ -1567,6 +1567,14 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/wordpress:v6.0.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/wordpress:v6.0.1)
 
 
+### [zabbix-agent](https://github.com/labring-actions/cluster-image/tree/main/applications/zabbix-agent)
+
+
+
+### [zabbix-server](https://github.com/labring-actions/cluster-image/tree/main/applications/zabbix-server)
+
+
+
 ### [zadig](https://github.com/labring-actions/cluster-image/tree/main/applications/zadig)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/zadig:2.2.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/zadig:2.2.0)
