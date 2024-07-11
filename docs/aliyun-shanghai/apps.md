@@ -851,6 +851,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.9.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.9.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks:v0.8.1)
@@ -868,6 +869,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks-apecloud-mysql](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-apecloud-mysql)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-apecloud-mysql:v0.9.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-apecloud-mysql:v0.9.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-apecloud-mysql:v0.8.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-apecloud-mysql:v0.8.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-apecloud-mysql:v0.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-apecloud-mysql:v0.8.2)
 
@@ -881,24 +883,28 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks-kafka](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-kafka)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-kafka:v0.9.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-kafka:v0.9.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-kafka:v0.8.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-kafka:v0.8.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-kafka:v0.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-kafka:v0.8.2)
 
 
 ### [kubeblocks-mongodb](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-mongodb)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-mongodb:v0.9.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-mongodb:v0.9.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-mongodb:v0.8.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-mongodb:v0.8.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-mongodb:v0.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-mongodb:v0.8.2)
 
 
 ### [kubeblocks-postgresql](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-postgresql)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-postgresql:v0.9.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-postgresql:v0.9.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-postgresql:v0.8.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-postgresql:v0.8.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-postgresql:v0.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-postgresql:v0.8.2)
 
 
 ### [kubeblocks-redis](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-redis)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-redis:v0.9.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-redis:v0.9.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-redis:v0.8.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-redis:v0.8.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-redis:v0.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-redis:v0.8.2)
 
