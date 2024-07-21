@@ -40,6 +40,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [argo-workflows](https://github.com/labring-actions/cluster-image/tree/main/applications/argo-workflows)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.8](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.8)
 - [registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.1)
@@ -986,6 +987,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [local-path-provisioner](https://github.com/labring-actions/cluster-image/tree/main/applications/local-path-provisioner)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/local-path-provisioner:v0.0.28](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/local-path-provisioner:v0.0.28)
 - [registry.cn-shanghai.aliyuncs.com/labring/local-path-provisioner:v0.0.26](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/local-path-provisioner:v0.0.26)
 - [registry.cn-shanghai.aliyuncs.com/labring/local-path-provisioner:v0.0.23](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/local-path-provisioner:v0.0.23)
 
