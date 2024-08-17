@@ -246,6 +246,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/cert-manager:v1.13.5](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.13.5)
 - [docker.io/labring/cert-manager:v1.13.3](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.13.3)
 - [docker.io/labring/cert-manager:v1.13.2](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.13.2)
+- [docker.io/labring/cert-manager:v1.12.13](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.12.13)
 - [docker.io/labring/cert-manager:v1.12.12](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.12.12)
 - [docker.io/labring/cert-manager:v1.12.11](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.12.11)
 - [docker.io/labring/cert-manager:v1.12.10](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.12.10)
