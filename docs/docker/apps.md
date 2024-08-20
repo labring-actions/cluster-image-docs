@@ -692,6 +692,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [ingress-nginx](https://github.com/labring-actions/cluster-image/tree/main/applications/ingress-nginx)
 
+- [docker.io/labring/ingress-nginx:v1.11.2](https://explore.ggcr.dev/?image=docker.io/labring/ingress-nginx:v1.11.2)
 - [docker.io/labring/ingress-nginx:v1.9.4](https://explore.ggcr.dev/?image=docker.io/labring/ingress-nginx:v1.9.4)
 - [docker.io/labring/ingress-nginx:v1.9.3](https://explore.ggcr.dev/?image=docker.io/labring/ingress-nginx:v1.9.3)
 - [docker.io/labring/ingress-nginx:v1.8.1](https://explore.ggcr.dev/?image=docker.io/labring/ingress-nginx:v1.8.1)
