@@ -297,6 +297,7 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.14.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.18](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.18)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.15](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.15)
