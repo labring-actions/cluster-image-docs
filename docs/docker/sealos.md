@@ -352,6 +352,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-desktop-frontend:v4.3.0-rc1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-desktop-frontend:v4.3.0-rc1)
 
 
+### [sealos-cloud-devbox-controller](https://github.com/labring/sealos)
+
+- [docker.io/labring/sealos-cloud-devbox-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-devbox-controller:latest)
+
+
 ### [sealos-cloud-imagehub-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-imagehub-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-imagehub-controller:latest)

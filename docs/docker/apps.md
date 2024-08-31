@@ -198,6 +198,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [calico](https://github.com/labring-actions/cluster-image/tree/main/applications/calico)
 
+- [docker.io/labring/calico:v3.26.5](https://explore.ggcr.dev/?image=docker.io/labring/calico:v3.26.5)
 - [docker.io/labring/calico:v3.26.1](https://explore.ggcr.dev/?image=docker.io/labring/calico:v3.26.1)
 - [docker.io/labring/calico:v3.25.1](https://explore.ggcr.dev/?image=docker.io/labring/calico:v3.25.1)
 - [docker.io/labring/calico:v3.25.0](https://explore.ggcr.dev/?image=docker.io/labring/calico:v3.25.0)
@@ -210,6 +211,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/calico:3.28.0](https://explore.ggcr.dev/?image=docker.io/labring/calico:3.28.0)
 - [docker.io/labring/calico:3.27.3](https://explore.ggcr.dev/?image=docker.io/labring/calico:3.27.3)
 - [docker.io/labring/calico:3.27.2](https://explore.ggcr.dev/?image=docker.io/labring/calico:3.27.2)
+- [docker.io/labring/calico:3.26.5](https://explore.ggcr.dev/?image=docker.io/labring/calico:3.26.5)
 - [docker.io/labring/calico:3.26.4](https://explore.ggcr.dev/?image=docker.io/labring/calico:3.26.4)
 - [docker.io/labring/calico:3.26.1](https://explore.ggcr.dev/?image=docker.io/labring/calico:3.26.1)
 - [docker.io/labring/calico:3.25.1](https://explore.ggcr.dev/?image=docker.io/labring/calico:3.25.1)
@@ -289,6 +291,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/cilium:v1.16.0](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.16.0)
 - [docker.io/labring/cilium:v1.15.8](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.15.8)
 - [docker.io/labring/cilium:v1.15.5](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.15.5)
+- [docker.io/labring/cilium:v1.14.14](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.14)
 - [docker.io/labring/cilium:v1.14.13](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.13)
 - [docker.io/labring/cilium:v1.14.12](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.12)
 - [docker.io/labring/cilium:v1.14.11](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.11)
@@ -496,6 +499,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [flannel](https://github.com/labring-actions/cluster-image/tree/main/applications/flannel)
 
+- [docker.io/labring/flannel:v0.25.6](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.25.6)
 - [docker.io/labring/flannel:v0.25.5](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.25.5)
 - [docker.io/labring/flannel:v0.25.4](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.25.4)
 - [docker.io/labring/flannel:v0.25.3](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.25.3)
@@ -518,6 +522,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/flannel:v0.19.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.19.1)
 - [docker.io/labring/flannel:v0.19.0](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.19.0)
 - [docker.io/labring/flannel:v0.18.1](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.18.1)
+- [docker.io/labring/flannel:0.25.6](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.25.6)
 - [docker.io/labring/flannel:0.25.5](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.25.5)
 - [docker.io/labring/flannel:0.25.4](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.25.4)
 - [docker.io/labring/flannel:0.25.3](https://explore.ggcr.dev/?image=docker.io/labring/flannel:0.25.3)
