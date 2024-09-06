@@ -690,6 +690,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [higress](https://github.com/labring-actions/cluster-image/tree/main/applications/higress)
 
+- [docker.io/labring/higress:v2.0.0-rc.1](https://explore.ggcr.dev/?image=docker.io/labring/higress:v2.0.0-rc.1)
 - [docker.io/labring/higress:v1.4.2](https://explore.ggcr.dev/?image=docker.io/labring/higress:v1.4.2)
 - [docker.io/labring/higress:v1.4.1](https://explore.ggcr.dev/?image=docker.io/labring/higress:v1.4.1)
 - [docker.io/labring/higress:v1.3.6](https://explore.ggcr.dev/?image=docker.io/labring/higress:v1.3.6)
@@ -1233,6 +1234,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [openebs-lvm](https://github.com/labring-actions/cluster-image/tree/main/applications/openebs-lvm)
 
+- [docker.io/labring/openebs-lvm:v1.6.0](https://explore.ggcr.dev/?image=docker.io/labring/openebs-lvm:v1.6.0)
 - [docker.io/labring/openebs-lvm:v1.5.0](https://explore.ggcr.dev/?image=docker.io/labring/openebs-lvm:v1.5.0)
 - [docker.io/labring/openebs-lvm:v0.8.0](https://explore.ggcr.dev/?image=docker.io/labring/openebs-lvm:v0.8.0)
 - [docker.io/labring/openebs-lvm:lvm-1.0.1](https://explore.ggcr.dev/?image=docker.io/labring/openebs-lvm:lvm-1.0.1)
