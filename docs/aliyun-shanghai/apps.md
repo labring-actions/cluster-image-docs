@@ -1233,6 +1233,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [openebs-lvm](https://github.com/labring-actions/cluster-image/tree/main/applications/openebs-lvm)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/openebs-lvm:v1.6.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/openebs-lvm:v1.6.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/openebs-lvm:v1.5.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/openebs-lvm:v1.5.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/openebs-lvm:v0.8.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/openebs-lvm:v0.8.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/openebs-lvm:lvm-1.0.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/openebs-lvm:lvm-1.0.1)
