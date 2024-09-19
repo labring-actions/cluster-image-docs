@@ -982,6 +982,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubevirt](https://github.com/labring-actions/cluster-image/tree/main/applications/kubevirt)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubevirt:v1.3.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubevirt:v1.3.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubevirt:v0.58.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubevirt:v0.58.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubevirt:v0.57.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubevirt:v0.57.0)
 
@@ -1145,6 +1146,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [nerdctl](https://github.com/labring-actions/cluster-image/tree/main/applications/nerdctl)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.7.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.7.7)
 - [registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.7.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.7.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.7.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.7.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.6.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.6.0)
