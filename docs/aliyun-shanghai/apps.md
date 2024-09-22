@@ -1069,6 +1069,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [metrics-server](https://github.com/labring-actions/cluster-image/tree/main/applications/metrics-server)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.7.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.7.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.6.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.6.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.6.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.6.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.6.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.6.1)
