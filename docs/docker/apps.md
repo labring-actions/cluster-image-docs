@@ -896,6 +896,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks-csi-s3](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-csi-s3)
 
+- [docker.io/labring/kubeblocks-csi-s3:v0.31.4](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-csi-s3:v0.31.4)
 - [docker.io/labring/kubeblocks-csi-s3:v0.6.2](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-csi-s3:v0.6.2)
 - [docker.io/labring/kubeblocks-csi-s3:v0.6.1](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-csi-s3:v0.6.1)
 - [docker.io/labring/kubeblocks-csi-s3:v0.6.0](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-csi-s3:v0.6.0)
