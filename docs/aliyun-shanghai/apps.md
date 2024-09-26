@@ -896,6 +896,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks-csi-s3](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-csi-s3)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-csi-s3:v0.31.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-csi-s3:v0.31.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-csi-s3:v0.6.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-csi-s3:v0.6.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-csi-s3:v0.6.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-csi-s3:v0.6.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-csi-s3:v0.6.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubeblocks-csi-s3:v0.6.0)
