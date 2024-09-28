@@ -1295,6 +1295,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [operator-lifecycle-manager](https://github.com/labring-actions/cluster-image/tree/main/applications/operator-lifecycle-manager)
 
+- [docker.io/labring/operator-lifecycle-manager:v0.28.0](https://explore.ggcr.dev/?image=docker.io/labring/operator-lifecycle-manager:v0.28.0)
+- [docker.io/labring/operator-lifecycle-manager:v0.27.0](https://explore.ggcr.dev/?image=docker.io/labring/operator-lifecycle-manager:v0.27.0)
 - [docker.io/labring/operator-lifecycle-manager:v0.26.0](https://explore.ggcr.dev/?image=docker.io/labring/operator-lifecycle-manager:v0.26.0)
 
 
