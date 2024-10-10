@@ -198,6 +198,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [calico](https://github.com/labring-actions/cluster-image/tree/main/applications/calico)
 
+- [docker.io/labring/calico:v3.28.1](https://explore.ggcr.dev/?image=docker.io/labring/calico:v3.28.1)
 - [docker.io/labring/calico:v3.26.5](https://explore.ggcr.dev/?image=docker.io/labring/calico:v3.26.5)
 - [docker.io/labring/calico:v3.26.1](https://explore.ggcr.dev/?image=docker.io/labring/calico:v3.26.1)
 - [docker.io/labring/calico:v3.25.1](https://explore.ggcr.dev/?image=docker.io/labring/calico:v3.25.1)
@@ -691,6 +692,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [higress](https://github.com/labring-actions/cluster-image/tree/main/applications/higress)
 
+- [docker.io/labring/higress:v2.0.1](https://explore.ggcr.dev/?image=docker.io/labring/higress:v2.0.1)
 - [docker.io/labring/higress:v2.0.0](https://explore.ggcr.dev/?image=docker.io/labring/higress:v2.0.0)
 - [docker.io/labring/higress:v2.0.0-rc.1](https://explore.ggcr.dev/?image=docker.io/labring/higress:v2.0.0-rc.1)
 - [docker.io/labring/higress:v1.4.2](https://explore.ggcr.dev/?image=docker.io/labring/higress:v1.4.2)
