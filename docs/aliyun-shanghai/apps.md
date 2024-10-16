@@ -65,6 +65,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/athenaserving:v2.0.0rc1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/athenaserving:v2.0.0rc1)
 
 
+### [automq-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/automq-operator)
+
+
+
 ### [awx-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/awx-operator)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/awx-operator:v2.16.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/awx-operator:v2.16.1)
