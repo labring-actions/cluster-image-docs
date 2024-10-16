@@ -65,6 +65,12 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/athenaserving:v2.0.0rc1](https://explore.ggcr.dev/?image=docker.io/labring/athenaserving:v2.0.0rc1)
 
 
+### [automq-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/automq-operator)
+
+- [docker.io/labring/automq-operator:latest](https://explore.ggcr.dev/?image=docker.io/labring/automq-operator:latest)
+- [docker.io/labring/automq-operator:v0.0.4](https://explore.ggcr.dev/?image=docker.io/labring/automq-operator:v0.0.4)
+
+
 ### [awx-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/awx-operator)
 
 - [docker.io/labring/awx-operator:v2.16.1](https://explore.ggcr.dev/?image=docker.io/labring/awx-operator:v2.16.1)
