@@ -67,6 +67,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [automq-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/automq-operator)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/automq-operator:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/automq-operator:latest)
+- [registry.cn-shanghai.aliyuncs.com/labring/automq-operator:v0.0.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/automq-operator:v0.0.4)
 
 
 ### [awx-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/awx-operator)
