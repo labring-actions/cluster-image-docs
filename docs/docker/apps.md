@@ -68,6 +68,7 @@ Here are the versions of the images along with their corresponding links:
 ### [automq-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/automq-operator)
 
 - [docker.io/labring/automq-operator:latest](https://explore.ggcr.dev/?image=docker.io/labring/automq-operator:latest)
+- [docker.io/labring/automq-operator:v0.1.0](https://explore.ggcr.dev/?image=docker.io/labring/automq-operator:v0.1.0)
 - [docker.io/labring/automq-operator:v0.0.4](https://explore.ggcr.dev/?image=docker.io/labring/automq-operator:v0.0.4)
 
 
