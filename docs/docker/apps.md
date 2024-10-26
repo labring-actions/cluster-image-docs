@@ -343,6 +343,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cni-plugins](https://github.com/labring-actions/cluster-image/tree/main/applications/cni-plugins)
 
+- [docker.io/labring/cni-plugins:v1.5.1](https://explore.ggcr.dev/?image=docker.io/labring/cni-plugins:v1.5.1)
 - [docker.io/labring/cni-plugins:v1.4.0](https://explore.ggcr.dev/?image=docker.io/labring/cni-plugins:v1.4.0)
 - [docker.io/labring/cni-plugins:v1.3.0](https://explore.ggcr.dev/?image=docker.io/labring/cni-plugins:v1.3.0)
 
@@ -509,6 +510,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [flannel](https://github.com/labring-actions/cluster-image/tree/main/applications/flannel)
 
+- [docker.io/labring/flannel:v0.26.0](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.26.0)
+- [docker.io/labring/flannel:v0.25.7](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.25.7)
 - [docker.io/labring/flannel:v0.25.6](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.25.6)
 - [docker.io/labring/flannel:v0.25.5](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.25.5)
 - [docker.io/labring/flannel:v0.25.4](https://explore.ggcr.dev/?image=docker.io/labring/flannel:v0.25.4)
