@@ -206,6 +206,7 @@ Here are the versions of the images along with their corresponding links:
 ### [calico](https://github.com/labring-actions/cluster-image/tree/main/applications/calico)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:v3.28.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:v3.28.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/calico:v3.27.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:v3.27.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:v3.26.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:v3.26.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:v3.26.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:v3.26.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/calico:v3.25.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calico:v3.25.1)
@@ -1053,6 +1054,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [longhorn](https://github.com/labring-actions/cluster-image/tree/main/applications/longhorn)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/longhorn:v1.7.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/longhorn:v1.7.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/longhorn:v1.6.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/longhorn:v1.6.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/longhorn:v1.6.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/longhorn:v1.6.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/longhorn:v1.5.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/longhorn:v1.5.4)
