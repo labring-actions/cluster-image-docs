@@ -231,6 +231,7 @@ Here are the versions of the images along with their corresponding links:
 ### [calicoctl](https://github.com/labring-actions/cluster-image/tree/main/applications/calicoctl)
 
 - [docker.io/labring/calicoctl:v3.28.0](https://explore.ggcr.dev/?image=docker.io/labring/calicoctl:v3.28.0)
+- [docker.io/labring/calicoctl:v3.27.4](https://explore.ggcr.dev/?image=docker.io/labring/calicoctl:v3.27.4)
 - [docker.io/labring/calicoctl:v3.27.3](https://explore.ggcr.dev/?image=docker.io/labring/calicoctl:v3.27.3)
 - [docker.io/labring/calicoctl:v3.26.4](https://explore.ggcr.dev/?image=docker.io/labring/calicoctl:v3.26.4)
 - [docker.io/labring/calicoctl:v3.26.1](https://explore.ggcr.dev/?image=docker.io/labring/calicoctl:v3.26.1)
@@ -249,6 +250,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cert-manager](https://github.com/labring-actions/cluster-image/tree/main/applications/cert-manager)
 
+- [docker.io/labring/cert-manager:v1.16.1](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.16.1)
 - [docker.io/labring/cert-manager:v1.15.0](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.15.0)
 - [docker.io/labring/cert-manager:v1.14.6](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.14.6)
 - [docker.io/labring/cert-manager:v1.14.5](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.14.5)
@@ -328,6 +330,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/cilium:v1.12.1](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.12.1)
 - [docker.io/labring/cilium:v1.12.0](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.12.0)
 - [docker.io/labring/cilium:v1.11.11](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.11.11)
+- [docker.io/labring/cilium:1.16.3](https://explore.ggcr.dev/?image=docker.io/labring/cilium:1.16.3)
 
 
 ### [clickhouse](https://github.com/labring-actions/cluster-image/tree/main/applications/clickhouse)
@@ -399,6 +402,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [csi-driver-nfs](https://github.com/labring-actions/cluster-image/tree/main/applications/csi-driver-nfs)
 
+- [docker.io/labring/csi-driver-nfs:v4.9.0](https://explore.ggcr.dev/?image=docker.io/labring/csi-driver-nfs:v4.9.0)
 - [docker.io/labring/csi-driver-nfs:v4.4.0](https://explore.ggcr.dev/?image=docker.io/labring/csi-driver-nfs:v4.4.0)
 - [docker.io/labring/csi-driver-nfs:v2.0.0](https://explore.ggcr.dev/?image=docker.io/labring/csi-driver-nfs:v2.0.0)
 
@@ -664,6 +668,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [helm](https://github.com/labring-actions/cluster-image/tree/main/applications/helm)
 
+- [docker.io/labring/helm:v3.16.2](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.16.2)
 - [docker.io/labring/helm:v3.15.4](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.15.4)
 - [docker.io/labring/helm:v3.14.1](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.14.1)
 - [docker.io/labring/helm:v3.14.0](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.14.0)
@@ -704,6 +709,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [higress](https://github.com/labring-actions/cluster-image/tree/main/applications/higress)
 
+- [docker.io/labring/higress:v2.0.3](https://explore.ggcr.dev/?image=docker.io/labring/higress:v2.0.3)
 - [docker.io/labring/higress:v2.0.1](https://explore.ggcr.dev/?image=docker.io/labring/higress:v2.0.1)
 - [docker.io/labring/higress:v2.0.0](https://explore.ggcr.dev/?image=docker.io/labring/higress:v2.0.0)
 - [docker.io/labring/higress:v2.0.0-rc.1](https://explore.ggcr.dev/?image=docker.io/labring/higress:v2.0.0-rc.1)
@@ -718,6 +724,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [ingress-nginx](https://github.com/labring-actions/cluster-image/tree/main/applications/ingress-nginx)
 
+- [docker.io/labring/ingress-nginx:v1.11.3](https://explore.ggcr.dev/?image=docker.io/labring/ingress-nginx:v1.11.3)
 - [docker.io/labring/ingress-nginx:v1.11.2](https://explore.ggcr.dev/?image=docker.io/labring/ingress-nginx:v1.11.2)
 - [docker.io/labring/ingress-nginx:v1.9.4](https://explore.ggcr.dev/?image=docker.io/labring/ingress-nginx:v1.9.4)
 - [docker.io/labring/ingress-nginx:v1.9.3](https://explore.ggcr.dev/?image=docker.io/labring/ingress-nginx:v1.9.3)
@@ -1183,6 +1190,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [neuvector](https://github.com/labring-actions/cluster-image/tree/main/applications/neuvector)
 
+- [docker.io/labring/neuvector:v5.4.0](https://explore.ggcr.dev/?image=docker.io/labring/neuvector:v5.4.0)
 - [docker.io/labring/neuvector:v5.1.0](https://explore.ggcr.dev/?image=docker.io/labring/neuvector:v5.1.0)
 
 
