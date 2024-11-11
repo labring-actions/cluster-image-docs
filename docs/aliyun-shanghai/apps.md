@@ -231,6 +231,7 @@ Here are the versions of the images along with their corresponding links:
 ### [calicoctl](https://github.com/labring-actions/cluster-image/tree/main/applications/calicoctl)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.28.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.28.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.27.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.27.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.27.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.27.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.26.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.26.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.26.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.26.1)
@@ -328,6 +329,7 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.11.11](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.11.11)
+- [registry.cn-shanghai.aliyuncs.com/labring/cilium:1.16.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:1.16.3)
 
 
 ### [clickhouse](https://github.com/labring-actions/cluster-image/tree/main/applications/clickhouse)
@@ -399,6 +401,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [csi-driver-nfs](https://github.com/labring-actions/cluster-image/tree/main/applications/csi-driver-nfs)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/csi-driver-nfs:v4.9.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/csi-driver-nfs:v4.9.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/csi-driver-nfs:v4.4.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/csi-driver-nfs:v4.4.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/csi-driver-nfs:v2.0.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/csi-driver-nfs:v2.0.0)
 
@@ -664,6 +667,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [helm](https://github.com/labring-actions/cluster-image/tree/main/applications/helm)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.16.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.16.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.15.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.15.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.14.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.14.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.14.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.14.0)
@@ -704,6 +708,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [higress](https://github.com/labring-actions/cluster-image/tree/main/applications/higress)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/higress:v2.0.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/higress:v2.0.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/higress:v2.0.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/higress:v2.0.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/higress:v2.0.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/higress:v2.0.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/higress:v2.0.0-rc.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/higress:v2.0.0-rc.1)
@@ -718,6 +723,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [ingress-nginx](https://github.com/labring-actions/cluster-image/tree/main/applications/ingress-nginx)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.11.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.11.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.11.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.11.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.9.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.9.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.9.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.9.3)
@@ -1183,6 +1189,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [neuvector](https://github.com/labring-actions/cluster-image/tree/main/applications/neuvector)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/neuvector:v5.4.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/neuvector:v5.4.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/neuvector:v5.1.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/neuvector:v5.1.0)
 
 
