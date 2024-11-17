@@ -766,6 +766,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-user-controller:v1alpha1](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-user-controller:v1alpha1)
 
 
+### [sealos-cloud-workorder-frontend](https://github.com/labring/sealos)
+
+- [docker.io/labring/sealos-cloud-workorder-frontend:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-workorder-frontend:latest)
+
+
 ### [sealos-patch](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-patch:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-patch:latest)
