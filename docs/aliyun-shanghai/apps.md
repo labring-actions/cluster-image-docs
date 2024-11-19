@@ -698,6 +698,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [helmfile](https://github.com/labring-actions/cluster-image/tree/main/applications/helmfile)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/helmfile:v0.169.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helmfile:v0.169.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/helmfile:v0.157.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helmfile:v0.157.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/helmfile:v0.156.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helmfile:v0.156.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/helmfile:v0.155.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helmfile:v0.155.0)

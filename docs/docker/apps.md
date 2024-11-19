@@ -698,6 +698,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [helmfile](https://github.com/labring-actions/cluster-image/tree/main/applications/helmfile)
 
+- [docker.io/labring/helmfile:v0.169.0](https://explore.ggcr.dev/?image=docker.io/labring/helmfile:v0.169.0)
 - [docker.io/labring/helmfile:v0.157.0](https://explore.ggcr.dev/?image=docker.io/labring/helmfile:v0.157.0)
 - [docker.io/labring/helmfile:v0.156.0](https://explore.ggcr.dev/?image=docker.io/labring/helmfile:v0.156.0)
 - [docker.io/labring/helmfile:v0.155.0](https://explore.ggcr.dev/?image=docker.io/labring/helmfile:v0.155.0)
