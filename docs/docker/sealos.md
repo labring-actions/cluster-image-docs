@@ -145,6 +145,11 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/sealos-cloud-admission-controller:v5.0.0-alpha2](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-admission-controller:v5.0.0-alpha2)
 
 
+### [sealos-cloud-aiproxy-service](https://github.com/labring/sealos)
+
+- [docker.io/labring/sealos-cloud-aiproxy-service:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-aiproxy-service:latest)
+
+
 ### [sealos-cloud-app-controller](https://github.com/labring/sealos)
 
 - [docker.io/labring/sealos-cloud-app-controller:latest](https://explore.ggcr.dev/?image=docker.io/labring/sealos-cloud-app-controller:latest)
