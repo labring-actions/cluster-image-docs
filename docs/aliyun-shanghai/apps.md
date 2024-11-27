@@ -40,6 +40,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [argo-workflows](https://github.com/labring-actions/cluster-image/tree/main/applications/argo-workflows)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.12](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.12)
 - [registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.8](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.8)
 - [registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/argo-workflows:v3.5.2)

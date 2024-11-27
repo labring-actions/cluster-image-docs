@@ -145,6 +145,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-admission-controller:v5.0.0-alpha2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-admission-controller:v5.0.0-alpha2)
 
 
+### [sealos-cloud-aiproxy-service](https://github.com/labring/sealos)
+
+
+
 ### [sealos-cloud-app-controller](https://github.com/labring/sealos)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-app-controller:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-app-controller:latest)
