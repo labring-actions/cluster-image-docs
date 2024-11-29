@@ -147,6 +147,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [sealos-cloud-aiproxy-service](https://github.com/labring/sealos)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-aiproxy-service:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-aiproxy-service:latest)
 
 
 ### [sealos-cloud-app-controller](https://github.com/labring/sealos)
