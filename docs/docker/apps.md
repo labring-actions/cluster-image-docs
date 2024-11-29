@@ -913,6 +913,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks-apecloud-mysql](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-apecloud-mysql)
 
+- [docker.io/labring/kubeblocks-apecloud-mysql:v0.9.2](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-apecloud-mysql:v0.9.2)
 - [docker.io/labring/kubeblocks-apecloud-mysql:v0.9.1](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-apecloud-mysql:v0.9.1)
 - [docker.io/labring/kubeblocks-apecloud-mysql:v0.9.0](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-apecloud-mysql:v0.9.0)
 - [docker.io/labring/kubeblocks-apecloud-mysql:v0.8.3](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-apecloud-mysql:v0.8.3)
@@ -929,6 +930,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks-kafka](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-kafka)
 
+- [docker.io/labring/kubeblocks-kafka:v0.9.2](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-kafka:v0.9.2)
 - [docker.io/labring/kubeblocks-kafka:v0.9.1](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-kafka:v0.9.1)
 - [docker.io/labring/kubeblocks-kafka:v0.9.0](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-kafka:v0.9.0)
 - [docker.io/labring/kubeblocks-kafka:v0.8.3](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-kafka:v0.8.3)
@@ -937,6 +939,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks-mongodb](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-mongodb)
 
+- [docker.io/labring/kubeblocks-mongodb:v0.9.2](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-mongodb:v0.9.2)
 - [docker.io/labring/kubeblocks-mongodb:v0.9.1](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-mongodb:v0.9.1)
 - [docker.io/labring/kubeblocks-mongodb:v0.9.0](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-mongodb:v0.9.0)
 - [docker.io/labring/kubeblocks-mongodb:v0.8.3](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-mongodb:v0.8.3)
@@ -945,6 +948,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks-postgresql](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-postgresql)
 
+- [docker.io/labring/kubeblocks-postgresql:v0.9.2](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-postgresql:v0.9.2)
 - [docker.io/labring/kubeblocks-postgresql:v0.9.1](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-postgresql:v0.9.1)
 - [docker.io/labring/kubeblocks-postgresql:v0.9.0](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-postgresql:v0.9.0)
 - [docker.io/labring/kubeblocks-postgresql:v0.8.3](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-postgresql:v0.8.3)
@@ -953,6 +957,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubeblocks-redis](https://github.com/labring-actions/cluster-image/tree/main/applications/kubeblocks-redis)
 
+- [docker.io/labring/kubeblocks-redis:v0.9.2](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-redis:v0.9.2)
 - [docker.io/labring/kubeblocks-redis:v0.9.1](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-redis:v0.9.1)
 - [docker.io/labring/kubeblocks-redis:v0.9.0](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-redis:v0.9.0)
 - [docker.io/labring/kubeblocks-redis:v0.8.3](https://explore.ggcr.dev/?image=docker.io/labring/kubeblocks-redis:v0.8.3)
