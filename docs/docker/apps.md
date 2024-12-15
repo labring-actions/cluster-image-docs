@@ -1253,6 +1253,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [oceanbase-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/oceanbase-operator)
 
+- [docker.io/labring/oceanbase-operator:v2.3.1](https://explore.ggcr.dev/?image=docker.io/labring/oceanbase-operator:v2.3.1)
 - [docker.io/labring/oceanbase-operator:v2.2.1](https://explore.ggcr.dev/?image=docker.io/labring/oceanbase-operator:v2.2.1)
 
 
