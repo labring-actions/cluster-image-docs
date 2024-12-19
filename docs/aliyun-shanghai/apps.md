@@ -567,6 +567,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [fluent-bit](https://github.com/labring-actions/cluster-image/tree/main/applications/fluent-bit)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/fluent-bit:v3.2.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/fluent-bit:v3.2.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/fluent-bit:v2.1.10](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/fluent-bit:v2.1.10)
 - [registry.cn-shanghai.aliyuncs.com/labring/fluent-bit:v2.0.11](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/fluent-bit:v2.0.11)
 - [registry.cn-shanghai.aliyuncs.com/labring/fluent-bit:v1.9.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/fluent-bit:v1.9.9)
