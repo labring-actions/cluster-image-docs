@@ -567,6 +567,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [fluent-bit](https://github.com/labring-actions/cluster-image/tree/main/applications/fluent-bit)
 
+- [docker.io/labring/fluent-bit:v3.2.2](https://explore.ggcr.dev/?image=docker.io/labring/fluent-bit:v3.2.2)
 - [docker.io/labring/fluent-bit:v2.1.10](https://explore.ggcr.dev/?image=docker.io/labring/fluent-bit:v2.1.10)
 - [docker.io/labring/fluent-bit:v2.0.11](https://explore.ggcr.dev/?image=docker.io/labring/fluent-bit:v2.0.11)
 - [docker.io/labring/fluent-bit:v1.9.9](https://explore.ggcr.dev/?image=docker.io/labring/fluent-bit:v1.9.9)
