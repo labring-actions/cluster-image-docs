@@ -1578,9 +1578,11 @@ Here are the versions of the images along with their corresponding links:
 
 ### [uptime-kuma](https://github.com/labring-actions/cluster-image/tree/main/applications/uptime-kuma)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:2.0.0-beta.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:2.0.0-beta.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.15](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.15)
 - [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.11](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.11)
 - [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/uptime-kuma:1.23.0)
