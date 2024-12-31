@@ -715,6 +715,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [higress](https://github.com/labring-actions/cluster-image/tree/main/applications/higress)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/higress:v2.0.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/higress:v2.0.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/higress:v2.0.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/higress:v2.0.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/higress:v2.0.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/higress:v2.0.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/higress:v2.0.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/higress:v2.0.0)
