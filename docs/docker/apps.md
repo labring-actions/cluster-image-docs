@@ -348,6 +348,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cni-plugins](https://github.com/labring-actions/cluster-image/tree/main/applications/cni-plugins)
 
+- [docker.io/labring/cni-plugins:v1.6.2](https://explore.ggcr.dev/?image=docker.io/labring/cni-plugins:v1.6.2)
 - [docker.io/labring/cni-plugins:v1.5.1](https://explore.ggcr.dev/?image=docker.io/labring/cni-plugins:v1.5.1)
 - [docker.io/labring/cni-plugins:v1.4.0](https://explore.ggcr.dev/?image=docker.io/labring/cni-plugins:v1.4.0)
 - [docker.io/labring/cni-plugins:v1.3.0](https://explore.ggcr.dev/?image=docker.io/labring/cni-plugins:v1.3.0)
