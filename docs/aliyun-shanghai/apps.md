@@ -348,6 +348,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cni-plugins](https://github.com/labring-actions/cluster-image/tree/main/applications/cni-plugins)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/cni-plugins:v1.6.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cni-plugins:v1.6.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/cni-plugins:v1.5.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cni-plugins:v1.5.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/cni-plugins:v1.4.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cni-plugins:v1.4.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/cni-plugins:v1.3.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cni-plugins:v1.3.0)
