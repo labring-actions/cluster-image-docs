@@ -1075,7 +1075,9 @@ Here are the versions of the images along with their corresponding links:
 
 ### [longhorn](https://github.com/labring-actions/cluster-image/tree/main/applications/longhorn)
 
+- [docker.io/labring/longhorn:v1.8.0](https://explore.ggcr.dev/?image=docker.io/labring/longhorn:v1.8.0)
 - [docker.io/labring/longhorn:v1.7.2](https://explore.ggcr.dev/?image=docker.io/labring/longhorn:v1.7.2)
+- [docker.io/labring/longhorn:v1.6.4](https://explore.ggcr.dev/?image=docker.io/labring/longhorn:v1.6.4)
 - [docker.io/labring/longhorn:v1.6.1](https://explore.ggcr.dev/?image=docker.io/labring/longhorn:v1.6.1)
 - [docker.io/labring/longhorn:v1.6.0](https://explore.ggcr.dev/?image=docker.io/labring/longhorn:v1.6.0)
 - [docker.io/labring/longhorn:v1.5.4](https://explore.ggcr.dev/?image=docker.io/labring/longhorn:v1.5.4)
