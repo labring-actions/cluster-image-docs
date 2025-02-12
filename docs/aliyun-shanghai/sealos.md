@@ -771,6 +771,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-user-controller:v1alpha1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-user-controller:v1alpha1)
 
 
+### [sealos-cloud-vlogs-service](https://github.com/labring/sealos)
+
+
+
 ### [sealos-cloud-workorder-frontend](https://github.com/labring/sealos)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-workorder-frontend:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-workorder-frontend:latest)
