@@ -303,6 +303,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/cilium:v1.16.0](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.16.0)
 - [docker.io/labring/cilium:v1.15.8](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.15.8)
 - [docker.io/labring/cilium:v1.15.5](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.15.5)
+- [docker.io/labring/cilium:v1.14.19](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.19)
 - [docker.io/labring/cilium:v1.14.14](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.14)
 - [docker.io/labring/cilium:v1.14.13](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.13)
 - [docker.io/labring/cilium:v1.14.12](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.14.12)
