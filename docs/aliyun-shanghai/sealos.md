@@ -773,6 +773,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [sealos-cloud-vlogs-service](https://github.com/labring/sealos)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-vlogs-service:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-vlogs-service:latest)
 
 
 ### [sealos-cloud-workorder-frontend](https://github.com/labring/sealos)
