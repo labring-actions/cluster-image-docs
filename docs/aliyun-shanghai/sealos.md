@@ -425,6 +425,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-devbox-frontend:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-devbox-frontend:latest)
 
 
+### [sealos-cloud-devbox-service](https://github.com/labring/sealos)
+
+
+
 ### [sealos-cloud-imagehub-controller](https://github.com/labring/sealos)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:latest](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/sealos-cloud-imagehub-controller:latest)
