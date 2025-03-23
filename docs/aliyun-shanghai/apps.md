@@ -1491,6 +1491,7 @@ Here are the versions of the images along with their corresponding links:
 ### [seaweedfs](https://github.com/labring-actions/cluster-image/tree/main/applications/seaweedfs)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:v3.67](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:v3.67)
+- [registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.85](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.85)
 - [registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.62.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.62.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.60.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.60.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.59.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/seaweedfs:3.59.4)
