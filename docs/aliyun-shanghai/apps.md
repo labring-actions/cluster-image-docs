@@ -739,6 +739,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [ingress-nginx](https://github.com/labring-actions/cluster-image/tree/main/applications/ingress-nginx)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.12.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.12.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.11.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.11.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.11.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.11.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.9.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.9.4)
