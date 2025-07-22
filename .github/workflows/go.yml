@@ -33,4 +33,4 @@ jobs:
         uses: goreleaser/goreleaser-action@v1
         with:
           version: latest
-          args: build --snapshot --rm-dist  --timeout=1h
+          args: build --snapshot  --timeout=1h
