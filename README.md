@@ -11,13 +11,6 @@ Welcome to the Cluster Image Documentation repository! This repository contains 
 - [Laf Image](docs/docker/laf.md)
 - [App Image](docs/docker/apps.md)
 
-### Aliyun Shanghai Images
-
-- [Rootfs Image](docs/aliyun-shanghai/rootfs.md)
-- [Sealos Image](docs/aliyun-shanghai/sealos.md)
-- [Laf Image](docs/aliyun-shanghai/laf.md)
-- [App Image](docs/aliyun-shanghai/apps.md)
-
 Please navigate to the above links to access the detailed documentation for each image category.
 
 ## Contributing

@@ -24,9 +24,7 @@ jobs:
           /tmp/cluster-image-docs
       - name: auto generator by aliyun
         run: |
-          export SYNC_DIR=docs/aliyun-shanghai
-          export SYNC_HUB=registry.cn-shanghai.aliyuncs.com/labring
-          /tmp/cluster-image-docs
+          rm -rf docs/aliyun-shanghai
       - uses: peter-evans/create-pull-request@v7
         with:
           title: 'workflow: Automated Workflow Update for ${{steps.get-current-tag.outputs.tag }}'
