@@ -432,36 +432,37 @@ Here are the versions of the images along with their corresponding links:
 ### [deepflow](https://github.com/labring-actions/cluster-image/tree/main/applications/deepflow)
 
 - [docker.io/labring/deepflow:latest](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:latest)
-- [docker.io/labring/deepflow:v6.3.3](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.3.3)
+- [docker.io/labring/deepflow:v6.2.6](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.2.6)
+- [docker.io/labring/deepflow:6.1.2](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:6.1.2)
 - [docker.io/labring/deepflow:v6.6.6](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.6.6)
 - [docker.io/labring/deepflow:v6.5.4](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.5.4)
 - [docker.io/labring/deepflow:6.1.5](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:6.1.5)
-- [docker.io/labring/deepflow:6.1.2](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:6.1.2)
+- [docker.io/labring/deepflow:v7.0.6](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v7.0.6)
 - [docker.io/labring/deepflow:v6.5](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.5)
 - [docker.io/labring/deepflow:v6.3.5](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.3.5)
 - [docker.io/labring/deepflow:6.1.4](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:6.1.4)
 - [docker.io/labring/deepflow:v6.2.0](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.2.0)
 - [docker.io/labring/deepflow:v6.1.7](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.1.7)
 - [docker.io/labring/deepflow:v6.4.9](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.4.9)
-- [docker.io/labring/deepflow:v6.2.6](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.2.6)
+- [docker.io/labring/deepflow:v6.2.5](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.2.5)
 - [docker.io/labring/deepflow:6.1.6](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:6.1.6)
 - [docker.io/labring/deepflow:v6.3.7](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.3.7)
 - [docker.io/labring/deepflow:v6.6](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.6)
 - [docker.io/labring/deepflow:v6.3.6](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.3.6)
 - [docker.io/labring/deepflow:v6.1.8](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.1.8)
 - [docker.io/labring/deepflow:v6.2.1](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.2.1)
-- [docker.io/labring/deepflow:v7.0.3](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v7.0.3)
+- [docker.io/labring/deepflow:v6.6.7](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.6.7)
 - [docker.io/labring/deepflow:v6.1.1](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.1.1)
 - [docker.io/labring/deepflow:v6.3.9](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.3.9)
-- [docker.io/labring/deepflow:v6.6.8](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.6.8)
+- [docker.io/labring/deepflow:v7.0.3](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v7.0.3)
 - [docker.io/labring/deepflow:v6.2.4](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.2.4)
 - [docker.io/labring/deepflow:v6.6.4](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.6.4)
 - [docker.io/labring/deepflow:v6.2.2](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.2.2)
-- [docker.io/labring/deepflow:v6.6.7](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.6.7)
+- [docker.io/labring/deepflow:v6.3.3](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.3.3)
 - [docker.io/labring/deepflow:stable](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:stable)
 - [docker.io/labring/deepflow:v6.4.3](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.4.3)
 - [docker.io/labring/deepflow:v6.2.3](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.2.3)
-- [docker.io/labring/deepflow:v6.2.5](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.2.5)
+- [docker.io/labring/deepflow:v6.6.8](https://explore.ggcr.dev/?image=docker.io/labring/deepflow:v6.6.8)
 
 
 ### [descheduler](https://github.com/labring-actions/cluster-image/tree/main/applications/descheduler)
@@ -1158,6 +1159,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [minio](https://github.com/labring-actions/cluster-image/tree/main/applications/minio)
 
+- [docker.io/labring/minio:RELEASE.2024-12-18T13-15-44Z](https://explore.ggcr.dev/?image=docker.io/labring/minio:RELEASE.2024-12-18T13-15-44Z)
 - [docker.io/labring/minio:RELEASE.2024-03-21T23-13-43Z](https://explore.ggcr.dev/?image=docker.io/labring/minio:RELEASE.2024-03-21T23-13-43Z)
 - [docker.io/labring/minio:RELEASE.2024-01-11T07-46-16Z](https://explore.ggcr.dev/?image=docker.io/labring/minio:RELEASE.2024-01-11T07-46-16Z)
 - [docker.io/labring/minio:RELEASE.2023-10-07T15-07-38Z](https://explore.ggcr.dev/?image=docker.io/labring/minio:RELEASE.2023-10-07T15-07-38Z)
@@ -1564,6 +1566,11 @@ Here are the versions of the images along with their corresponding links:
 ### [telepresence](https://github.com/labring-actions/cluster-image/tree/main/applications/telepresence)
 
 - [docker.io/labring/telepresence:2.11.0](https://explore.ggcr.dev/?image=docker.io/labring/telepresence:2.11.0)
+
+
+### [terminal](https://github.com/labring-actions/cluster-image/tree/main/applications/terminal)
+
+- [docker.io/labring/terminal:1.24.3-1](https://explore.ggcr.dev/?image=docker.io/labring/terminal:1.24.3-1)
 
 
 ### [tidb-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/tidb-operator)

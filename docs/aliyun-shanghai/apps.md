@@ -1566,6 +1566,10 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/telepresence:2.11.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/telepresence:2.11.0)
 
 
+### [terminal](https://github.com/labring-actions/cluster-image/tree/main/applications/terminal)
+
+
+
 ### [tidb-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/tidb-operator)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/tidb-operator:v1.5.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/tidb-operator:v1.5.1)
