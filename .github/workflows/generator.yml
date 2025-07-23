@@ -8,7 +8,7 @@ jobs:
   generator:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
       issues: write
       pull-requests: write
     steps:
@@ -27,7 +27,7 @@ jobs:
           export SYNC_DIR=docs/aliyun-shanghai
           export SYNC_HUB=registry.cn-shanghai.aliyuncs.com/labring
           /tmp/cluster-image-docs
-      - uses: peter-evans/create-pull-request@v5
+      - uses: peter-evans/create-pull-request@v7
         with:
           title: 'workflow: Automated Workflow Update for ${{steps.get-current-tag.outputs.tag }}'
           body: |
@@ -42,5 +42,3 @@ jobs:
           reviewers: cuisongliu
           branch-suffix: short-commit-hash
           labels: sync-docs
-          committer: sealos-ci-robot <sealos-ci-robot@sealos.io>
-          author: sealos-ci-robot <sealos-ci-robot@sealos.io>
