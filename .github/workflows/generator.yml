@@ -1,16 +1,16 @@
 name: Generator
 
 on:
-  permissions:
-    contents: read
-    issues: write
-    pull-requests: write
   workflow_dispatch:
   schedule:
     - cron: '0 8 * * *'
 jobs:
   generator:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+      pull-requests: write
     steps:
       - name: Checkout
         uses: actions/checkout@v3
