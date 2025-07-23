@@ -38,7 +38,6 @@ jobs:
           base: main
           signoff: true
           delete-branch: true
-          token: ${{ secrets.GITHUB_TOKEN }}
           reviewers: cuisongliu
           branch-suffix: short-commit-hash
           labels: sync-docs
