@@ -1,6 +1,10 @@
 name: Generator
 
 on:
+  permissions:
+    contents: read
+    issues: write
+    pull-requests: write
   workflow_dispatch:
   schedule:
     - cron: '0 8 * * *'
@@ -34,7 +38,7 @@ jobs:
           base: main
           signoff: true
           delete-branch: true
-          token: ${{ secrets.GH_PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           reviewers: cuisongliu
           branch-suffix: short-commit-hash
           labels: sync-docs
