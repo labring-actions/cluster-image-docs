@@ -59,6 +59,15 @@ func (r *other) Generator(dir string) error {
 		return err
 	}
 	defer f.Close()
+	td := &other{}
+	td.Type = r.Type
+	td.Repo = r.Repo
+	td.Registry = r.Registry
+	for _, data := range r.Data {
+		if len(data.Tags) > 0 {
+			td.Data = append(td.Data, data)
+		}
+	}
 	t := template.Must(template.New("markdown").Parse(otherTemplate))
 	err = t.Execute(f, r)
 	if err != nil {
