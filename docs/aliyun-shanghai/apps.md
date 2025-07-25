@@ -750,10 +750,6 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/iomesh:v1.0.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/iomesh:v1.0.1)
 
 
-### [istio](https://github.com/labring-actions/cluster-image/tree/main/applications/istio)
-
-
-
 ### [istio-base](https://github.com/labring-actions/cluster-image/tree/main/applications/istio-base)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/istio-base:v1.22.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/istio-base:v1.22.1)
@@ -1150,10 +1146,6 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/minio:RELEASE.2023-07-07T07-13-57Z](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio:RELEASE.2023-07-07T07-13-57Z)
 - [registry.cn-shanghai.aliyuncs.com/labring/minio:2022.5.9-debian-10-r13](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio:2022.5.9-debian-10-r13)
 - [registry.cn-shanghai.aliyuncs.com/labring/minio:2021.6.17-debian-10-r38](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio:2021.6.17-debian-10-r38)
-
-
-### [minio-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/minio-operator)
-
 
 
 ### [mongodb-community-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/mongodb-community-operator)
