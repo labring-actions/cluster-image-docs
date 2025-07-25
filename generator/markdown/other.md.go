@@ -69,7 +69,7 @@ func (r *other) Generator(dir string) error {
 		}
 	}
 	t := template.Must(template.New("markdown").Parse(otherTemplate))
-	err = t.Execute(f, r)
+	err = t.Execute(f, td)
 	if err != nil {
 		return err
 	}
