@@ -741,6 +741,12 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.12.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.12.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.11.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.11.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.11.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.11.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.9.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.9.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.8.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.8.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.8.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.8.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.7.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.7.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.7.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.7.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.6.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.6.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.5.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.5.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:4.1.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:4.1.0)
 
