@@ -741,6 +741,7 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.12.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.12.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.11.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.11.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.11.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.11.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.9.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.9.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.9.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.9.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.8.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.8.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.8.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.8.0)
@@ -1152,6 +1153,15 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/minio:RELEASE.2023-07-07T07-13-57Z](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio:RELEASE.2023-07-07T07-13-57Z)
 - [registry.cn-shanghai.aliyuncs.com/labring/minio:2022.5.9-debian-10-r13](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio:2022.5.9-debian-10-r13)
 - [registry.cn-shanghai.aliyuncs.com/labring/minio:2021.6.17-debian-10-r38](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio:2021.6.17-debian-10-r38)
+
+
+### [minio-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/minio-operator)
+
+- [registry.cn-shanghai.aliyuncs.com/labring/minio-operator:v5.0.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio-operator:v5.0.6)
+- [registry.cn-shanghai.aliyuncs.com/labring/minio-operator:v4.5.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio-operator:v4.5.5)
+- [registry.cn-shanghai.aliyuncs.com/labring/minio-operator:v4.5.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio-operator:v4.5.4)
+- [registry.cn-shanghai.aliyuncs.com/labring/minio-operator:v4.5.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio-operator:v4.5.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/minio-operator:v4.4.16](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/minio-operator:v4.4.16)
 
 
 ### [mongodb-community-operator](https://github.com/labring-actions/cluster-image/tree/main/applications/mongodb-community-operator)
