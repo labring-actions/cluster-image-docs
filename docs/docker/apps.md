@@ -251,6 +251,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cert-manager](https://github.com/labring-actions/cluster-image/tree/main/applications/cert-manager)
 
+- [docker.io/labring/cert-manager:v1.17.1](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.17.1)
 - [docker.io/labring/cert-manager:v1.16.1](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.16.1)
 - [docker.io/labring/cert-manager:v1.15.0](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.15.0)
 - [docker.io/labring/cert-manager:v1.14.6](https://explore.ggcr.dev/?image=docker.io/labring/cert-manager:v1.14.6)
