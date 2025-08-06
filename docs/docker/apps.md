@@ -333,9 +333,17 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/cilium:v1.12.1](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.12.1)
 - [docker.io/labring/cilium:v1.12.0](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.12.0)
 - [docker.io/labring/cilium:v1.11.11](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.11.11)
+- [docker.io/labring/cilium:1.18.0](https://explore.ggcr.dev/?image=docker.io/labring/cilium:1.18.0)
+- [docker.io/labring/cilium:1.17.6](https://explore.ggcr.dev/?image=docker.io/labring/cilium:1.17.6)
 - [docker.io/labring/cilium:1.16.6](https://explore.ggcr.dev/?image=docker.io/labring/cilium:1.16.6)
 - [docker.io/labring/cilium:1.16.3](https://explore.ggcr.dev/?image=docker.io/labring/cilium:1.16.3)
+- [docker.io/labring/cilium:1.16.12](https://explore.ggcr.dev/?image=docker.io/labring/cilium:1.16.12)
+- [docker.io/labring/cilium:1.15.19](https://explore.ggcr.dev/?image=docker.io/labring/cilium:1.15.19)
 - [docker.io/labring/cilium:1.15.13](https://explore.ggcr.dev/?image=docker.io/labring/cilium:1.15.13)
+- [docker.io/labring/cilium:1.14.19](https://explore.ggcr.dev/?image=docker.io/labring/cilium:1.14.19)
+- [docker.io/labring/cilium:1.13.18](https://explore.ggcr.dev/?image=docker.io/labring/cilium:1.13.18)
+- [docker.io/labring/cilium:1.12.19](https://explore.ggcr.dev/?image=docker.io/labring/cilium:1.12.19)
+- [docker.io/labring/cilium:1.11.20](https://explore.ggcr.dev/?image=docker.io/labring/cilium:1.11.20)
 
 
 ### [clickhouse](https://github.com/labring-actions/cluster-image/tree/main/applications/clickhouse)
@@ -680,6 +688,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [helm](https://github.com/labring-actions/cluster-image/tree/main/applications/helm)
 
+- [docker.io/labring/helm:v3.18.4](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.18.4)
+- [docker.io/labring/helm:v3.17.4](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.17.4)
 - [docker.io/labring/helm:v3.17.1](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.17.1)
 - [docker.io/labring/helm:v3.16.2](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.16.2)
 - [docker.io/labring/helm:v3.15.4](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.15.4)
@@ -702,6 +712,18 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/helm:v3.10.0](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.10.0)
 - [docker.io/labring/helm:v3.9.4](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.9.4)
 - [docker.io/labring/helm:v3.8.2](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.8.2)
+- [docker.io/labring/helm:v3.7.2](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.7.2)
+- [docker.io/labring/helm:v3.6.3](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.6.3)
+- [docker.io/labring/helm:v3.5.4](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.5.4)
+- [docker.io/labring/helm:v3.4.2](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.4.2)
+- [docker.io/labring/helm:v3.3.4](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.3.4)
+- [docker.io/labring/helm:v3.2.4](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.2.4)
+- [docker.io/labring/helm:v3.1.3](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.1.3)
+- [docker.io/labring/helm:v3.0.3](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.0.3)
+- [docker.io/labring/helm:v2.17.0](https://explore.ggcr.dev/?image=docker.io/labring/helm:v2.17.0)
+- [docker.io/labring/helm:v2.16.12](https://explore.ggcr.dev/?image=docker.io/labring/helm:v2.16.12)
+- [docker.io/labring/helm:v2.15.2](https://explore.ggcr.dev/?image=docker.io/labring/helm:v2.15.2)
+- [docker.io/labring/helm:v2.14.3](https://explore.ggcr.dev/?image=docker.io/labring/helm:v2.14.3)
 
 
 ### [helm-dashboard](https://github.com/labring-actions/cluster-image/tree/main/applications/helm-dashboard)
