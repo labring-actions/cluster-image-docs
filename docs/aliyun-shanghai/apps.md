@@ -332,9 +332,17 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.12.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.11.11](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.11.11)
+- [registry.cn-shanghai.aliyuncs.com/labring/cilium:1.18.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:1.18.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/cilium:1.17.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:1.17.6)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:1.16.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:1.16.6)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:1.16.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:1.16.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/cilium:1.16.12](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:1.16.12)
+- [registry.cn-shanghai.aliyuncs.com/labring/cilium:1.15.19](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:1.15.19)
 - [registry.cn-shanghai.aliyuncs.com/labring/cilium:1.15.13](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:1.15.13)
+- [registry.cn-shanghai.aliyuncs.com/labring/cilium:1.14.19](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:1.14.19)
+- [registry.cn-shanghai.aliyuncs.com/labring/cilium:1.13.18](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:1.13.18)
+- [registry.cn-shanghai.aliyuncs.com/labring/cilium:1.12.19](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:1.12.19)
+- [registry.cn-shanghai.aliyuncs.com/labring/cilium:1.11.20](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cilium:1.11.20)
 
 
 ### [clickhouse](https://github.com/labring-actions/cluster-image/tree/main/applications/clickhouse)
@@ -677,6 +685,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [helm](https://github.com/labring-actions/cluster-image/tree/main/applications/helm)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.18.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.18.4)
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.17.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.17.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.17.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.17.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.16.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.16.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.15.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.15.4)
@@ -699,6 +709,16 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.10.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.10.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.9.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.9.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.8.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.5.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.5.4)
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.4.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.4.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.3.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.3.4)
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.2.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.2.4)
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.1.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.1.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.0.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.0.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v2.17.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v2.17.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v2.16.12](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v2.16.12)
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v2.15.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v2.15.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v2.14.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v2.14.3)
 
 
 ### [helm-dashboard](https://github.com/labring-actions/cluster-image/tree/main/applications/helm-dashboard)
