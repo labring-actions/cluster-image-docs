@@ -533,6 +533,8 @@ Here are the versions of the images along with their corresponding links:
 
 ### [flannel](https://github.com/labring-actions/cluster-image/tree/main/applications/flannel)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.26.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.26.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.25.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.25.7)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.25.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.25.6)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.25.5](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.25.5)
 - [registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.25.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/flannel:v0.25.4)
