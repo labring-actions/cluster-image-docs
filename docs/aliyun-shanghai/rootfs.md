@@ -301,6 +301,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [kubernetes-crio](https://github.com/kubernetes/kubernetes)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.31.11](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.31.11)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.31.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.31.9)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.31.8](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.31.8)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.31.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.31.7)
@@ -311,6 +312,7 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.31.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.31.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.31.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.31.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.31.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.31.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.30.14](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.30.14)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.30.13](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.30.13)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.30.12](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.30.12)
 - [registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.30.11](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/kubernetes-crio:v1.30.11)
