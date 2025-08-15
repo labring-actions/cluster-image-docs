@@ -251,6 +251,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cert-manager](https://github.com/labring-actions/cluster-image/tree/main/applications/cert-manager)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.17.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.17.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.16.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.16.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.15.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.15.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.14.6](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.14.6)
