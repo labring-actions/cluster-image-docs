@@ -780,6 +780,15 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/iomesh:v1.0.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/iomesh:v1.0.1)
 
 
+### [istio](https://github.com/labring-actions/cluster-image/tree/main/applications/istio)
+
+- [registry.cn-shanghai.aliyuncs.com/labring/istio:v1.20.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/istio:v1.20.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/istio:v1.14.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/istio:v1.14.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/istio:1.16.2-min](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/istio:1.16.2-min)
+- [registry.cn-shanghai.aliyuncs.com/labring/istio:1.16.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/istio:1.16.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/istio:1.15.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/istio:1.15.1)
+
+
 ### [istio-base](https://github.com/labring-actions/cluster-image/tree/main/applications/istio-base)
 
 - [registry.cn-shanghai.aliyuncs.com/labring/istio-base:v1.22.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/istio-base:v1.22.1)
@@ -1134,8 +1143,11 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.14.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.14.9)
 - [registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.14.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.14.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.14.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.14.3)
+- [registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.13.12](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.13.12)
+- [registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.13.10](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.13.10)
 - [registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.13.9](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.13.9)
 - [registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.13.7](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.13.7)
+- [registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.13.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/metallb:v0.13.4)
 
 
 ### [metrics-server](https://github.com/labring-actions/cluster-image/tree/main/applications/metrics-server)
