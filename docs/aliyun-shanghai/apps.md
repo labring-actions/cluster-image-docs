@@ -712,6 +712,8 @@ Here are the versions of the images along with their corresponding links:
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.10.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.10.0)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.9.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.9.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.8.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.8.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.7.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.7.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.6.3](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.6.3)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.5.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.5.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.4.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.4.2)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.3.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.3.4)
