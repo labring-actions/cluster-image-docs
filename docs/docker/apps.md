@@ -300,6 +300,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cilium](https://github.com/labring-actions/cluster-image/tree/main/applications/cilium)
 
+- [docker.io/labring/cilium:v1.17.1](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.17.1)
 - [docker.io/labring/cilium:v1.16.1](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.16.1)
 - [docker.io/labring/cilium:v1.16.0](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.16.0)
 - [docker.io/labring/cilium:v1.15.8](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.15.8)
@@ -336,6 +337,7 @@ Here are the versions of the images along with their corresponding links:
 - [docker.io/labring/cilium:1.18.1](https://explore.ggcr.dev/?image=docker.io/labring/cilium:1.18.1)
 - [docker.io/labring/cilium:1.18.0](https://explore.ggcr.dev/?image=docker.io/labring/cilium:1.18.0)
 - [docker.io/labring/cilium:1.17.6](https://explore.ggcr.dev/?image=docker.io/labring/cilium:1.17.6)
+- [docker.io/labring/cilium:1.17.1](https://explore.ggcr.dev/?image=docker.io/labring/cilium:1.17.1)
 - [docker.io/labring/cilium:1.16.6](https://explore.ggcr.dev/?image=docker.io/labring/cilium:1.16.6)
 - [docker.io/labring/cilium:1.16.3](https://explore.ggcr.dev/?image=docker.io/labring/cilium:1.16.3)
 - [docker.io/labring/cilium:1.16.12](https://explore.ggcr.dev/?image=docker.io/labring/cilium:1.16.12)
