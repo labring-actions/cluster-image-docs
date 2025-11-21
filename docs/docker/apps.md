@@ -301,6 +301,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cilium](https://github.com/labring-actions/cluster-image/tree/main/applications/cilium)
 
+- [docker.io/labring/cilium:v1.18.4](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.18.4)
 - [docker.io/labring/cilium:v1.17.1](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.17.1)
 - [docker.io/labring/cilium:v1.16.1](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.16.1)
 - [docker.io/labring/cilium:v1.16.0](https://explore.ggcr.dev/?image=docker.io/labring/cilium:v1.16.0)
@@ -692,6 +693,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [helm](https://github.com/labring-actions/cluster-image/tree/main/applications/helm)
 
+- [docker.io/labring/helm:v4.0.0](https://explore.ggcr.dev/?image=docker.io/labring/helm:v4.0.0)
 - [docker.io/labring/helm:v3.19.1](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.19.1)
 - [docker.io/labring/helm:v3.18.4](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.18.4)
 - [docker.io/labring/helm:v3.17.4](https://explore.ggcr.dev/?image=docker.io/labring/helm:v3.17.4)
