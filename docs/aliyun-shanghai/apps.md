@@ -251,6 +251,7 @@ Here are the versions of the images along with their corresponding links:
 
 ### [cert-manager](https://github.com/labring-actions/cluster-image/tree/main/applications/cert-manager)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.19.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.19.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.17.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.17.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.16.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.16.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.15.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/cert-manager:v1.15.0)
@@ -691,6 +692,10 @@ Here are the versions of the images along with their corresponding links:
 
 ### [helm](https://github.com/labring-actions/cluster-image/tree/main/applications/helm)
 
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v4.0.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v4.0.1)
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v4.0.0](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v4.0.0)
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.19.2](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.19.2)
+- [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.19.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.19.1)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.18.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.18.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.17.4](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.17.4)
 - [registry.cn-shanghai.aliyuncs.com/labring/helm:v3.17.1](https://explore.ggcr.dev/?image=registry.cn-shanghai.aliyuncs.com/labring/helm:v3.17.1)
